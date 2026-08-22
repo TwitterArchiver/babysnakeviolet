@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-22T18:56:00",
+  "last_updated": "2026-08-22T18:59:01",
   "html": {
     "https://web.archive.org/web/20250713132307if_/https://twitter.com/BabysnakeViolet/status/1944387114780574131": {
       "status": "done",
@@ -12724,23 +12724,23 @@
   },
   "videos": {
     "https://video.twimg.com/ext_tw_video/1944312032918126592/pu/vid/avc1/464x824/I_Y2wocJ1wDnAtvb.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250713132307_twitter_com_BabysnakeViolet_status_1944387114780574131.json"
       ],
-      "last_updated": "2026-08-22T18:02:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250713132307/https://video.twimg.com/ext_tw_video/1944312032918126592/pu/vid/avc1/464x824/I_Y2wocJ1wDnAtvb.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe1489042f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:22",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250713132307/https://video.twimg.com/ext_tw_video/1944312032918126592/pu/vid/avc1/464x824/I_Y2wocJ1wDnAtvb.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1948697654722265093/pu/vid/avc1/720x1280/qtlzJEgm2Mjuyh8d.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250725105154_twitter_com_BabysnakeViolet_status_1948697712976871663.json",
         "20250725105259_twitter_com_BabysnakeViolet_status_1948697983635390770.json"
       ],
-      "last_updated": "2026-08-22T18:03:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250725105154im_/https://video.twimg.com/ext_tw_video/1948697654722265093/pu/vid/avc1/720x1280/qtlzJEgm2Mjuyh8d.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe149adb350>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-22T18:56:26",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250725105154/https://video.twimg.com/ext_tw_video/1948697654722265093/pu/vid/avc1/720x1280/qtlzJEgm2Mjuyh8d.mp4?tag=12",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1948415996555120640/vid/avc1/716x402/g4Rhp0jaF1YvgNz8.mp4": {
       "status": "done",
@@ -12765,13 +12765,13 @@
       "last_updated": "2026-08-22T18:02:43"
     },
     "https://video.twimg.com/tweet_video/G20TDyeaMAAB_u-.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251009120146_twitter_com_BabysnakeViolet_status_1976256774434062499.json"
       ],
-      "last_updated": "2026-08-22T18:03:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251009120146/https://video.twimg.com/tweet_video/G20TDyeaMAAB_u-.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148906d20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:28",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251009120146/https://video.twimg.com/tweet_video/G20TDyeaMAAB_u-.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G20QxpNXkAAvwnG.mp4": {
       "status": "done",
@@ -12792,18 +12792,18 @@
       "referenced_by": [
         "20251009172011_twitter_com_BabysnakeViolet_status_1976336905521471582.json"
       ],
-      "last_updated": "2026-08-22T18:03:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251009172011im_/https://video.twimg.com/ext_tw_video/1976281796477382656/pu/vid/avc1/720x1280/gCZRHl_OIifi4gCt.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148906e10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251009172011im_/https://video.twimg.com/ext_tw_video/1976281796477382656/pu/vid/avc1/720x1280/gCZRHl_OIifi4gCt.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7cef60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G22oKltbkAAjaTl.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251009225313_twitter_com_BabysnakeViolet_status_1976420717198819472.json"
       ],
-      "last_updated": "2026-08-22T18:03:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251009225313/https://video.twimg.com/tweet_video/G22oKltbkAAjaTl.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe1489780e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251009225313if_/https://video.twimg.com/tweet_video/G22oKltbkAAjaTl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f79e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/G22pxHMXMAArseU.mp4": {
       "status": "done",
@@ -12845,9 +12845,9 @@
       "referenced_by": [
         "20251029131839_twitter_com_BabysnakeViolet_status_1983523877373559288.json"
       ],
-      "last_updated": "2026-08-22T18:03:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029131839im_/https://video.twimg.com/amplify_video/1982852091019190276/vid/avc1/720x950/1JNCrkc-pEs-U0ss.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe1489055e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029131839im_/https://video.twimg.com/amplify_video/1982852091019190276/vid/avc1/720x950/1JNCrkc-pEs-U0ss.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f5c10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1983470868429979648/pu/vid/avc1/720x1280/ru4zHDVNkwXuJ4_S.mp4?tag=12": {
       "status": "done",
@@ -12861,9 +12861,9 @@
       "referenced_by": [
         "20251029184409_twitter_com_BabysnakeViolet_status_1983605795821646323.json"
       ],
-      "last_updated": "2026-08-22T18:03:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029184409/https://video.twimg.com/ext_tw_video/1983588017232093184/pu/vid/avc1/720x1280/tT6mQHp-8ABeIaWO.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe1489787a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251029184409im_/https://video.twimg.com/ext_tw_video/1983588017232093184/pu/vid/avc1/720x1280/tT6mQHp-8ABeIaWO.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc98c80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1983580779239419905/pu/vid/avc1/720x968/GKaCB17X3CTOZ47t.mp4?tag=12": {
       "status": "done",
@@ -12877,9 +12877,9 @@
       "referenced_by": [
         "20251031003758_twitter_com_BabysnakeViolet_status_1984057222272589859.json"
       ],
-      "last_updated": "2026-08-22T18:03:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031003758im_/https://video.twimg.com/ext_tw_video/1983864066167992327/pu/vid/avc1/720x1280/TaMB5fTZq_Nf6gh5.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148906a80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:56:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251031003758im_/https://video.twimg.com/ext_tw_video/1983864066167992327/pu/vid/avc1/720x1280/TaMB5fTZq_Nf6gh5.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7cfbf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1985365299965878272/pu/vid/avc1/720x720/eFPwZlw_E0lshrtB.mp4?tag=12": {
       "status": "failed",
@@ -12887,18 +12887,18 @@
         "20251103151550_twitter_com_BabysnakeViolet_status_1985365310363623818.json",
         "20251103152306_twitter_com_BabysnakeViolet_status_1985367137222099398.json"
       ],
-      "last_updated": "2026-08-22T18:03:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251103151550/https://video.twimg.com/ext_tw_video/1985365299965878272/pu/vid/avc1/720x720/eFPwZlw_E0lshrtB.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148905430>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-08-22T18:56:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251103151550im_/https://video.twimg.com/ext_tw_video/1985365299965878272/pu/vid/avc1/720x720/eFPwZlw_E0lshrtB.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f53a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1985364682417614848/vid/avc1/720x1280/wIKSSbC5vjE9mWoi.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251103153323_twitter_com_BabysnakeViolet_status_1985369723589312932.json"
       ],
-      "last_updated": "2026-08-22T18:03:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251103153323im_/https://video.twimg.com/amplify_video/1985364682417614848/vid/avc1/720x1280/wIKSSbC5vjE9mWoi.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe1489079e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251103153323im_/https://video.twimg.com/amplify_video/1985364682417614848/vid/avc1/720x1280/wIKSSbC5vjE9mWoi.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc99a30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1986320544422051840/pu/vid/avc1/1280x720/f6ZbPa9k1INmPF2P.mp4?tag=12": {
       "status": "done",
@@ -12912,45 +12912,45 @@
       "referenced_by": [
         "20251109201610_twitter_com_BabysnakeViolet_status_1987615218869194909.json"
       ],
-      "last_updated": "2026-08-22T18:03:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109201610/https://video.twimg.com/ext_tw_video/1987615189609693184/pu/vid/avc1/1280x720/En3dg11RkHKmJPab.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe149ada6c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109201610im_/https://video.twimg.com/ext_tw_video/1987615189609693184/pu/vid/avc1/1280x720/En3dg11RkHKmJPab.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9a660>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1987696257780051968/vid/avc1/1280x720/VC6GsGtY5Wnpikb0.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251110052853_twitter_com_BabysnakeViolet_status_1987754312488140996.json"
       ],
-      "last_updated": "2026-08-22T18:03:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110052853im_/https://video.twimg.com/amplify_video/1987696257780051968/vid/avc1/1280x720/VC6GsGtY5Wnpikb0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe1489058e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110052853im_/https://video.twimg.com/amplify_video/1987696257780051968/vid/avc1/1280x720/VC6GsGtY5Wnpikb0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f75f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1988246197090516992/vid/avc1/720x1280/ZJiLdtc-ji3x2F4X.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251111140559_twitter_com_BabysnakeViolet_status_1988246834519896305.json"
       ],
-      "last_updated": "2026-08-22T18:03:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111140559/https://video.twimg.com/amplify_video/1988246197090516992/vid/avc1/720x1280/ZJiLdtc-ji3x2F4X.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe14897a840>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111140559im_/https://video.twimg.com/amplify_video/1988246197090516992/vid/avc1/720x1280/ZJiLdtc-ji3x2F4X.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f5a60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1988255446051024898/pu/vid/avc1/720x1280/CDgFGodbX7STCvg9.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251112033936_twitter_com_BabysnakeViolet_status_1988451588126765536.json"
       ],
-      "last_updated": "2026-08-22T18:03:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112033936im_/https://video.twimg.com/ext_tw_video/1988255446051024898/pu/vid/avc1/720x1280/CDgFGodbX7STCvg9.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148904770>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112033936im_/https://video.twimg.com/ext_tw_video/1988255446051024898/pu/vid/avc1/720x1280/CDgFGodbX7STCvg9.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc99220>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1988712728530489345/vid/avc1/720x1280/Edn4Fc_iURqNdGf3.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251113002509_twitter_com_BabysnakeViolet_status_1988765040548454821.json"
       ],
-      "last_updated": "2026-08-22T18:03:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251113002509/https://video.twimg.com/amplify_video/1988712728530489345/vid/avc1/720x1280/Edn4Fc_iURqNdGf3.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe14897b290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251113002509im_/https://video.twimg.com/amplify_video/1988712728530489345/vid/avc1/720x1280/Edn4Fc_iURqNdGf3.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc99910>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1989360930279378944/pu/vid/avc1/720x1088/e8XlTstZOMySkCD5.mp4?tag=12": {
       "status": "done",
@@ -12995,27 +12995,27 @@
         "20251116160148_twitter_com_BabysnakeViolet_status_1990087918552076762.json",
         "20251116174126_twitter_com_BabysnakeViolet_status_1990112992801837084.json"
       ],
-      "last_updated": "2026-08-22T18:03:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251116150008im_/https://video.twimg.com/ext_tw_video/1990072202621034496/pu/vid/avc1/1280x720/Cfm_A7hsqAVnoMX7.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148907f50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 9
+      "last_updated": "2026-08-22T18:57:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251116150008im_/https://video.twimg.com/ext_tw_video/1990072202621034496/pu/vid/avc1/1280x720/Cfm_A7hsqAVnoMX7.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f4c80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 10
     },
     "https://video.twimg.com/ext_tw_video/1990794476378566656/pu/vid/avc1/720x1280/8Qs8FDsGE_rjCoKj.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251118172002_twitter_com_BabysnakeViolet_status_1990832381356396693.json"
       ],
-      "last_updated": "2026-08-22T18:03:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251118172002/https://video.twimg.com/ext_tw_video/1990794476378566656/pu/vid/avc1/720x1280/8Qs8FDsGE_rjCoKj.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe1489a4110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251118172002im_/https://video.twimg.com/ext_tw_video/1990794476378566656/pu/vid/avc1/720x1280/8Qs8FDsGE_rjCoKj.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9bd70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/720x1280/5rJtoJB_INk8BfB0.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251120183454_twitter_com_BabysnakeViolet_status_1991576000254341491.json"
       ],
-      "last_updated": "2026-08-22T18:03:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120183454im_/https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/720x1280/5rJtoJB_INk8BfB0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148978860>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-22T18:57:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120183454im_/https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/720x1280/5rJtoJB_INk8BfB0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc981d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1992223512220856320/vid/avc1/720x1280/QeR0DR_Xib6ubRAx.mp4": {
       "status": "done",
@@ -13029,9 +13029,9 @@
       "referenced_by": [
         "20251201171454_twitter_com_BabysnakeViolet_status_1995542132690747747.json"
       ],
-      "last_updated": "2026-08-22T18:04:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201171454/https://video.twimg.com/tweet_video/G7BYicHa8AAZdlr.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe149ada810>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201171454im_/https://video.twimg.com/tweet_video/G7BYicHa8AAZdlr.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9a990>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/720x1280/_YgoW0ex_4VKcul0.mp4?tag=12": {
       "status": "done",
@@ -13060,18 +13060,18 @@
       "referenced_by": [
         "20251204180118_twitter_com_BabysnakeViolet_status_1996640973817106851.json"
       ],
-      "last_updated": "2026-08-22T18:04:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204180118im_/https://video.twimg.com/ext_tw_video/1996624085733068801/pu/vid/avc1/590x1280/BG9RjRySxkl4c02f.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148907860>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204180118im_/https://video.twimg.com/ext_tw_video/1996624085733068801/pu/vid/avc1/590x1280/BG9RjRySxkl4c02f.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f5bb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1996520726984368128/vid/avc1/720x1280/LQaU-uSijagiCHA-.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251204183239_twitter_com_BabysnakeViolet_status_1996648861616713836.json"
       ],
-      "last_updated": "2026-08-22T18:04:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204183239/https://video.twimg.com/amplify_video/1996520726984368128/vid/avc1/720x1280/LQaU-uSijagiCHA-.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe14897a5a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204183239im_/https://video.twimg.com/amplify_video/1996520726984368128/vid/avc1/720x1280/LQaU-uSijagiCHA-.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7cf9b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1997385395164807168/pu/vid/avc1/720x1280/WpHqCTWd06K0NNSZ.mp4?tag=12": {
       "status": "failed",
@@ -13079,36 +13079,36 @@
         "20251206191935_twitter_com_BabysnakeViolet_status_1997385450923647123.json",
         "20251208130138_twitter_com_BabysnakeViolet_status_1998015110703722870.json"
       ],
-      "last_updated": "2026-08-22T18:04:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251206191935im_/https://video.twimg.com/ext_tw_video/1997385395164807168/pu/vid/avc1/720x1280/WpHqCTWd06K0NNSZ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe1489064b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-22T18:57:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251206191935im_/https://video.twimg.com/ext_tw_video/1997385395164807168/pu/vid/avc1/720x1280/WpHqCTWd06K0NNSZ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9be90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1997704833177178113/vid/avc1/720x1280/-DQIkJszK7t-BDej.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251207183755_twitter_com_BabysnakeViolet_status_1997737351133671844.json"
       ],
-      "last_updated": "2026-08-22T18:04:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251207183755/https://video.twimg.com/amplify_video/1997704833177178113/vid/avc1/720x1280/-DQIkJszK7t-BDej.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe149adb8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:57:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251207183755im_/https://video.twimg.com/amplify_video/1997704833177178113/vid/avc1/720x1280/-DQIkJszK7t-BDej.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc98440>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1997975504604041216/vid/avc1/720x1280/wD5wxvviQWC4Ah4H.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251209031024_twitter_com_BabysnakeViolet_status_1998228711146131926.json"
       ],
-      "last_updated": "2026-08-22T18:04:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251209031024im_/https://video.twimg.com/amplify_video/1997975504604041216/vid/avc1/720x1280/wD5wxvviQWC4Ah4H.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe14897b260>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251209031024im_/https://video.twimg.com/amplify_video/1997975504604041216/vid/avc1/720x1280/wD5wxvviQWC4Ah4H.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dffc35c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1998281443420815360/vid/avc1/720x1280/nw_kQHkLvgUfGm4V.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251209200726_twitter_com_BabysnakeViolet_status_1998484654228419012.json"
       ],
-      "last_updated": "2026-08-22T18:04:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251209200726/https://video.twimg.com/amplify_video/1998281443420815360/vid/avc1/720x1280/nw_kQHkLvgUfGm4V.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe14897a150>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251209200726im_/https://video.twimg.com/amplify_video/1998281443420815360/vid/avc1/720x1280/nw_kQHkLvgUfGm4V.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc99430>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/1999598911502393344/pu/vid/avc1/720x1280/CnxK1vg6_msrpENu.mp4?tag=12": {
       "status": "done",
@@ -13123,9 +13123,9 @@
         "20260106174234_twitter_com_BabysnakeViolet_status_2008595060175368602.json",
         "20260106174256_twitter_com_BabysnakeViolet_status_2008595151703470103.json"
       ],
-      "last_updated": "2026-08-22T18:04:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106174234im_/https://video.twimg.com/ext_tw_video/2008595018567610368/pu/vid/avc1/1280x720/M99UjEhLcsqnVf8_.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe148979d00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-08-22T18:58:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106174234im_/https://video.twimg.com/ext_tw_video/2008595018567610368/pu/vid/avc1/1280x720/M99UjEhLcsqnVf8_.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9bdd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2008874011619643392/vid/avc1/720x1280/jokLBel9iOjn4tQd.mp4": {
       "status": "done",
@@ -13169,45 +13169,45 @@
       "referenced_by": [
         "20260208204007_twitter_com_BabysnakeViolet_status_2020598538984710620.json"
       ],
-      "last_updated": "2026-08-22T18:04:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208204007/https://video.twimg.com/ext_tw_video/2020598514598973441/pu/vid/avc1/720x1280/LXN7umXnXhZTGgg1.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148906ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208204007im_/https://video.twimg.com/ext_tw_video/2020598514598973441/pu/vid/avc1/720x1280/LXN7umXnXhZTGgg1.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f5520>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2039211761853939713/pu/vid/avc1/720x1280/NdyfDeE4z-Uji61i.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260401052234_twitter_com_BabysnakeViolet_status_2039211799409754293.json"
       ],
-      "last_updated": "2026-08-22T18:04:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401052234if_/https://video.twimg.com/ext_tw_video/2039211761853939713/pu/vid/avc1/720x1280/NdyfDeE4z-Uji61i.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe14897ac60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401052234im_/https://video.twimg.com/ext_tw_video/2039211761853939713/pu/vid/avc1/720x1280/NdyfDeE4z-Uji61i.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f7fe0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2041093462133817344/vid/avc1/720x1280/fzxbeTFuILL6jQUO.mp4?tag=14": {
       "status": "failed",
       "referenced_by": [
         "20260410182215_twitter_com_BabysnakeViolet_status_2042669504938090891.json"
       ],
-      "last_updated": "2026-08-22T18:04:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410182215/https://video.twimg.com/amplify_video/2041093462133817344/vid/avc1/720x1280/fzxbeTFuILL6jQUO.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148907470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410182215im_/https://video.twimg.com/amplify_video/2041093462133817344/vid/avc1/720x1280/fzxbeTFuILL6jQUO.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9a5a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HFlQu_BakAEZe9j.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260410235246_twitter_com_BabysnakeViolet_status_2042752683095003168.json"
       ],
-      "last_updated": "2026-08-22T18:04:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410235246/https://video.twimg.com/tweet_video/HFlQu_BakAEZe9j.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe14897ba70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410235246im_/https://video.twimg.com/tweet_video/HFlQu_BakAEZe9j.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc98b90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HFoy3rOakAcvGPN.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260411162047_twitter_com_BabysnakeViolet_status_2043001323122233417.json"
       ],
-      "last_updated": "2026-08-22T18:04:43",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411162047/https://video.twimg.com/tweet_video/HFoy3rOakAcvGPN.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148904b00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411162047im_/https://video.twimg.com/tweet_video/HFoy3rOakAcvGPN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7ceab0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HE95bnRaMAAPWkg.mp4": {
       "status": "done",
@@ -13229,36 +13229,36 @@
       "referenced_by": [
         "20260501061647_twitter_com_BabysnakeViolet_status_2050097079436079277.json"
       ],
-      "last_updated": "2026-08-22T18:04:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501061647if_/https://video.twimg.com/amplify_video/2050056151493124096/vid/avc1/720x1280/R51lT-wkzLH5feAC.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe14897b740>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501061647/https://video.twimg.com/amplify_video/2050056151493124096/vid/avc1/720x1280/R51lT-wkzLH5feAC.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc98440>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2050591658136539138/vid/avc1/592x1280/vEP-mc0RKyhcuJfF.mp4?tag=27": {
       "status": "failed",
       "referenced_by": [
         "20260502191235_twitter_com_BabysnakeViolet_status_2050654702472462471.json"
       ],
-      "last_updated": "2026-08-22T18:04:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502191235/https://video.twimg.com/amplify_video/2050591658136539138/vid/avc1/592x1280/vEP-mc0RKyhcuJfF.mp4?tag=27 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148979910>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260502191235/https://video.twimg.com/amplify_video/2050591658136539138/vid/avc1/592x1280/vEP-mc0RKyhcuJfF.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64df7f57c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2081069820888645632/vid/avc1/944x720/YdCo1U1XZZHtCDZy.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260725173133_twitter_com_BabysnakeViolet_status_2081069859623100693.json"
       ],
-      "last_updated": "2026-08-22T18:04:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725173133/https://video.twimg.com/amplify_video/2081069820888645632/vid/avc1/944x720/YdCo1U1XZZHtCDZy.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe1489a5550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:58:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725173133if_/https://video.twimg.com/amplify_video/2081069820888645632/vid/avc1/944x720/YdCo1U1XZZHtCDZy.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfcc2630>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2083824635813175296/vid/avc1/720x1280/RIjztZ0KeY07dL-k.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260802075810_twitter_com_BabysnakeViolet_status_2083824664502276143.json"
       ],
-      "last_updated": "2026-08-22T18:04:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802075810/https://video.twimg.com/amplify_video/2083824635813175296/vid/avc1/720x1280/RIjztZ0KeY07dL-k.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe148979880>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-08-22T18:59:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802075810im_/https://video.twimg.com/amplify_video/2083824635813175296/vid/avc1/720x1280/RIjztZ0KeY07dL-k.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f64dfc9b920>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2088225483096002560/vid/avc1/2560x1440/FYSNRizlX-OuDkWd.mp4": {
       "status": "done",
@@ -20780,7 +20780,7 @@
       "miss_count": 2
     },
     "20250713132307_twitter_com_BabysnakeViolet_status_1944387114780574131.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -20791,7 +20791,7 @@
           "https://pbs.twimg.com/profile_images/1940626832186875904/amlhWcqA_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T18:02:45",
+      "last_updated": "2026-08-22T18:56:22",
       "miss_count": 2
     },
     "20250713132630_twitter_com_BabysnakeViolet_status_1944387963770855839.json": {
