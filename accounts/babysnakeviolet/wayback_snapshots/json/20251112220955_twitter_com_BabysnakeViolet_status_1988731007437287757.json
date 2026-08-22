@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988569136796987780",
+    "created_at": "2025-11-12T22:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T23:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988731007437287757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988731007437287757",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988569136796987780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 我是这种对不起但我很温良我只是会小心翼翼的问一下🥺拒绝我了也没事我会道歉的.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988569136796987780",
+        "created_at": "2025-11-12T22:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988731007437287757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988731007437287757",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988569136796987780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 我是这种对不起但我很温良我只是会小心翼翼的问一下🥺拒绝我了也没事我会道歉的.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "1988569136796987780",
+        "created_at": "2025-11-12T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988569136796987780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988569136796987780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 34366,
+          "like_count": 375,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "互关难道不是因为讲话了眼熟了或者有共同爱好才互相关注吗。为啥上来就说要互关。啥意思啊我关注你干啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 260,
+          "like_count": 901,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 983
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "女 \\ 4i \\ 173\\ ENTP\\ 摩羯 \\可以叫我小物 / 头像是本人 / 不约不聊骚/  眼熟的话我会互的不要问了",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "1979938381321658453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988592571761700864/eZkJKDuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 268,
+          "like_count": 9107,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 3746
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

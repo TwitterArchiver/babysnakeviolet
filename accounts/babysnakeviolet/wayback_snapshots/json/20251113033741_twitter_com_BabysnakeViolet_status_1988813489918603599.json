@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1969307440442147021",
+    "created_at": "2025-11-13T03:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988813489918603599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 22,
+          "id": "1603782310955999235",
+          "start": 11,
+          "username": "subanxia00"
+        },
+        {
+          "end": 39,
+          "id": "1609456562443268097",
+          "start": 23,
+          "username": "snowfairy011026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988813489918603599",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988813114914271332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi @subanxia00 @snowfairy011026 我恨你李君豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1969307440442147021",
+        "created_at": "2025-11-13T03:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988813489918603599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 22,
+              "id": "1603782310955999235",
+              "start": 11,
+              "username": "subanxia00"
+            },
+            {
+              "end": 39,
+              "id": "1609456562443268097",
+              "start": 23,
+              "username": "snowfairy011026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988813489918603599",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988813114914271332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi @subanxia00 @snowfairy011026 我恨你李君豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1969307440442147021",
+        "created_at": "2025-11-13T03:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988813114914271332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1603782310955999235",
+              "start": 0,
+              "username": "subanxia00"
+            },
+            {
+              "end": 28,
+              "id": "1609456562443268097",
+              "start": 12,
+              "username": "snowfairy011026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988813114914271332",
+        "in_reply_to_user_id": "1603782310955999235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988812816405655863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subanxia00 @snowfairy011026 你的民族是汉族吗请问？如果你是少数民族这样侮辱践踏伟大的祖国，这说明我们对边疆地区的爱国主义教育彻底的失败了，我真的不能理解，一个人连自己的祖国都不爱，妄想着外星球有一个所谓的超级大国不是痴人说梦吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 264,
+          "like_count": 1231,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1039
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mtf  不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。",
+        "id": "1811690667720212480",
+        "location": "我被吴思嫣绿了",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1987869272740421724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980652601982029824/9-ar12mL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 107,
+          "like_count": 26,
+          "listed_count": 6,
+          "media_count": 490,
+          "tweet_count": 2980
+        },
+        "username": "y0zarashi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T16:01:40.000Z",
+        "description": "一般不拉黑人 发现我拉黑了你只是我闭口不谈罢了  \n“在汹涌的舆论面前，闭口不谈或是顺势而为都可以 逆流而上，会粉身碎骨的”",
+        "id": "1603782310955999235",
+        "location": "江城孱陵路33号",
+        "name": "苏半夏",
+        "pinned_tweet_id": "1885762680365236358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872272323178631168/y-Oh-OUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 621,
+          "like_count": 3422,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1270
+        },
+        "username": "subanxia00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T07:49:08.000Z",
+        "description": "星空合众国是基于科幻和架空的想象世界......不，也不仅是想象，这一切都会变成现实。\n自由，开放，包容，团结，Forever",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/forms/d/e/1FAI…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSe6orN-X5QHIjLgv5yzEjAroNNhFytBinXazFNWpecW0iyGnw/viewform",
+                "start": 0,
+                "url": "https://t.co/BeeKCHFiQz"
+              }
+            ]
+          }
+        },
+        "id": "1609456562443268097",
+        "location": "NGC 4755 珠宝盒星团",
+        "name": "星空合众国 Starry Sky Federation",
+        "pinned_tweet_id": "1987363787108962756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869504691375349760/A5kIMk_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 1905,
+          "like_count": 11441,
+          "listed_count": 8,
+          "media_count": 715,
+          "tweet_count": 9149
+        },
+        "url": "https://t.co/BeeKCHFiQz",
+        "username": "snowfairy011026",
+        "verified": true
+      }
+    ]
+  }
+}

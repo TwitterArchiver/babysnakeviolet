@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1999451032460624233",
+    "created_at": "2025-12-13T20:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T21:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999938431078858919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1958335598613389312",
+          "start": 0,
+          "username": "ZHIYINZHIYINBAO"
+        },
+        {
+          "end": 25,
+          "id": "1969670166423228416",
+          "start": 17,
+          "username": "h2o2333"
+        },
+        {
+          "end": 35,
+          "id": "1812304729432838144",
+          "start": 26,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999938431078858919",
+    "in_reply_to_user_id": "1958335598613389312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999451032460624233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHIYINZHIYINBAO @h2o2333 @huimu420 揉揉……十分感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1999451032460624233",
+        "created_at": "2025-12-13T20:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T21:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999938431078858919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1958335598613389312",
+              "start": 0,
+              "username": "ZHIYINZHIYINBAO"
+            },
+            {
+              "end": 25,
+              "id": "1969670166423228416",
+              "start": 17,
+              "username": "h2o2333"
+            },
+            {
+              "end": 35,
+              "id": "1812304729432838144",
+              "start": 26,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999938431078858919",
+        "in_reply_to_user_id": "1958335598613389312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999451032460624233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHIYINZHIYINBAO @h2o2333 @huimu420 揉揉……十分感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958335598613389312",
+        "conversation_id": "1999451032460624233",
+        "created_at": "2025-12-12T12:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999451032460624233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 97,
+              "id": "1969670166423228416",
+              "start": 89,
+              "username": "h2o2333"
+            },
+            {
+              "end": 107,
+              "id": "1812304729432838144",
+              "start": 98,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999451032460624233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在网络上帮助他人好难，比我想的要困难的多，虽然说倾听和安慰我做得到，但也只是杯水车薪，并不能助其解决实际问题，只能说能在他人心情不好的时候给予一些安慰吧，或许这是我唯一能做的了\n@h2o2333 @huimu420 嗯谢谢你们愿意相信我，一起加油吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "你已经尝试了，现在要做的只是躺下然后看看天空。\n查成分回fo，只是一个非常颓废失败的女人。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 362,
+          "like_count": 1690,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 1434
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T01:10:25.000Z",
+        "description": "时代的心理委员，叫我小助就好，十分普通的普通人，性格温和，善于倾听，如果你不开心或者有什么烦心事可以和我倾诉，希望大家都能幸福（需要帮助的话请看置顶）",
+        "id": "1958335598613389312",
+        "name": "小助",
+        "pinned_tweet_id": "1999164883070517759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999158394528374784/uthB1-MZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "ZHIYINZHIYINBAO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "无证含糖丨已出柜丨并非家长党丨infp丨hrt 2025.9.25丨本来是mtx但现在是mtf丨是胆小的女孩子…丨vrchat 一氧化二氢233丨币圈的离我远点丨反od丨虚无主义丨🚪5r…只是为了防骚扰…同类不需要这样的…好人的话私信直接要qq也会看情况给…",
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢🏳️‍⚧️",
+        "pinned_tweet_id": "1998215569817186799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993496394305617921/xXG2_kwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 271,
+          "like_count": 509,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1125
+        },
+        "username": "h2o2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜碎碎念｜割手嗑药｜友跨顺女｜泛性恋  偏好流动｜休学｜xp是正太萝莉和神职人员｜fo你是暗恋你☆没回是看不出成分｜爱人是酷拉皮卡💕\n提问箱：https://t.co/o2XkPNmz4o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 101,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 78,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huimu420",
+                "end": 23,
+                "expanded_url": "https://t.me/huimu420",
+                "start": 0,
+                "url": "https://t.co/t5cTc4RQ0i"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "name": "回木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997638534576898049/zZRmGg1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 363,
+          "like_count": 10119,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/t5cTc4RQ0i",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

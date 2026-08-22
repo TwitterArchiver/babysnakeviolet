@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1968012549569581189",
+    "created_at": "2025-09-17T18:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T19:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968380943720448217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686283440247984128",
+          "start": 0,
+          "username": "liangchenz97309"
+        },
+        {
+          "end": 25,
+          "id": "1656334148447944704",
+          "start": 17,
+          "username": "qiu0147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968380943720448217",
+    "in_reply_to_user_id": "1686283440247984128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968347789907448015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangchenz97309 @qiu0147 宝宝你有点太可怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1968012549569581189",
+        "created_at": "2025-09-17T18:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968380943720448217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686283440247984128",
+              "start": 0,
+              "username": "liangchenz97309"
+            },
+            {
+              "end": 25,
+              "id": "1656334148447944704",
+              "start": 17,
+              "username": "qiu0147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968380943720448217",
+        "in_reply_to_user_id": "1686283440247984128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968347789907448015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangchenz97309 @qiu0147 宝宝你有点太可怜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686283440247984128",
+        "conversation_id": "1968012549569581189",
+        "created_at": "2025-09-17T16:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T17:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968347789907448015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656334148447944704",
+              "start": 0,
+              "username": "qiu0147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968347789907448015",
+        "in_reply_to_user_id": "1656334148447944704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 987,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968012549569581189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu0147 你不必担心我们这些绝世丑会跟你做爱，因为你不会瞅我第二眼😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我回到了最初，最向往的地方",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 164,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 613
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T07:51:26.000Z",
+        "description": "男 自刀✘ OD✘ 觉得难过痛苦 需要建议可以找我聊天呦 致力于人人快乐的阿宅",
+        "id": "1686283440247984128",
+        "name": "良臣择主而噬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940472111190982656/Q-Gizd9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 41,
+          "like_count": 159,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 624
+        },
+        "username": "liangchenz97309",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T16:23:48.000Z",
+        "description": "好友位88",
+        "id": "1656334148447944704",
+        "location": "吉吉如伊令",
+        "name": "十八岁训犬女王",
+        "pinned_tweet_id": "1926625870355030367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967555461030264832/9YH48XOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19983,
+          "following_count": 66,
+          "like_count": 3332,
+          "listed_count": 63,
+          "media_count": 41,
+          "tweet_count": 435
+        },
+        "username": "qiu0147",
+        "verified": false
+      }
+    ]
+  }
+}

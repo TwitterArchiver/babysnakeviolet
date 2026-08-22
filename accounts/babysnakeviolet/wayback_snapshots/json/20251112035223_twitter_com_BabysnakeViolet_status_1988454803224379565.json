@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987869261927485745",
+    "created_at": "2025-11-12T03:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988454803224379565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987841118940356608",
+          "start": 0,
+          "username": "QaQ1191097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988454803224379565",
+    "in_reply_to_user_id": "1987841118940356608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987869261927485745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QaQ1191097 找金主汪汪汪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_1987869251953414144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZUjW6a0AAnMEb.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987869261927485745",
+        "created_at": "2025-11-12T03:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988454803224379565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987841118940356608",
+              "start": 0,
+              "username": "QaQ1191097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988454803224379565",
+        "in_reply_to_user_id": "1987841118940356608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987869261927485745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QaQ1191097 找金主汪汪汪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987869251953414144"
+          ]
+        },
+        "author_id": "1987841118940356608",
+        "conversation_id": "1987869261927485745",
+        "created_at": "2025-11-10T13:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987869261927485745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男高"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男大"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "男菩萨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBZ0RmYCrg",
+              "end": 57,
+              "expanded_url": "https://x.com/QaQ1191097/status/1987869261927485745/photo/1",
+              "media_key": "3_1987869251953414144",
+              "start": 34,
+              "url": "https://t.co/YBZ0RmYCrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987869261927485745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 1749001,
+          "like_count": 3235,
+          "quote_count": 5,
+          "reply_count": 1868,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "有没有男菩萨心理委员安慰一下我的🥹👉🏻👈🏻#男高 #男大 #男菩萨 https://t.co/YBZ0RmYCrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988400320150720512/XPoIj8ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 252,
+          "like_count": 733,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 950
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T11:14:18.000Z",
+        "description": "随便看看",
+        "id": "1987841118940356608",
+        "name": "QaQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987841933004455937/GgToMbI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "QaQ1191097",
+        "verified": false
+      }
+    ]
+  }
+}

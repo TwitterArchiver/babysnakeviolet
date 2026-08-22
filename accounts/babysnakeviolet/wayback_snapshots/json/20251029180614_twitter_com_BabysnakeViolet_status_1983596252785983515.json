@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983567952910901688",
+    "created_at": "2025-10-29T18:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T19:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983596252785983515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "576074543",
+          "start": 0,
+          "username": "IneedsomeDMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983596252785983515",
+    "in_reply_to_user_id": "576074543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983567952910901688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IneedsomeDMT 海洛因呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983567952910901688",
+        "created_at": "2025-10-29T18:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983596252785983515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "576074543",
+              "start": 0,
+              "username": "IneedsomeDMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983596252785983515",
+        "in_reply_to_user_id": "576074543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983567952910901688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IneedsomeDMT 海洛因呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "576074543",
+        "conversation_id": "1983567952910901688",
+        "created_at": "2025-10-29T16:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983567952910901688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fxxkapexlegend…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/fxxkapexlegend/status/1983344502913040418",
+              "start": 100,
+              "url": "https://t.co/FJyHqjdblj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983567952910901688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 695,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983344502913040418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要吸毒的话尽量别玩兴奋剂（如冰毒），镇静剂（如可卡因），这两个类别成瘾性最强，你染上了后不吸会疯掉。其次是解离剂，最后是致幻剂，生理依赖是最小的，很多研究也证明了这一点，很多方面的危害甚至比抽烟小。 https://t.co/FJyHqjdblj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 214,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 714
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-10T08:56:28.000Z",
+        "description": "想了解我的过去吗，往前翻翻吧，早安🍂🍂。 提供药物咨询",
+        "id": "576074543",
+        "location": "Baobao University",
+        "name": "右美沙芬",
+        "pinned_tweet_id": "1717211823777382444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613440066768220161/zVJFKm8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 412,
+          "like_count": 6861,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2759
+        },
+        "username": "IneedsomeDMT",
+        "verified": false
+      }
+    ]
+  }
+}

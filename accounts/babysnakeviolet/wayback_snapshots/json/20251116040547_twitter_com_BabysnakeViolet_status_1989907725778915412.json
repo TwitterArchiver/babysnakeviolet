@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989612799044284552",
+    "created_at": "2025-11-16T04:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989907725778915412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938990267560009729",
+          "start": 0,
+          "username": "huntedxschafer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989907725778915412",
+    "in_reply_to_user_id": "1938990267560009729",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989906535670288781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huntedxschafer yes！！stay healthy 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989612799044284552",
+        "created_at": "2025-11-16T04:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989907725778915412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938990267560009729",
+              "start": 0,
+              "username": "huntedxschafer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989907725778915412",
+        "in_reply_to_user_id": "1938990267560009729",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989906535670288781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huntedxschafer yes！！stay healthy 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938990267560009729",
+        "conversation_id": "1989612799044284552",
+        "created_at": "2025-11-16T04:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989906535670288781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989906535670288781",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989901289770357232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet aw 🥺 you’re kind, i appreciate the encouragement. i know i’m not really fat i just want more control over my body… when i was in the hospital in a coma i lost so much weight it was honestly ugly &amp; scary but then the medicine i had to take after made me weigh twice as much"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！入🚪默认不退本人高p",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 276,
+          "like_count": 1321,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1130
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T15:58:09.000Z",
+        "description": "partys over 🔻",
+        "id": "1938990267560009729",
+        "location": "monsterland",
+        "name": "إيفي (evie)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979359810958000128/kvdKvs6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 899,
+          "like_count": 27980,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 7803
+        },
+        "username": "huntedxschafer",
+        "verified": false
+      }
+    ]
+  }
+}

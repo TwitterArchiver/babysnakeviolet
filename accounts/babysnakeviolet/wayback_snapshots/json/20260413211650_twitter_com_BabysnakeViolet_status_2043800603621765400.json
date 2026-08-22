@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2043716501627408688",
+    "created_at": "2026-04-13T21:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T22:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043800603621765400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043800603621765400",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043716501627408688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 我原来也以为是晶，但是他给我发的消息看着像鸡哥，董晗很可能有手机可以玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043716465225043968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFy9TAtbEAAY6H-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2043716501627408688",
+        "created_at": "2026-04-13T21:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043800603621765400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043800603621765400",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043716501627408688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 我原来也以为是晶，但是他给我发的消息看着像鸡哥，董晗很可能有手机可以玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043716465225043968"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "conversation_id": "2043716501627408688",
+        "created_at": "2026-04-13T15:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043716501627408688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mX6IubpVc",
+              "end": 45,
+              "expanded_url": "https://x.com/kuukiwfn/status/2043716501627408688/photo/1",
+              "media_key": "3_2043716465225043968",
+              "start": 22,
+              "url": "https://t.co/5mX6IubpVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043716501627408688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3147,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃怎么办\n我该做点什么吗🤯🤯\n这是晶吗 https://t.co/5mX6IubpVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 430,
+          "like_count": 2014,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 1761
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 750,
+          "like_count": 34244,
+          "listed_count": 0,
+          "media_count": 751,
+          "tweet_count": 2810
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

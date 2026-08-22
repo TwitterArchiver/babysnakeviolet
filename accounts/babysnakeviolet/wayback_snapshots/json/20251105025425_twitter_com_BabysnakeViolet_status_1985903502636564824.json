@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985903492062703858",
+    "created_at": "2025-11-05T02:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985903502636564824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985903502636564824",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985903499369119855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被脱掉病服，赤裸裸的一句年迈尸体，然后面无表情的听妈妈痛骂我没良心，爷爷死了也不会哭，外婆去世的时候我也没哭，她带着鄙夷问我，她死了我是不是也不会哭？那一夜我没有回答她，我转身离开了医院，没有出口的答案在她来我租的房子的时候我告诉了她，我没有跟她说我会不会哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985903492062703858",
+        "created_at": "2025-11-05T02:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985903502636564824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985903502636564824",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985903499369119855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被脱掉病服，赤裸裸的一句年迈尸体，然后面无表情的听妈妈痛骂我没良心，爷爷死了也不会哭，外婆去世的时候我也没哭，她带着鄙夷问我，她死了我是不是也不会哭？那一夜我没有回答她，我转身离开了医院，没有出口的答案在她来我租的房子的时候我告诉了她，我没有跟她说我会不会哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985903492062703858",
+        "created_at": "2025-11-05T02:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985903499369119855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985903499369119855",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985903496529657879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这项本领让我不再那么歇斯底里，甚至很少再感受到那种恐怖到极致的痛苦，我没有告诉妈妈那个叔叔是谁，也没有告诉妈妈爷爷曾经偷看我上厕所，我习惯了，但我还是倔的，所以不想去见他最后一面，妈妈哭的很惨，仪器滴滴的声音让我很急躁不安，我只是面无表情的站在那，看着他被拔掉管子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 234,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 815
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

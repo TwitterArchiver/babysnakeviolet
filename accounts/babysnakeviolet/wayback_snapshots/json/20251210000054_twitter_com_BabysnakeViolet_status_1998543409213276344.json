@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1998216832046801368",
+    "created_at": "2025-12-10T00:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T01:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998543409213276344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998543409213276344",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998540907663278166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 郭敬明写东西真的挺厉害的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1998216832046801368",
+        "created_at": "2025-12-10T00:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T01:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998543409213276344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998543409213276344",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998540907663278166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 郭敬明写东西真的挺厉害的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965531250447568896",
+        "conversation_id": "1998216832046801368",
+        "created_at": "2025-12-09T23:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998540907663278166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998540907663278166",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998538488208326724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 很多说抄袭的但是好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 351,
+          "like_count": 1645,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1402
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/口粮：@420420420CTL \n/接受药圈新闻投稿\n/接RC代测",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "镜音（二代目）",
+        "pinned_tweet_id": "1997971440205996507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 100,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 203
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

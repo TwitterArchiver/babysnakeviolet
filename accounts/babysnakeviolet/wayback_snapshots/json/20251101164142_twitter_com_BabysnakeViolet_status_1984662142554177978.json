@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1984662140868026737",
+    "created_at": "2025-11-01T16:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984662142554177978"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984662142554177978",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984662140868026737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要睡眠但当时我根本睡不着，我一闭眼看到的想到的就是那些重复循环播放的东西，很恐怖那些东西，像异世界的怪物，然后我又因为两天多没睡觉，我迫切的想入睡但我躺了几个小时我都一丝都睡不着，我还一直给自己心理暗示，没什么好怕的了你现在很安全可以好好睡一觉明天会是新的一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984662140868026737",
+        "created_at": "2025-11-01T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984662142554177978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984662142554177978",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984662140868026737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要睡眠但当时我根本睡不着，我一闭眼看到的想到的就是那些重复循环播放的东西，很恐怖那些东西，像异世界的怪物，然后我又因为两天多没睡觉，我迫切的想入睡但我躺了几个小时我都一丝都睡不着，我还一直给自己心理暗示，没什么好怕的了你现在很安全可以好好睡一觉明天会是新的一天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984662140868026737",
+        "created_at": "2025-11-01T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984662140868026737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984662140868026737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要，询问一个问题，心情很糟糕的时候我一闭眼就会看到一些单个物体在重复做一件事情或者重复说一些话，并且我不能去细想，我如果任由它去细想的话我能感觉到这个物体在争夺我的大脑控制权，比如一个头像一个不可名状的东西或者精神体...我讨厌这种感觉，而且这几天我每天o两次普瑞，我心率好快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "走向健全人生",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 225,
+          "like_count": 495,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 766
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

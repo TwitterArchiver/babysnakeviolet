@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1766408249614438903",
+    "created_at": "2025-10-15T00:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T01:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978257672202756473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978257672202756473",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1766408249614438903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 笑死我了玩的是高能英雄"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 110086,
+        "height": 1024,
+        "media_key": "7_1766407087972548609",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1766407087972548609/pu/img/0IbmYOSa2-nji_4b.jpg",
+        "public_metrics": {
+          "view_count": 423198
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1766407087972548609/pu/vid/avc1/320x568/nOaCL0KccSdfdq0g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1766407087972548609/pu/vid/avc1/480x852/6v6A39EsCihUcsHK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1766407087972548609/pu/vid/avc1/576x1024/xblnwQLkdmZxZ6pb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1766407087972548609/pu/pl/pLuQ5AlukwTBWPq9.m3u8?tag=12&v=d2f"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1766408249614438903",
+        "created_at": "2025-10-15T00:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T01:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978257672202756473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978257672202756473",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1766408249614438903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 笑死我了玩的是高能英雄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1766407087972548609"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1766408249614438903",
+        "created_at": "2024-03-09T10:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-09T11:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1766408249614438903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqw8ql6VAg",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1766408249614438903/video/1",
+              "media_key": "7_1766407087972548609",
+              "start": 99,
+              "url": "https://t.co/fqw8ql6VAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1766408249614438903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1960,
+          "impression_count": 2152683,
+          "like_count": 6154,
+          "quote_count": 115,
+          "reply_count": 443,
+          "retweet_count": 964
+        },
+        "reply_settings": "everyone",
+        "text": "“官方翻墙教程”\n3月9日，中国人民解放军郑州联勤保障中心官方抖音号发布了一则普及“翻墙违法”的小短片，因其视频中详细介绍了如何翻墙的步骤以及应该下载哪些软件，引发广大网友吐槽：这是普法还是教程？ https://t.co/fqw8ql6VAg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 192,
+          "like_count": 385,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 659
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121995,
+          "following_count": 984,
+          "like_count": 8252,
+          "listed_count": 8366,
+          "media_count": 36134,
+          "tweet_count": 42959
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

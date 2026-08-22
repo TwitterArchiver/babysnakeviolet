@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1944831082563793279",
+    "created_at": "2025-07-14T23:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T00:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944906708783874232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781782662635790336",
+          "start": 0,
+          "username": "Hypotheenemy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944906708783874232",
+    "in_reply_to_user_id": "1781782662635790336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944873189001277931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hypotheenemy 好糟糕！.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1944831082563793279",
+        "created_at": "2025-07-14T23:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T00:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944906708783874232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781782662635790336",
+              "start": 0,
+              "username": "Hypotheenemy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944906708783874232",
+        "in_reply_to_user_id": "1781782662635790336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944873189001277931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hypotheenemy 好糟糕！.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781782662635790336",
+        "conversation_id": "1944831082563793279",
+        "created_at": "2025-07-14T21:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T22:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944873189001277931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944873189001277931",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944858065502921029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 好难过。喜欢的男孩子把我网易云取关了现在更睡不着了T^T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她\n可以来找她互fo\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 141,
+          "like_count": 311,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 529
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T20:31:15.000Z",
+        "description": "",
+        "id": "1781782662635790336",
+        "location": "Taipei City, Taiwan",
+        "name": "misery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843617031159218176/eptCz000_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 116,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 31
+        },
+        "username": "Hypotheenemy",
+        "verified": false
+      }
+    ]
+  }
+}

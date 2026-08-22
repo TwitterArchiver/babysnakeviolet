@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988037190707015997",
+    "created_at": "2025-11-11T00:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988037190707015997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BarnsMonte5376…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/BarnsMonte53764/status/1987758861529530617",
+          "start": 14,
+          "url": "https://t.co/OYwiAwb2Am"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988037190707015997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987758861529530617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是一个美貌女子她叫小星。 https://t.co/OYwiAwb2Am"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1987758854315429888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XwJXqb0AA9IzW.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1987758854344736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XwJXxbAAA7u10.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988037190707015997",
+        "created_at": "2025-11-11T00:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988037190707015997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BarnsMonte5376…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/BarnsMonte53764/status/1987758861529530617",
+              "start": 14,
+              "url": "https://t.co/OYwiAwb2Am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988037190707015997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987758861529530617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一个美貌女子她叫小星。 https://t.co/OYwiAwb2Am"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987758854315429888",
+            "3_1987758854344736768"
+          ]
+        },
+        "author_id": "1978993333419806721",
+        "conversation_id": "1987758861529530617",
+        "created_at": "2025-11-10T05:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987758861529530617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "互转"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "非绿"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1euOt2of3t",
+              "end": 167,
+              "expanded_url": "https://x.com/BarnsMonte53764/status/1987758861529530617/photo/1",
+              "media_key": "3_1987758854315429888",
+              "start": 144,
+              "url": "https://t.co/1euOt2of3t"
+            },
+            {
+              "display_url": "pic.x.com/1euOt2of3t",
+              "end": 167,
+              "expanded_url": "https://x.com/BarnsMonte53764/status/1987758861529530617/photo/1",
+              "media_key": "3_1987758854344736768",
+              "start": 144,
+              "url": "https://t.co/1euOt2of3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987758861529530617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2298,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这里小星，没有上学家里不给生活费了出来求收留求金主爸爸带走中…\n有愿意要小星的门哥吗我什么都愿意做接半绿非绿都可以\n线上指定任务也会做\n聊天、陪玩等有需要都能咨询哦\n我没地方住每天只能靠朋友收留挂壁所以如果有能提供住处的更好在哪都可以去找你的\n#门槛妹 #互转 #爸爸活 #非绿 #线下 https://t.co/1euOt2of3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，原推名一刀脂肪层，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 245,
+          "like_count": 577,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 879
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T01:15:54.000Z",
+        "description": "我是小星，🚪99 199 299可以叠加升门无上限，支持验证，没回就是在睡觉，喜欢我的请私信",
+        "id": "1978993333419806721",
+        "name": "🌟",
+        "pinned_tweet_id": "1987758861529530617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987755744670920704/KV7Yq6fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "BarnsMonte53764",
+        "verified": false
+      }
+    ]
+  }
+}

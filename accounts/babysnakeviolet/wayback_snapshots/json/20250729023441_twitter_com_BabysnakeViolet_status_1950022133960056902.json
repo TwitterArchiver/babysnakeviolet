@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1950022133960056902",
+    "created_at": "2025-07-29T02:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T03:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950022133960056902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/D1nn2r_8964/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/D1nn2r_8964/status/1949411797318193314",
+          "start": 14,
+          "url": "https://t.co/9PXS0Eb6VX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950022133960056902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949411797318193314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我19岁就做技师怎么活？ https://t.co/9PXS0Eb6VX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1950022133960056902",
+        "created_at": "2025-07-29T02:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950022133960056902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/D1nn2r_8964/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/D1nn2r_8964/status/1949411797318193314",
+              "start": 14,
+              "url": "https://t.co/9PXS0Eb6VX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950022133960056902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949411797318193314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我19岁就做技师怎么活？ https://t.co/9PXS0Eb6VX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808697284206678016",
+        "conversation_id": "1949390082626162695",
+        "created_at": "2025-07-27T10:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949411797318193314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2596381225",
+              "start": 0,
+              "username": "vir_coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949411797318193314",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1043,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949390082626162695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@vir_coconut 老了不回归现实就该当技师了😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 152,
+          "like_count": 322,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 571
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学本科生，想成为鸟类保护工作者（最喜欢的鸟是扇尾鶲）/阿森纳球迷/物语厨（班长厨）/月厨（樱厨）/资深酒鬼烟鬼，威士忌吹🥃非专业新手调酒师/没有性别没有性取向/恋痛switch/老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "Dinnerstuff"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "纽村中南海",
+        "name": "D1nn2r Stuff🇳🇿8964（奥克兰逼脸",
+        "pinned_tweet_id": "1826057572857819625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 743,
+          "like_count": 6413,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 2686
+        },
+        "username": "D1nn2r_8964",
+        "verified": false
+      }
+    ]
+  }
+}

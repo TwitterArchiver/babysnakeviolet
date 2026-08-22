@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988640935832617276",
+    "created_at": "2025-11-12T23:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T00:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988745221962924301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407946975127883777",
+          "start": 0,
+          "username": "brandon94623"
+        },
+        {
+          "end": 30,
+          "id": "1763381254035251200",
+          "start": 14,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988745221962924301",
+    "in_reply_to_user_id": "1407946975127883777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988644336024920107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brandon94623 @yowamushi120720 加重量变成健身人士了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988640935832617276",
+        "created_at": "2025-11-12T23:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T00:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988745221962924301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407946975127883777",
+              "start": 0,
+              "username": "brandon94623"
+            },
+            {
+              "end": 30,
+              "id": "1763381254035251200",
+              "start": 14,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988745221962924301",
+        "in_reply_to_user_id": "1407946975127883777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988644336024920107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brandon94623 @yowamushi120720 加重量变成健身人士了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407946975127883777",
+        "conversation_id": "1988640935832617276",
+        "created_at": "2025-11-12T16:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988644336024920107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988644336024920107",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988640935832617276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 每日長跑10公里、每天100次伏地挺身、100次仰臥起坐、100次深蹲，為期三年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 261,
+          "like_count": 984,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 998
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T06:21:42.000Z",
+        "description": "大學生跟檔案玩家一個，主要在discord活動，反對中共，廣義的民主社會主義者，要互跟的話可以私訊\nbluesky：https://t.co/t56HRVw1A3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/brando…",
+                "end": 81,
+                "expanded_url": "https://bsky.app/profile/brandon-yu.bsky.social",
+                "start": 58,
+                "url": "https://t.co/t56HRVw1A3"
+              }
+            ]
+          }
+        },
+        "id": "1407946975127883777",
+        "location": "Taiwan",
+        "name": "榨甘蔗救台灣🇹🇼",
+        "pinned_tweet_id": "1949869235158601807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850879781572866048/C4t9EMan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 252,
+          "like_count": 8864,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 3284
+        },
+        "username": "brandon94623",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜双a，精神病，神经质症不安desu，社交问题见谅，如无意冒犯请多多包容不用当真｜性格差，精神洁癖的理想主义者，小孩不想长大。互fo",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン#朝仓一",
+        "pinned_tweet_id": "1784505372524638218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 578,
+          "like_count": 35528,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 3042
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

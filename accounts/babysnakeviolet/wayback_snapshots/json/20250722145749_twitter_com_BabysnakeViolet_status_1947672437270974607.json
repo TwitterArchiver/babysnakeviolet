@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1947339775616422296",
+    "created_at": "2025-07-22T14:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947672437270974607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829498397184946176",
+          "start": 0,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947672437270974607",
+    "in_reply_to_user_id": "1829498397184946176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 119,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947339775616422296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxihuigui 凉兮我是你粉丝，同时我是地雷女OD还自残原生家庭也不好 我还下过海，你能不能给我钱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1947339775616422296",
+        "created_at": "2025-07-22T14:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947672437270974607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947672437270974607",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947339775616422296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 凉兮我是你粉丝，同时我是地雷女OD还自残原生家庭也不好 我还下过海，你能不能给我钱？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829498397184946176",
+        "conversation_id": "1947339775616422296",
+        "created_at": "2025-07-21T16:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:55:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947339584075141551",
+          "1947339775616422296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947339775616422296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我如果是个女的，我压根不会做爱，因为我觉得造物主在设计女人的时候就不公平，男女之间做爱，男人不仅被造物主设置成了进攻型，就连性爱的姿势女人也很被动，女人躺着被男人操的时候，小穴被男人看光，屁眼也被看见，而女人躺着根本看不见男人的鸡巴，女人被后入的时候也是这样屁眼和小穴背看光，也看不到男人的鸡巴，女人在上位也是这样，不管女人哪个姿势都很难看到男人的鸡巴\n\n在性爱方面就是不平等，我如果是个女人我很有尊严，不会轻易撬开我自己的腿，给我多少钱我都不会给男人操，现代的女人很多已经不守妇道了，绿人，去为了钱卖淫，去做捞女，可以说没有比凉兮更尊重女人了，所以凉兮对女人无比的失望，因为太尊重女人了，看到现在很多女宝为了钱去堕落，我心有不甘！我希望凉兮的女粉丝都活的有骨气，不要轻易撬开自己的腿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 176094,
+          "like_count": 181,
+          "quote_count": 1,
+          "reply_count": 199,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我如果是个女的，我压根不会做爱，因为我觉得造物主在设计女人的时候就不公平，男女之间做爱，男人不仅被造物主设置成了进攻型，就连性爱的姿势女人也很被动，女人躺着被男人操的时候，小穴被男人看光，屁眼也被看见，而女人躺着根本看不见男人的鸡巴，女人被后入的时候也是这样屁眼和小穴背看光，也看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 146,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 558
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人性别男，喜欢女（地雷系）负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，因为负债这几年导致重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，支持言论自由不拉黑任何人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎已上环已结扎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908861280066420736/8nYRtT6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355564,
+          "following_count": 461,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 2262,
+          "tweet_count": 6246
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

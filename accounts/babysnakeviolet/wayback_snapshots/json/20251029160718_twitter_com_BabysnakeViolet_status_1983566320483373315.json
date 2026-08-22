@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983470888751382675",
+    "created_at": "2025-10-29T16:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983566320483373315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983566320483373315",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983470888751382675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 妈妈爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2533,
+        "height": 1280,
+        "media_key": "7_1983470868429979648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983470868429979648/pu/img/sakRfCJKoCETxvZ4.jpg",
+        "public_metrics": {
+          "view_count": 4107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983470868429979648/pu/vid/avc1/320x568/3YXdfRozWE0xgr3h.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983470868429979648/pu/vid/avc1/480x852/59LOzOnjpwGdyxY4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983470868429979648/pu/vid/avc1/720x1280/ru4zHDVNkwXuJ4_S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983470868429979648/pu/pl/TJOfvv2anFXpwZU9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983470888751382675",
+        "created_at": "2025-10-29T16:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983566320483373315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983566320483373315",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983470888751382675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 妈妈爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983470868429979648"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "1983470888751382675",
+        "created_at": "2025-10-29T09:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983470888751382675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8qFKf6Vuo",
+              "end": 25,
+              "expanded_url": "https://x.com/KBDYD555/status/1983470888751382675/video/1",
+              "media_key": "7_1983470868429979648",
+              "start": 2,
+              "url": "https://t.co/D8qFKf6Vuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983470888751382675",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 7989,
+          "like_count": 1298,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "🫀 https://t.co/D8qFKf6Vuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 213,
+          "like_count": 429,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 708
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99 现世碎碎念/花枝鼠/sh/ed/互关回来吧...\nhere is my life with my rats🐭🥰\n老鼠：👼🏻糯糯👼🏻小八🐭芒狗/妹宝/吱吱/小糯/小囧/馒头/春卷/小雪球/minino/小豆\n喜欢我的话就给我钱吧不管多少都很感谢",
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（99转世",
+        "pinned_tweet_id": "1974847135830163600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904178041099792384/ihCk99UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 299,
+          "like_count": 2393,
+          "listed_count": 8,
+          "media_count": 717,
+          "tweet_count": 2513
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

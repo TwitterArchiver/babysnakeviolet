@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995099193761993211",
+    "created_at": "2025-11-30T12:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995112568382230553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939668417428307968",
+          "start": 0,
+          "username": "Rain01280"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995112568382230553",
+    "in_reply_to_user_id": "1939668417428307968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 43,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995099193761993211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain01280 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995099193761993211",
+        "created_at": "2025-11-30T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995112568382230553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939668417428307968",
+              "start": 0,
+              "username": "Rain01280"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995112568382230553",
+        "in_reply_to_user_id": "1939668417428307968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995099193761993211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain01280 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939668417428307968",
+        "conversation_id": "1995099193761993211",
+        "created_at": "2025-11-30T11:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995099193761993211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995099193761993211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你的生活最近太顺心了那就去找找你的身份证吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 289,
+          "like_count": 1448,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1285
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T12:52:49.000Z",
+        "description": "讓人厭倦的世界",
+        "id": "1939668417428307968",
+        "location": "天堂",
+        "name": "直至我死亡的那一刻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990301768341975040/76jpXwmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 37,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 607
+        },
+        "username": "Rain01280",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993075987400344026",
+    "created_at": "2025-11-24T21:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T22:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993075987400344026"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993075987400344026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我越想越生气，现在属于是气的发抖的状态，傻逼安定💊谁几把爱吃谁吃，我要保持我的愤怒和仇恨活下去，活下去，还有那些个该死的傻逼门哥，你们有些人也是坏的要死应该被我虐杀的，我看见你们亲人的尸体了，腐烂好臭要不要我刨你家祖坟挖出来给你当下酒菜啊？继续嗑药，我好痛苦啊，我只想活着有错吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993075987400344026",
+        "created_at": "2025-11-24T21:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T22:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993075987400344026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993075987400344026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我越想越生气，现在属于是气的发抖的状态，傻逼安定💊谁几把爱吃谁吃，我要保持我的愤怒和仇恨活下去，活下去，还有那些个该死的傻逼门哥，你们有些人也是坏的要死应该被我虐杀的，我看见你们亲人的尸体了，腐烂好臭要不要我刨你家祖坟挖出来给你当下酒菜啊？继续嗑药，我好痛苦啊，我只想活着有错吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病不怎么会聊天抗压能力非常差，会回fo每个女孩，入门默认不退，所有女孩都可以找我帮你转发自介，不用帮我转。🥰",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 283,
+          "like_count": 1405,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1236
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

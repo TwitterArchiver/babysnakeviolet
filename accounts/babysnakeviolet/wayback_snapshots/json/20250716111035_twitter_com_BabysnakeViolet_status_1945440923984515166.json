@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1945440663115636979",
+    "created_at": "2025-07-16T11:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T12:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945440923984515166"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945440923984515166",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945440663115636979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这几个星期我和她约好了要好好陪她玩 可是我没精力 做什么都没力气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1945440663115636979",
+        "created_at": "2025-07-16T11:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945440923984515166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945440923984515166",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945440663115636979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这几个星期我和她约好了要好好陪她玩 可是我没精力 做什么都没力气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1945440663115636979",
+        "created_at": "2025-07-16T11:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945440663115636979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945440663115636979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认识很多年的朋友回来了 我应该和她出去玩吃好吃的拍照片聊聊彼此的近况 但她上次和我还有曾志超打视频好像被我视频割手吓到了  我不知道该怎么和她聊天了 跟她讲我之前下海了痛苦的活着精心修的图都是假的我没有那么幸福？唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 141,
+          "like_count": 311,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 535
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2071770507155034459",
+    "created_at": "2026-07-01T12:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072298062996005247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977438559817854976",
+          "start": 0,
+          "username": "b7520chazhi"
+        },
+        {
+          "end": 29,
+          "id": "1880803334405435393",
+          "start": 13,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072298062996005247",
+    "in_reply_to_user_id": "1977438559817854976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071770507155034459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b7520chazhi @tiantmaoshenshi 我已急哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2071770507155034459",
+        "created_at": "2026-07-01T12:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072298062996005247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977438559817854976",
+              "start": 0,
+              "username": "b7520chazhi"
+            },
+            {
+              "end": 29,
+              "id": "1880803334405435393",
+              "start": 13,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072298062996005247",
+        "in_reply_to_user_id": "1977438559817854976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071770507155034459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b7520chazhi @tiantmaoshenshi 我已急哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977438559817854976",
+        "conversation_id": "2071770507155034459",
+        "created_at": "2026-06-30T01:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071770507155034459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071770507155034459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9199,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "宁愿做不会化妆打扮的漂亮女孩也不想做化妆p图技术精湛的丑人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，推文当日记本发，入门请私信\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 612,
+          "like_count": 2774,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1966
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T18:17:59.000Z",
+        "description": "主页全是片的人关注我会死全家\n只和女生玩 有妹子想和我互的可以直接私信我",
+        "id": "1977438559817854976",
+        "name": "kisana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067564632680890368/y50FPeBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 56,
+          "like_count": 1812,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "b7520chazhi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子     \n负能量警告⚠️     \n2.3次元人     \n不是好人     \n双相精分犯抽的时候会很烦，对不起，请蔽我     \n不发推就是在现生/思考/浮起     \n来和我交朋友互fo吧(`･ω･´)ゞ",
+        "id": "1880803334405435393",
+        "location": "中北海 🚪44",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 882,
+          "like_count": 11082,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 6415
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2043814707287753040",
+    "created_at": "2026-04-14T06:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043945204202532993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008420775204896768",
+          "start": 0,
+          "username": "saki7999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043945204202532993",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043873493016801327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saki7999 正在为您审核，请不要离开页面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2043814707287753040",
+        "created_at": "2026-04-14T06:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043945204202532993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "saki7999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043945204202532993",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043873493016801327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saki7999 正在为您审核，请不要离开页面。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2043814707287753040",
+        "created_at": "2026-04-14T02:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043873493016801327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043873493016801327",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043814707287753040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 无需补充 立即开方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 445,
+          "like_count": 2068,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 1784
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "name": "荼蘼花",
+        "pinned_tweet_id": "2042835279783043322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043633849297698816/WfroaZn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 33,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1499
+        },
+        "username": "saki7999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2015084795349422324",
+    "created_at": "2026-01-24T19:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015138262264995860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015138262264995860",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015084795349422324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 求黑幕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2015084780249812992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cE7mcWEAAn9sQ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015084780245667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cE7mbW0AAS1YS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2015084795349422324",
+        "created_at": "2026-01-24T19:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015138262264995860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015138262264995860",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015084795349422324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 求黑幕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015084780249812992",
+            "3_2015084780245667840"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015084795349422324",
+        "created_at": "2026-01-24T15:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015084795349422324"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "普瑞"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "pr80"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "od"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "药代"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTzrQt9Gkq",
+              "end": 113,
+              "expanded_url": "https://x.com/Re1_y0/status/2015084795349422324/photo/1",
+              "media_key": "3_2015084780249812992",
+              "start": 90,
+              "url": "https://t.co/bTzrQt9Gkq"
+            },
+            {
+              "display_url": "pic.x.com/bTzrQt9Gkq",
+              "end": 113,
+              "expanded_url": "https://x.com/Re1_y0/status/2015084795349422324/photo/1",
+              "media_key": "3_2015084780245667840",
+              "start": 90,
+              "url": "https://t.co/bTzrQt9Gkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015084795349422324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 941,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#普瑞巴林 #普瑞 #pr80 #od #药代\n来找我买普瑞好不qwq\n态度温和做事尽责回头客🈶客返有十几二十单\n\n这条🧱抽一个宝宝免费代购一盒瑞鹤150mg✖️42t的普瑞巴林 https://t.co/bTzrQt9Gkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 423,
+          "like_count": 2018,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1616
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾 160/50kg｜🚪88/188/288/520 过门解锁聊天和无码doi视频及照片 目前开放线下纯绿 私信只回复口令 有事三句话内说清楚 门槛药代以外的事骚扰直接拉黑 ｜DO NOT re-upload or use my photos ｜现接代购普瑞 接伤口定制 ｜女朋友 @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 142,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ｜接普瑞代购30/次",
+        "pinned_tweet_id": "2010596021949345980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 280,
+          "like_count": 1941,
+          "listed_count": 5,
+          "media_count": 804,
+          "tweet_count": 5279
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1978095282941206884",
+    "created_at": "2025-10-14T19:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T20:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978179840332165567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1576214231158255618",
+          "start": 0,
+          "username": "ikutosu812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978179840332165567",
+    "in_reply_to_user_id": "1576214231158255618",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978095282941206884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikutosu812 yeah😓😓，even me n my friend just fly out the plane,we all get killed,crazy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40704,
+        "height": 720,
+        "media_key": "7_1978095129928826881",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978095129928826881/pu/img/x6i2_ISL60F5aiQN.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978095129928826881/pu/vid/avc1/432x270/_-C3ByBcbFOuIyvT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978095129928826881/pu/vid/avc1/576x360/sZe3A_T57HRFuj04.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978095129928826881/pu/vid/avc1/1152x720/nLsxuRLkLTjXc8TH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978095129928826881/pu/pl/W8wXTO1RUGSbR340.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1978095282941206884",
+        "created_at": "2025-10-14T19:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978179840332165567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576214231158255618",
+              "start": 0,
+              "username": "ikutosu812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978179840332165567",
+        "in_reply_to_user_id": "1576214231158255618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978095282941206884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikutosu812 yeah😓😓，even me n my friend just fly out the plane,we all get killed,crazy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978095129928826881"
+          ]
+        },
+        "author_id": "1576214231158255618",
+        "conversation_id": "1978095282941206884",
+        "created_at": "2025-10-14T13:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978095282941206884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lg5IYtkICT",
+              "end": 40,
+              "expanded_url": "https://x.com/ikutosu812/status/1978095282941206884/video/1",
+              "media_key": "7_1978095129928826881",
+              "start": 17,
+              "url": "https://t.co/Lg5IYtkICT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978095282941206884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "アプデ後のオクタンばかつよいやん https://t.co/Lg5IYtkICT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 194,
+          "like_count": 381,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 664
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T14:15:38.000Z",
+        "description": "荒野→COD→ヴァロモバ マイクラ",
+        "id": "1576214231158255618",
+        "name": "ぴっかぴか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954948130962812928/Z-zqeio5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 41,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 191
+        },
+        "username": "ikutosu812",
+        "verified": false
+      }
+    ]
+  }
+}

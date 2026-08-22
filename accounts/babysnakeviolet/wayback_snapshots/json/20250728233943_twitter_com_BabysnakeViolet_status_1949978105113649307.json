@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1949978105113649307",
+    "created_at": "2025-07-28T23:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T00:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949978105113649307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913087280279072768",
+          "start": 3,
+          "username": "420puuib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949978105113649307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949709656823336996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420puuib: 励志推动中国大麻合法化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1949978105113649307",
+        "created_at": "2025-07-28T23:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T00:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949978105113649307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913087280279072768",
+              "start": 3,
+              "username": "420puuib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949978105113649307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949709656823336996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420puuib: 励志推动中国大麻合法化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913087280279072768",
+        "conversation_id": "1949709656823336996",
+        "created_at": "2025-07-28T05:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949709656823336996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949709656823336996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "励志推动中国大麻合法化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 152,
+          "like_count": 320,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 569
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:28:53.000Z",
+        "description": "心平能愈三千疾 心静可通万事理 永立不败之地\n\n                                认准puuib\n自营地区：上海 杭州 长沙 武汉 成都",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asiadrug",
+                "end": 23,
+                "expanded_url": "https://t.me/asiadrug",
+                "start": 0,
+                "url": "https://t.co/dIgNVyMaXd"
+              }
+            ]
+          }
+        },
+        "id": "1913087280279072768",
+        "location": "Peace and love",
+        "name": "马赛克（420Dealer）",
+        "pinned_tweet_id": "1930321531261071648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940626832186875904/amlhWcqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 233,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/dIgNVyMaXd",
+        "username": "420puuib",
+        "verified": false
+      }
+    ]
+  }
+}

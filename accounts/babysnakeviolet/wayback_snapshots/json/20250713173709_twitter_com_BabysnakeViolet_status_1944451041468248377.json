@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1944219448342384770",
+    "created_at": "2025-07-13T17:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T18:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944451041468248377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692408428642357248",
+          "start": 0,
+          "username": "chiyoukawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944451041468248377",
+    "in_reply_to_user_id": "1692408428642357248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944219448342384770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoukawai 可以。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1944219448342384770",
+        "created_at": "2025-07-13T17:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T18:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944451041468248377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692408428642357248",
+              "start": 0,
+              "username": "chiyoukawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944451041468248377",
+        "in_reply_to_user_id": "1692408428642357248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944219448342384770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoukawai 可以。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692408428642357248",
+        "conversation_id": "1944219448342384770",
+        "created_at": "2025-07-13T02:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944219448342384770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944219448342384770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9595,
+          "like_count": 116,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一口气b了推特上所有男的，只留了个最喜欢的，希望你能看见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她了 可以来找她互关",
+        "id": "1289504272506392576",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 142,
+          "like_count": 302,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 520
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T05:29:59.000Z",
+        "description": "いいね≠認同\nムツキは世界一1⃣️1⃣️1⃣️\n日本語👌 EN👌CN👌 16歳女子高一生\nホロライブ ヨルシカ BAND-MAIDが好き 兔兔派 兔兔黨 兔兔主義😼😼 以及我不能使用私信🙇‍♀️🙇‍♀️上推衹是為了看可愛的東西 我害怕建政的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi",
+                "start": 0,
+                "url": "https://t.co/SR2vL36YlE"
+              }
+            ]
+          }
+        },
+        "id": "1692408428642357248",
+        "location": "兔兔窩",
+        "name": "koieivi🍰🍙💊",
+        "pinned_tweet_id": "1918913241893200170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943162203042897920/NkhyQGf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 442,
+          "like_count": 21321,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/SR2vL36YlE",
+        "username": "chiyoukawai",
+        "verified": false
+      }
+    ]
+  }
+}

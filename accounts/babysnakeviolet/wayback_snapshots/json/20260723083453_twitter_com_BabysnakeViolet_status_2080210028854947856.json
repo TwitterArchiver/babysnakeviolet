@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2080210028854947856",
+    "created_at": "2026-07-23T08:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080210028854947856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liaojieta1/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/liaojieta1/status/2006308406043492485",
+          "start": 20,
+          "url": "https://t.co/yyl79Cuhnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080210028854947856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006308406043492485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看的好难过结果这不是本人发的我无语了 https://t.co/yyl79Cuhnc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2080210028854947856",
+        "created_at": "2026-07-23T08:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080210028854947856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liaojieta1/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/liaojieta1/status/2006308406043492485",
+              "start": 20,
+              "url": "https://t.co/yyl79Cuhnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080210028854947856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006308406043492485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看的好难过结果这不是本人发的我无语了 https://t.co/yyl79Cuhnc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980992351930863616",
+        "conversation_id": "2006308406043492485",
+        "created_at": "2025-12-31T10:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006308406043492485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006308406043492485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大二的时候在字母圈的软件上遇到的他，他打招呼问要不要bao养我？一个月两万。\n我家境不太好，当时心智也不够成熟，他给出的数字是我生活费的好多倍，我抗拒不了诱惑，就和他加了好友聊了聊。他说谈了五年的女朋友和他分手了，他选择用这种方式治愈创伤，他给我钱，我陪他谈恋爱。\n我答应了。我们第一次见面就在酒店里，我其实做好了他会是啤酒肚男或者小矮人的准备，但是他长得蛮帅的。我开始觉得他可能看不上我，或许我赚不到这笔钱了，但是我们后来一起走过了挺长一段路。我们的关系维持了四年。开始时他26岁，现在他三十岁了，该结婚了。\n在这四年里，他带我去了很多地方，我毕业后他引荐我认识了一些我原本可能这辈子也结交不到的人，也教我很多人情世故，帮我打点关系，事业的蒸蒸日上让我始终漂泊无依的心在这个城市里慢慢变得丰盈充实。他很体贴入微，从酒店回去的那天晚上他问我爱吃什么？喜欢什么？我没什么见识，怕他笑话我就说我没什么不喜欢的。他没说什么，只是之后的日子里不停喊我陪他吃饭，陪他逛街，他渐渐知道我喜欢什么不喜欢什么了。每个节日纪念日他都有礼物送给我，我的第一部苹果手机到现在的每一部都是他给我换的。说实话，他甚至比我真心谈过的任何一个男朋友对我都要好。其实谁都看得出来，我对他也是真心了。我幻想过他能忘掉前女友，幻想过我们能变成真正的情侣，幻想过我和他最后会有个美满的结果。\n但我知道，这些都只是幻想。我们之间隔了千山万水，那是一条永远也走不尽的路。我毕业那年他和前女友其实又有了联系，他晚上开车去找她的时候我就站在窗边，直到汽车尾灯消失在我的视线里。我那个时候想的不是赚不到这笔钱了，是我要失去他了。他们最终没有复合，我感到庆幸。\n我没有和他提起过这件事，在他们的羁绊和纠葛中我是个局外人。或者说，在他的感情世界里，我只是个局外人。换做现在的话，我也说不清，和他同行的岁月到底值不值得。一段没有意义的关系，四年的时间，我的所有情感，我现在拥有的东西。\n我是个物质的女人，我得到了我想要的，这应该是令我欣喜若狂的，但我现在只有悲伤。一种很踏实的悲伤。扎根在我心里的悲伤，我任凭它长得茁壮。悲伤也能将我填满，当所有爱都抽离的时候。\n他这个时间应该正和未婚妻相拥而眠。如果我是他就好了，就可以也给人家发消息说：要不要我包养你？一个月两万。可没人治得好我的创伤，我自己会一遍又一遍在伤口上留下新的疤。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 71426,
+          "like_count": 232,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大二的时候在字母圈的软件上遇到的他，他打招呼问要不要bao养我？一个月两万。\n我家境不太好，当时心智也不够成熟，他给出的数字是我生活费的好多倍，我抗拒不了诱惑，就和他加了好友聊了聊。他说谈了五年的女朋友和他分手了，他选择用这种方式治愈创伤，他给我钱，我陪他谈恋爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 627,
+          "like_count": 3192,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 2057
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T13:39:26.000Z",
+        "description": "#电子烟 各品牌正品零售联系方式：\n///薇v：RELX0️⃣1️⃣JK，///\n///QQ：2422848️⃣8️⃣8️⃣9️⃣，///\n///备用V：WKT9️⃣PD2️⃣2️⃣，///\n///TG：https://t.co/WZntYufb8F，///\n悦刻，冰熊，崧，鸭嘴兽，零售各种品牌正品电子烟。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "电子烟"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Vita0754",
+                "end": 125,
+                "expanded_url": "http://t.me/Vita0754",
+                "start": 102,
+                "url": "https://t.co/WZntYufb8F"
+              }
+            ]
+          }
+        },
+        "id": "1980992351930863616",
+        "name": "百川🚬电子烟各品牌正品悦刻鸭嘴兽冰熊",
+        "pinned_tweet_id": "2008816059957342282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031980163479793664/fmaYdQMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14014,
+          "following_count": 3,
+          "like_count": 133,
+          "listed_count": 15,
+          "media_count": 24,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "liaojieta1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993673442470871438",
+    "created_at": "2025-11-26T14:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993685948710699320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993685948710699320",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993673442470871438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 糖心的最美味，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_1993673426905808896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzazjbQAA1Xlx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1088,
+        "media_key": "3_1993673427081887744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rza0NaAAAjdCl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2136,
+        "media_key": "3_1993673426704420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzayzaUAAsebr.jpg",
+        "width": 876
+      },
+      {
+        "height": 1088,
+        "media_key": "3_1993673431402098688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rzbETbMAANUPe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993673442470871438",
+        "created_at": "2025-11-26T14:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993685948710699320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993685948710699320",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993673442470871438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 糖心的最美味，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993673426905808896",
+            "3_1993673427081887744",
+            "3_1993673426704420864",
+            "3_1993673431402098688"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993673442470871438",
+        "created_at": "2025-11-26T13:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993673442470871438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWKM8IrzQm",
+              "end": 29,
+              "expanded_url": "https://x.com/liu_lu43456/status/1993673442470871438/photo/1",
+              "media_key": "3_1993673426905808896",
+              "start": 6,
+              "url": "https://t.co/gWKM8IrzQm"
+            },
+            {
+              "display_url": "pic.x.com/gWKM8IrzQm",
+              "end": 29,
+              "expanded_url": "https://x.com/liu_lu43456/status/1993673442470871438/photo/1",
+              "media_key": "3_1993673427081887744",
+              "start": 6,
+              "url": "https://t.co/gWKM8IrzQm"
+            },
+            {
+              "display_url": "pic.x.com/gWKM8IrzQm",
+              "end": 29,
+              "expanded_url": "https://x.com/liu_lu43456/status/1993673442470871438/photo/1",
+              "media_key": "3_1993673426704420864",
+              "start": 6,
+              "url": "https://t.co/gWKM8IrzQm"
+            },
+            {
+              "display_url": "pic.x.com/gWKM8IrzQm",
+              "end": 29,
+              "expanded_url": "https://x.com/liu_lu43456/status/1993673442470871438/photo/1",
+              "media_key": "3_1993673431402098688",
+              "start": 6,
+              "url": "https://t.co/gWKM8IrzQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993673442470871438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完美荷包蛋 https://t.co/gWKM8IrzQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 283,
+          "like_count": 1400,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1250
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟣🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/null/🟪🟣⚖️⚖️⚖️/💊OD💊/自伤🔪/双相👥/♥️泛性恋♥️/       ❌❌不参与政治讨论，烦/最害怕一种生物，大傻逼/       ⭕⭕音乐🎶/绘画🎨/阅读📖/动漫与电影🎬/新知识📚  ‼️我什么推文都有概率发，祝你开心呢‼️",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "1988624434773557593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985065808847044608/Uat0xkD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 109,
+          "like_count": 343,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 1053
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

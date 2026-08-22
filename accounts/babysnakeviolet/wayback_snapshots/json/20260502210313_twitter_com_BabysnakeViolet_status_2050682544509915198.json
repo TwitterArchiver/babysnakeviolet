@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2050630345935179841",
+    "created_at": "2026-05-02T21:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T22:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050682544509915198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050682544509915198",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050630345935179841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 欧尼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050630336208601088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVNbRNagAAmkcT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2050630345935179841",
+        "created_at": "2026-05-02T21:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T22:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050682544509915198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050682544509915198",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050630345935179841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 欧尼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050630336208601088"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2050630345935179841",
+        "created_at": "2026-05-02T17:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050630345935179841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Di0hde9Nk",
+              "end": 29,
+              "expanded_url": "https://x.com/8964_Y/status/2050630345935179841/photo/1",
+              "media_key": "3_2050630336208601088",
+              "start": 6,
+              "url": "https://t.co/1Di0hde9Nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050630345935179841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 259,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好啊～ https://t.co/1Di0hde9Nk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 540,
+          "like_count": 2585,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1902
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧｜🚪300/520无区别纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2045059902994030788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6261,
+          "following_count": 740,
+          "like_count": 22960,
+          "listed_count": 19,
+          "media_count": 1091,
+          "tweet_count": 16103
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

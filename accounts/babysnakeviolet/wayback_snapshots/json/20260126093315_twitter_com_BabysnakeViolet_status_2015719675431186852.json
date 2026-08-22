@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2015708868509310979",
+    "created_at": "2026-01-26T09:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015719675431186852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015719675431186852",
+    "in_reply_to_user_id": "488823839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015708868509310979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2015708865262964736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k8iISa0AAaGoj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2015708868509310979",
+        "created_at": "2026-01-26T09:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015719675431186852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015719675431186852",
+        "in_reply_to_user_id": "488823839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015708868509310979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015708865262964736"
+          ]
+        },
+        "author_id": "488823839",
+        "conversation_id": "2015708868509310979",
+        "created_at": "2026-01-26T08:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015708868509310979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzfmJxhhPy",
+              "end": 42,
+              "expanded_url": "https://x.com/taikongjile000/status/2015708868509310979/photo/1",
+              "media_key": "3_2015708865262964736",
+              "start": 19,
+              "url": "https://t.co/mzfmJxhhPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015708868509310979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人只在系度时低头 \n只对爱的人温柔 https://t.co/mzfmJxhhPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 428,
+          "like_count": 2073,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1646
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/G0KfQSHAWC\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 49,
+                "expanded_url": "https://overdose.day/",
+                "start": 26,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 71,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 53
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

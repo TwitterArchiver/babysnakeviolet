@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983588431444791320",
+    "created_at": "2025-10-29T18:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T19:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983605795821646323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983605795821646323",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983588431444791320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 你是我爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17514,
+        "height": 1280,
+        "media_key": "7_1983588017232093184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983588017232093184/pu/img/LedEPuEgsIpnNMsx.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983588017232093184/pu/vid/avc1/320x568/lMAdn1yb1z_iRI-U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983588017232093184/pu/vid/avc1/480x852/CfPbYvRJp6Kc69ZV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983588017232093184/pu/vid/avc1/720x1280/tT6mQHp-8ABeIaWO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983588017232093184/pu/pl/Z16tH33lGWMPbGjI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983588431444791320",
+        "created_at": "2025-10-29T18:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983605795821646323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983605795821646323",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983588431444791320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 你是我爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983588017232093184"
+          ]
+        },
+        "author_id": "1836276354041495553",
+        "conversation_id": "1983588431444791320",
+        "created_at": "2025-10-29T17:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983588431444791320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDCFWULmqv",
+              "end": 23,
+              "expanded_url": "https://x.com/CABR_Lies/status/1983588431444791320/video/1",
+              "media_key": "7_1983588017232093184",
+              "start": 0,
+              "url": "https://t.co/IDCFWULmqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983588431444791320",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 193,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IDCFWULmqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 218,
+          "like_count": 440,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 722
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGT4fs"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520525583282176/9mW8aMP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 150,
+          "like_count": 22570,
+          "listed_count": 3,
+          "media_count": 794,
+          "tweet_count": 11814
+        },
+        "url": "https://t.co/sFJNxGT4fs",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

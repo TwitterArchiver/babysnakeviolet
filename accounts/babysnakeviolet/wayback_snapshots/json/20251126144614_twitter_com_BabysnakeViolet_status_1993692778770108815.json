@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993691359715471579",
+    "created_at": "2025-11-26T14:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993692778770108815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667385380692439040",
+          "start": 0,
+          "username": "iuu_0_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993692778770108815",
+    "in_reply_to_user_id": "1667385380692439040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993691359715471579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iuu_0_o o吧o吧不是罪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993691359715471579",
+        "created_at": "2025-11-26T14:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993692778770108815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667385380692439040",
+              "start": 0,
+              "username": "iuu_0_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993692778770108815",
+        "in_reply_to_user_id": "1667385380692439040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993691359715471579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iuu_0_o o吧o吧不是罪。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667385380692439040",
+        "conversation_id": "1993691359715471579",
+        "created_at": "2025-11-26T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993691359715471579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993691359715471579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没忍住又在od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 283,
+          "like_count": 1401,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1252
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:17:20.000Z",
+        "description": "纯绿🚪52｜自伤｜od｜接伤口定制",
+        "id": "1667385380692439040",
+        "name": "U",
+        "pinned_tweet_id": "1898735897979568278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918683932041846784/LJcfKBn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 172,
+          "like_count": 2084,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 834
+        },
+        "username": "iuu_0_o",
+        "verified": false
+      }
+    ]
+  }
+}

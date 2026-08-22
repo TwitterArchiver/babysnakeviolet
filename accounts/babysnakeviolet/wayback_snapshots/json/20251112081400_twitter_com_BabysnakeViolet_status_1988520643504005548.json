@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988520643504005548",
+    "created_at": "2025-11-12T08:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T09:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988520643504005548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956952041840164864",
+          "start": 3,
+          "username": "yuyuou233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988520643504005548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967187970869583887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyuou233: 这里是小干草的置顶呀\n前号主上学之后忙于现生刚好我前世被害所以转号给我了😭\n我需要钱和爱来维持我的生活\n我有一些烟瘾和药瘾入门可以看我发疯\n我很好说话的可以经常和我聊天\n希望有人可以可怜我谢谢orz\n欢迎大家和我互粉互转，看到了会回的! https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988520643504005548].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988520643504005548",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988520643504005548"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_1967187942906159105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zbAu9aYAEXlvc.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1967187942922993665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zbAvBbQAE08dg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 711,
+        "media_key": "3_1967187942922919936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zbAvBaIAALsZK.jpg",
+        "width": 1067
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967187942943911936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zbAvGacAAA0ut.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967187942906159105",
+            "3_1967187942922993665",
+            "3_1967187942922919936",
+            "3_1967187942943911936"
+          ]
+        },
+        "author_id": "1956952041840164864",
+        "conversation_id": "1967187970869583887",
+        "created_at": "2025-09-14T11:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967187970869583887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCs5ZW5B5Z",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuou233/status/1967187970869583887/photo/1",
+              "media_key": "3_1967187942906159105",
+              "start": 119,
+              "url": "https://t.co/tCs5ZW5B5Z"
+            },
+            {
+              "display_url": "pic.x.com/tCs5ZW5B5Z",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuou233/status/1967187970869583887/photo/1",
+              "media_key": "3_1967187942922993665",
+              "start": 119,
+              "url": "https://t.co/tCs5ZW5B5Z"
+            },
+            {
+              "display_url": "pic.x.com/tCs5ZW5B5Z",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuou233/status/1967187970869583887/photo/1",
+              "media_key": "3_1967187942922919936",
+              "start": 119,
+              "url": "https://t.co/tCs5ZW5B5Z"
+            },
+            {
+              "display_url": "pic.x.com/tCs5ZW5B5Z",
+              "end": 142,
+              "expanded_url": "https://x.com/yuyuou233/status/1967187970869583887/photo/1",
+              "media_key": "3_1967187942943911936",
+              "start": 119,
+              "url": "https://t.co/tCs5ZW5B5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967187970869583887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18810,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小干草的置顶呀\n前号主上学之后忙于现生刚好我前世被害所以转号给我了😭\n我需要钱和爱来维持我的生活\n我有一些烟瘾和药瘾入门可以看我发疯\n我很好说话的可以经常和我聊天\n希望有人可以可怜我谢谢orz\n欢迎大家和我互粉互转，看到了会回的! https://t.co/tCs5ZW5B5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988400320150720512/XPoIj8ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 255,
+          "like_count": 747,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 957
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:31:50.000Z",
+        "description": "私信只回带口令的 IP浙江准确地址20",
+        "id": "1956952041840164864",
+        "name": "干草堆",
+        "pinned_tweet_id": "1967187970869583887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956952160455012352/_vqzJR8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 16,
+          "like_count": 167,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 300
+        },
+        "username": "yuyuou233",
+        "verified": false
+      }
+    ]
+  }
+}

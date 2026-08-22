@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983968847792369922",
+    "created_at": "2025-10-31T06:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T07:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984147593048551676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980539279622492160",
+          "start": 0,
+          "username": "Pardon_Love_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984147593048551676",
+    "in_reply_to_user_id": "1980539279622492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983968847792369922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pardon_Love_ 8:11 剧烈变形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983968847792369922",
+        "created_at": "2025-10-31T06:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T07:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984147593048551676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980539279622492160",
+              "start": 0,
+              "username": "Pardon_Love_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984147593048551676",
+        "in_reply_to_user_id": "1980539279622492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983968847792369922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pardon_Love_ 8:11 剧烈变形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980539279622492160",
+        "conversation_id": "1983968847792369922",
+        "created_at": "2025-10-30T18:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983968847792369922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983968847792369922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我主页全鸡巴是剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "母狗一条/叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 224,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 775
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T07:39:09.000Z",
+        "description": "※疯狂习近平乐队官方账号 420 从来不吸毒不嗑药不精神分析希特勒自慰洁身自好向警察举报也没用血药浓度为零东南亚头发每节不含笑气大麻冰毒可卡因海洛因吗啡lsd黑神话悟空三甲医院无精神分裂症乖乖15年出生的雌小鬼原神雷电将军跨性别咱喵纳粹大逼夹乌梅外星人小宝贝主人啊爸爸：@巴塔耶 @萨德 @CABR_Lies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 144,
+                "username": "CABR_Lies"
+              }
+            ]
+          }
+        },
+        "id": "1980539279622492160",
+        "name": "卐疯狂习近平卍",
+        "pinned_tweet_id": "1980555891922686017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982036998958219264/oN1cBGBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 8,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 150
+        },
+        "username": "Pardon_Love_",
+        "verified": false
+      }
+    ]
+  }
+}

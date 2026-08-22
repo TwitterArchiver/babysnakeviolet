@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2019253970594918640",
+    "created_at": "2026-02-05T17:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T18:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019459982962708869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993439218010640384",
+          "start": 0,
+          "username": "JacksonMan4490"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019459982962708869",
+    "in_reply_to_user_id": "1993439218010640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019284459674300923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JacksonMan4490 帮你也接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2019253970594918640",
+        "created_at": "2026-02-05T17:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019459982962708869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993439218010640384",
+              "start": 0,
+              "username": "JacksonMan4490"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019459982962708869",
+        "in_reply_to_user_id": "1993439218010640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019284459674300923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JacksonMan4490 帮你也接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993439218010640384",
+        "conversation_id": "2019253970594918640",
+        "created_at": "2026-02-05T05:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019284459674300923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019284459674300923",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019253970594918640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 🥲👆️可到🌸付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 436,
+          "like_count": 2057,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1659
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T21:59:05.000Z",
+        "description": "#香烟🚬\n#口粮🚬\n#免税香烟，一条起发，全国包邮!\n#货到付款，品类齐全/低价/保真!\n和天下380，中华细金边260,\n软阳光0，软中华280-329，等等高低端口粮🚬\n#价格低至冰点，量大价格从优!\n咨询联系点击下方✈群找我↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "香烟"
+              },
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "口粮"
+              },
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "免税香烟"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "货到付款"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "价格低至冰点"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aCI18GGQixJjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aCI18GGQixJjMDA1",
+                "start": 0,
+                "url": "https://t.co/BK6eGBgTNR"
+              }
+            ]
+          }
+        },
+        "id": "1993439218010640384",
+        "location": "加✈群咨询下单👉👉👉",
+        "name": "芙蓉王玉溪利群软中华和天下1916云烟煊赫门烟草鸿运口粮卡比龙贵烟陈皮爆珠雨花石爱喜免税香烟黄鹤楼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009921403458301952/hjWiKa-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/BK6eGBgTNR",
+        "username": "JacksonMan4490",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987686570275807468",
+    "created_at": "2025-11-10T01:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T02:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987687900176355821"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987687900176355821",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987686570275807468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没事的没事的，变成妓女也没事的，你在我心里一直是那个女孩你知道吗，你从来都没变过，他不愿意和你说的我说给你听，我知道你吃了好多苦你的天真成了社会刺向你的一把刀，我抱抱你我亲亲你我陪着你，没事的没事的，他们不明白你我明白的，我知道你的苦衷我知道你为什么过得这么可怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987686570275807468",
+        "created_at": "2025-11-10T01:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T02:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987687900176355821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987687900176355821",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987686570275807468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没事的没事的，变成妓女也没事的，你在我心里一直是那个女孩你知道吗，你从来都没变过，他不愿意和你说的我说给你听，我知道你吃了好多苦你的天真成了社会刺向你的一把刀，我抱抱你我亲亲你我陪着你，没事的没事的，他们不明白你我明白的，我知道你的苦衷我知道你为什么过得这么可怜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987686570275807468",
+        "created_at": "2025-11-10T00:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987686570275807468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987686570275807468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我应该平静下来，平静，呼吸，平静，呼吸，不要尖锐，不要厌恶自己，勇敢，坦诚，善良的对待自己，只是一些截图而已对不对？你都那么勇敢走到了这一步，加上他和他聊天然后再像当年那样删掉拉黑他把世界割裂，这也只是一件很简单的事情，你不用再害怕恐惧了，不要怨恨，不要偏激，你是活着的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 236,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 860
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

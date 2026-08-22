@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989090681844126005",
+    "created_at": "2025-11-14T05:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T06:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989203658865820003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989203658865820003",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989090681844126005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mshuxing 我希望有人跟我打电话一边割一边听她碎碎念，不需要安慰我都可以的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_1989090575925010433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5qrVxQWYAEp4Na.png",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989090681844126005",
+        "created_at": "2025-11-14T05:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989203658865820003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989203658865820003",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989090681844126005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mshuxing 我希望有人跟我打电话一边割一边听她碎碎念，不需要安慰我都可以的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989090575925010433"
+          ]
+        },
+        "author_id": "1918236611684233216",
+        "conversation_id": "1989090681844126005",
+        "created_at": "2025-11-13T21:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T22:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989090681844126005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QdcXMpQz7y",
+              "end": 41,
+              "expanded_url": "https://x.com/mshuxing/status/1989090681844126005/photo/1",
+              "media_key": "3_1989090575925010433",
+              "start": 18,
+              "url": "https://t.co/QdcXMpQz7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989090681844126005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 630,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实还是希望的hh（虽然是自己想割 https://t.co/QdcXMpQz7y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989023604248584331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 275,
+          "like_count": 1227,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1065
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "cn菡亭序意 可以叫我幼幼 碎碎念 自拍 攻击性言论 中偏重抑焦自残\nBrat｜顺女｜范性恋｜友跨｜恐顺反顺 |LGBT+全友好🏳️‍🌈\n♌ 狮子座｜INTP-T｜2011.08.04 |纯爱党\n看出成分互fo属性置顶",
+        "id": "1918236611684233216",
+        "name": "幼",
+        "pinned_tweet_id": "1987675343897903364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986523114952392704/U1VlMaIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 119,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 588
+        },
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

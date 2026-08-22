@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1968238451842830809",
+    "created_at": "2025-09-17T17:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T18:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968361173214191805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252439472",
+          "start": 0,
+          "username": "rockwith1dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968361173214191805",
+    "in_reply_to_user_id": "1252439472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968238451842830809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rockwith1dx 真不怕性病啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1968238448952922113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CWcO8a0AEjoqI.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1968238451842830809",
+        "created_at": "2025-09-17T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968361173214191805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252439472",
+              "start": 0,
+              "username": "rockwith1dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968361173214191805",
+        "in_reply_to_user_id": "1252439472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968238451842830809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rockwith1dx 真不怕性病啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968238448952922113"
+          ]
+        },
+        "author_id": "1252439472",
+        "conversation_id": "1968238451842830809",
+        "created_at": "2025-09-17T08:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968238451842830809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "合肥"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "站街"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "扫街"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/577MPfQHhD",
+              "end": 93,
+              "expanded_url": "https://x.com/rockwith1dx/status/1968238451842830809/photo/1",
+              "media_key": "3_1968238448952922113",
+              "start": 70,
+              "url": "https://t.co/577MPfQHhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968238451842830809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#合肥  \n长丰县军港路，军港新村南区和北区中间的这条路，每天晚上有拉客，价格150~200,谈好价格，坐电梯上楼上开大。\n#站街 #扫街 https://t.co/577MPfQHhD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我回到了最初，最向往的地方",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 162,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 611
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-08T18:41:01.000Z",
+        "description": "全国100+城市站街地址，开启你的城中村邂逅故事，加入扫街大部队👉 https://t.co/DZTl7AtGxj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/cjxy999",
+                "end": 57,
+                "expanded_url": "http://t.me/cjxy999",
+                "start": 34,
+                "url": "https://t.co/DZTl7AtGxj"
+              }
+            ]
+          }
+        },
+        "id": "1252439472",
+        "name": "中国站街扫街大使",
+        "pinned_tweet_id": "1956185586831908944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952946710923399168/sNJRFn_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 675,
+          "like_count": 7070,
+          "listed_count": 10,
+          "media_count": 2338,
+          "tweet_count": 24992
+        },
+        "username": "rockwith1dx",
+        "verified": false
+      }
+    ]
+  }
+}

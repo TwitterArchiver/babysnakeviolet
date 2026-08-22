@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1991001886963687877",
+    "created_at": "2025-11-19T04:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T05:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991001886963687877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/osakana_yui030…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/osakana_yui030/status/1987538065242685492",
+          "start": 5,
+          "url": "https://t.co/4Zai6GDk97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991001886963687877",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987538065242685492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊 https://t.co/4Zai6GDk97"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1991001886963687877",
+        "created_at": "2025-11-19T04:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991001886963687877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/osakana_yui030…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/osakana_yui030/status/1987538065242685492",
+              "start": 5,
+              "url": "https://t.co/4Zai6GDk97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991001886963687877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987538065242685492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊 https://t.co/4Zai6GDk97"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795614541297950720",
+        "conversation_id": "1987538065242685492",
+        "created_at": "2025-11-09T15:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987538065242685492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987538065242685492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3953,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前的朋友都上岸了就剩下还在嗑药的婊子天天在推特里撕逼。什么时候是个头？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病入门默认不退，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 284,
+          "like_count": 1339,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1153
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T00:34:17.000Z",
+        "description": "我是一個會掉小珍珠的半清水。｜自傷｜精神病｜最好的朋友 @yuna_liii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "yuna_liii"
+              }
+            ]
+          }
+        },
+        "id": "1795614541297950720",
+        "location": "北京🚪377/777",
+        "name": "Mienai^",
+        "pinned_tweet_id": "1985252956950995410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924533309708877824/CpV9EhNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15625,
+          "following_count": 254,
+          "like_count": 2263,
+          "listed_count": 38,
+          "media_count": 349,
+          "tweet_count": 1489
+        },
+        "username": "osakana_yui030",
+        "verified": true
+      }
+    ]
+  }
+}

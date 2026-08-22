@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983194933839446246",
+    "created_at": "2025-10-30T00:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T01:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983689815955804270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826536169800437760",
+          "start": 0,
+          "username": "SQ100722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983689815955804270",
+    "in_reply_to_user_id": "1826536169800437760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983670023358181681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SQ100722 我死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983194933839446246",
+        "created_at": "2025-10-30T00:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T01:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983689815955804270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826536169800437760",
+              "start": 0,
+              "username": "SQ100722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983689815955804270",
+        "in_reply_to_user_id": "1826536169800437760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983670023358181681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SQ100722 我死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826536169800437760",
+        "conversation_id": "1983194933839446246",
+        "created_at": "2025-10-29T22:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T23:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983670023358181681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983670023358181681",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983574288893632981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 你咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "母狗一条/叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 220,
+          "like_count": 449,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 731
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T08:25:55.000Z",
+        "description": "生活自理的弱智/黄色废料/视奸万物/\n无人之境@pharaoh420_sq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "pharaoh420_sq"
+              }
+            ]
+          }
+        },
+        "id": "1826536169800437760",
+        "location": "镇海区公园",
+        "name": "陳澤·北境之王1103",
+        "pinned_tweet_id": "1974075295629197690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983545532246339584/Qu9JB1z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 360,
+          "like_count": 20133,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 681
+        },
+        "username": "SQ100722",
+        "verified": false
+      }
+    ]
+  }
+}

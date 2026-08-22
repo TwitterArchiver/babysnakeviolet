@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2038401880918007984",
+    "created_at": "2026-03-29T23:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T00:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038401883161968939"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038401883161968939",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038401880918007984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问我朋友圈裸照血图什么的吓得不行，我药效退了赶紧删了吓得我都不敢出门虽然本来就不出就怕遇见他，嗯..还有就是我一直在打游戏看剧看电影？！总之还是比较轻松的熬过了最难受的时间，我可不是被药物统治的婊子了哼哼。希望你们都好好的呀.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2038401880918007984",
+        "created_at": "2026-03-29T23:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038401883161968939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038401883161968939",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038401880918007984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问我朋友圈裸照血图什么的吓得不行，我药效退了赶紧删了吓得我都不敢出门虽然本来就不出就怕遇见他，嗯..还有就是我一直在打游戏看剧看电影？！总之还是比较轻松的熬过了最难受的时间，我可不是被药物统治的婊子了哼哼。希望你们都好好的呀.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2038401880918007984",
+        "created_at": "2026-03-29T23:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038401880918007984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038401880918007984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久没发帖子了，想告诉大家一件事，我没有像之前那样依赖普瑞巴林了，偶尔出门也可以达到不嗑药也能比较愉快的社交了，虽然代价是我因为戒药疯狂暴食抽烟酗酒（江小白呃呃呃？）上一次嗑药还是和曾志超出门因为磕大了走路一直摔跤，还没注意无肩带内衣掉了.导致一整天真空😂还莫名其妙加了个男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 435,
+          "like_count": 2004,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 1714
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1997704960658841628",
+    "created_at": "2025-12-07T18:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T19:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997737351133671844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748755970636038144",
+          "start": 0,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997737351133671844",
+    "in_reply_to_user_id": "1748755970636038144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997704960658841628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_zuo96208 大人您有没有电子烟渠道🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15500,
+        "height": 1280,
+        "media_key": "13_1997704833177178113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997704833177178113/img/rjafi2RvO6J87g8D.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997704833177178113/vid/avc1/320x568/FlmlHGsWHsY2vDl4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997704833177178113/vid/avc1/480x852/UUTeit0eEt09pnrL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997704833177178113/vid/avc1/720x1280/-DQIkJszK7t-BDej.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997704833177178113/pl/5d9U1vBQhxs5EP_b.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1997704960658841628",
+        "created_at": "2025-12-07T18:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T19:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997737351133671844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748755970636038144",
+              "start": 0,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997737351133671844",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997704960658841628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_zuo96208 大人您有没有电子烟渠道🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997704833177178113"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "1997704960658841628",
+        "created_at": "2025-12-07T16:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997704960658841628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuYlBRYHsN",
+              "end": 31,
+              "expanded_url": "https://x.com/er_zuo96208/status/1997704960658841628/video/1",
+              "media_key": "13_1997704833177178113",
+              "start": 8,
+              "url": "https://t.co/PuYlBRYHsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997704960658841628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸭嘴兽重度依赖 https://t.co/PuYlBRYHsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 346,
+          "like_count": 1616,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1375
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图和疤痕的屏蔽我好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪100/188➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993975222563950597/feVDTfjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 296,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

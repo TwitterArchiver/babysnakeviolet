@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996624085733068801"
+      ],
+      "media_source_tweet_id": [
+        "1996624120503849384"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1996640973817106851",
+    "created_at": "2025-12-04T18:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T19:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996640973817106851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dDsBgJDJdz",
+          "end": 65,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1996624120503849384/video/1",
+          "media_key": "7_1996624085733068801",
+          "start": 42,
+          "url": "https://t.co/dDsBgJDJdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996640973817106851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996624120503849384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 化学极乐 拯救生灵 \n光荣进化 脱离苦海 https://t.co/dDsBgJDJdz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16033,
+        "height": 1280,
+        "media_key": "7_1996624085733068801",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996624085733068801/pu/img/JDXyHl6-YpiS4QPz.jpg",
+        "public_metrics": {
+          "view_count": 68
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996624085733068801/pu/vid/avc1/320x694/FUoIjnBkeUp9IsBG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996624085733068801/pu/vid/avc1/480x1040/jznOzVyLitbmufIo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996624085733068801/pu/vid/avc1/590x1280/BG9RjRySxkl4c02f.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996624085733068801/pu/pl/7sCsSlPNXmjAVx-w.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996624085733068801"
+          ],
+          "media_source_tweet_id": [
+            "1996624120503849384"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1996640973817106851",
+        "created_at": "2025-12-04T18:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T19:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996640973817106851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDsBgJDJdz",
+              "end": 65,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1996624120503849384/video/1",
+              "media_key": "7_1996624085733068801",
+              "start": 42,
+              "url": "https://t.co/dDsBgJDJdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996640973817106851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996624120503849384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 化学极乐 拯救生灵 \n光荣进化 脱离苦海 https://t.co/dDsBgJDJdz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996624085733068801"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1996624120503849384",
+        "created_at": "2025-12-04T16:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T17:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996624120503849384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDsBgJDJdz",
+              "end": 44,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1996624120503849384/video/1",
+              "media_key": "7_1996624085733068801",
+              "start": 21,
+              "url": "https://t.co/dDsBgJDJdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996624120503849384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐 拯救生灵 \n光荣进化 脱离苦海 https://t.co/dDsBgJDJdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 329,
+          "like_count": 1530,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1319
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQtDTs\n交流群:https://t.co/FvFWw9JRYc\n社区:https://t.co/JwQ9mOUfK6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQtDTs"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 83,
+                "expanded_url": "https://pr80.bid/",
+                "start": 60,
+                "url": "https://t.co/JwQ9mOUfK6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhL9V"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989571076804989237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995690033203003393/TErFGW0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3808,
+          "following_count": 1266,
+          "like_count": 703,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/DM4fmdhL9V",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

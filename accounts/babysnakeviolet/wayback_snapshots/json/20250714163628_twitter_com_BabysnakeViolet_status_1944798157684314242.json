@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944798154530123776",
+        "3_1944798149643534345"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1944798157684314242",
+    "created_at": "2025-07-14T16:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944798157684314242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lACKmTk7BE",
+          "end": 149,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1944798157684314242/photo/1",
+          "media_key": "3_1944798154530123776",
+          "start": 126,
+          "url": "https://t.co/lACKmTk7BE"
+        },
+        {
+          "display_url": "pic.x.com/lACKmTk7BE",
+          "end": 149,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1944798157684314242/photo/1",
+          "media_key": "3_1944798149643534345",
+          "start": 126,
+          "url": "https://t.co/lACKmTk7BE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944798157684314242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "客人很健谈 约会期间一直在照顾我 我下车会主动开车门 会叫我小心脚下  没有过多询问我的精神问题以及过往 \n他的车里有香薰 我不讨厌 还有很多娃娃和手办 我们去吃了夜宵 牵着手逛了街 最后我问他 要去酒店吗？ 他只是摸了摸我的头 把我送回了原来的地方 https://t.co/lACKmTk7BE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1944798154530123776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1PnhiacAAzHiO.jpg",
+        "width": 768
+      },
+      {
+        "height": 845,
+        "media_key": "3_1944798149643534345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1PnPVXAAkz8UO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944798154530123776",
+            "3_1944798149643534345"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1944798157684314242",
+        "created_at": "2025-07-14T16:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944798157684314242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lACKmTk7BE",
+              "end": 149,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1944798157684314242/photo/1",
+              "media_key": "3_1944798154530123776",
+              "start": 126,
+              "url": "https://t.co/lACKmTk7BE"
+            },
+            {
+              "display_url": "pic.x.com/lACKmTk7BE",
+              "end": 149,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1944798157684314242/photo/1",
+              "media_key": "3_1944798149643534345",
+              "start": 126,
+              "url": "https://t.co/lACKmTk7BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944798157684314242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客人很健谈 约会期间一直在照顾我 我下车会主动开车门 会叫我小心脚下  没有过多询问我的精神问题以及过往 \n他的车里有香薰 我不讨厌 还有很多娃娃和手办 我们去吃了夜宵 牵着手逛了街 最后我问他 要去酒店吗？ 他只是摸了摸我的头 把我送回了原来的地方 https://t.co/lACKmTk7BE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她\n可以来找她互fo\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 141,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 524
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

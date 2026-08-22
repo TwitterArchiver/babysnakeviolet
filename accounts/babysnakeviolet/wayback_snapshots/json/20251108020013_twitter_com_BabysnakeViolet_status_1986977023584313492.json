@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1986159964248023218",
+    "created_at": "2025-11-08T02:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T03:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986977023584313492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970404261138776064",
+          "start": 0,
+          "username": "diana_gate70993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986977023584313492",
+    "in_reply_to_user_id": "1970404261138776064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986572564173635981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diana_gate70993 打广告请给我钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1986159964248023218",
+        "created_at": "2025-11-08T02:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986977023584313492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970404261138776064",
+              "start": 0,
+              "username": "diana_gate70993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986977023584313492",
+        "in_reply_to_user_id": "1970404261138776064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986572564173635981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diana_gate70993 打广告请给我钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970404261138776064",
+        "conversation_id": "1986159964248023218",
+        "created_at": "2025-11-06T23:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T00:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986572564173635981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986572564173635981",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986159964248023218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 👿🙋‍♀🌺️可到付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 233,
+          "like_count": 546,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 841
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T08:26:06.000Z",
+        "description": "越代厂家一手货源批发零售,产品齐全，支持到付，欢迎各界人士前来洽谈合作共赢🤝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aCI18GGQixJjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aCI18GGQixJjMDA1",
+                "start": 0,
+                "url": "https://t.co/6kjpI5kFLN"
+              }
+            ]
+          }
+        },
+        "id": "1970404261138776064",
+        "location": "加✈群咨询下单👉👉👉",
+        "name": "利群荷花天叶软中华雨花石和天下1916烟草芙蓉王鸿运口粮卡比龙煊赫门免税香烟黄鹤楼十二钗大苏小苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981355930957557760/8oBHS0vW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/6kjpI5kFLN",
+        "username": "diana_gate70993",
+        "verified": false
+      }
+    ]
+  }
+}

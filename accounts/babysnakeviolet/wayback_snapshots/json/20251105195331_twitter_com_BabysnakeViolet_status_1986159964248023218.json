@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1986159964248023218",
+    "created_at": "2025-11-05T19:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T20:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986159964248023218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986159964248023218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人能分析为什么闹钟有一批男性群体十分惹人厌？特点是不会怜悯弱小，没有共情能力，Agressive，自大自负，普遍电子厂大专职高，在获得工作的社会身份前身都是精神小伙，ugh...不远只是manchild了，这类群体远比同样惹人厌的顺女更让我不适，也是在我上学期间霸凌我的主要群体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1986159964248023218",
+        "created_at": "2025-11-05T19:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T20:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986159964248023218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986159964248023218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能分析为什么闹钟有一批男性群体十分惹人厌？特点是不会怜悯弱小，没有共情能力，Agressive，自大自负，普遍电子厂大专职高，在获得工作的社会身份前身都是精神小伙，ugh...不远只是manchild了，这类群体远比同样惹人厌的顺女更让我不适，也是在我上学期间霸凌我的主要群体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 235,
+          "like_count": 533,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 823
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

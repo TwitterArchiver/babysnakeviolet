@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1998281695171383421",
+    "created_at": "2025-12-09T20:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T21:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998484654228419012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1748755970636038144",
+          "start": 0,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998484654228419012",
+    "in_reply_to_user_id": "1748755970636038144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998281695171383421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_zuo96208 我也这么玩，跟鸭血一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28321,
+        "height": 1280,
+        "media_key": "13_1998281443420815360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998281443420815360/img/WRzaOCfJWFmjlZ-M.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998281443420815360/vid/avc1/320x568/KCDHUVfqWD0XyENU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998281443420815360/vid/avc1/480x852/VhHAXWnUTpXsaWF_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998281443420815360/vid/avc1/720x1280/nw_kQHkLvgUfGm4V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998281443420815360/pl/3KuhjTZvnkM3zeAE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1998281695171383421",
+        "created_at": "2025-12-09T20:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T21:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998484654228419012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1748755970636038144",
+              "start": 0,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998484654228419012",
+        "in_reply_to_user_id": "1748755970636038144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998281695171383421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_zuo96208 我也这么玩，跟鸭血一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998281443420815360"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "1998281695171383421",
+        "created_at": "2025-12-09T06:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998281695171383421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AwrGLRpeW",
+              "end": 30,
+              "expanded_url": "https://x.com/er_zuo96208/status/1998281695171383421/video/1",
+              "media_key": "13_1998281443420815360",
+              "start": 7,
+              "url": "https://t.co/0AwrGLRpeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998281695171383421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个果冻视频 https://t.co/0AwrGLRpeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 349,
+          "like_count": 1641,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1397
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图和疤痕的屏蔽我好吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪100/188➕",
+        "name": "骨钉",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997990059279310848/CmdGrFDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 297,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983509887662641295",
+    "created_at": "2025-10-29T12:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983509887662641295"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983509887662641295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和他站在天台上，我翻过了栏杆，他吓得一直叫我赶紧翻回来，神情不似作假。我拉着扶手，紧紧盯着他：你现在可以把我推下去，我的卧室里还有三万现金。\n他骂我是不是有病，于是我彻底放开了扶手。“你只需要轻轻推我一下，我就可以彻底消失，没有证据。”\n他颤抖着伸出了手。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983509887662641295",
+        "created_at": "2025-10-29T12:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983509887662641295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983509887662641295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和他站在天台上，我翻过了栏杆，他吓得一直叫我赶紧翻回来，神情不似作假。我拉着扶手，紧紧盯着他：你现在可以把我推下去，我的卧室里还有三万现金。\n他骂我是不是有病，于是我彻底放开了扶手。“你只需要轻轻推我一下，我就可以彻底消失，没有证据。”\n他颤抖着伸出了手。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983303324482056705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 210,
+          "like_count": 415,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 688
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

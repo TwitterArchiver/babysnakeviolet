@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1984662140868026737",
+    "created_at": "2025-11-01T16:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984662145989296564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984662145989296564",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984662142554177978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时我真的感觉自己要爆炸了，眼睛要爆炸了心跳要爆炸了脑子要炸了，我知道怎么形容了，有人或者外星人或者一个不可名状的东西在尝试脑控我，我真的感觉那几小时我连接宇宙黑暗面马上要堕入地狱死翘翘了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984662140868026737",
+        "created_at": "2025-11-01T16:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984662145989296564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984662145989296564",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984662142554177978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时我真的感觉自己要爆炸了，眼睛要爆炸了心跳要爆炸了脑子要炸了，我知道怎么形容了，有人或者外星人或者一个不可名状的东西在尝试脑控我，我真的感觉那几小时我连接宇宙黑暗面马上要堕入地狱死翘翘了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984662140868026737",
+        "created_at": "2025-11-01T16:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984662142554177978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984662142554177978",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984662140868026737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要睡眠但当时我根本睡不着，我一闭眼看到的想到的就是那些重复循环播放的东西，很恐怖那些东西，像异世界的怪物，然后我又因为两天多没睡觉，我迫切的想入睡但我躺了几个小时我都一丝都睡不着，我还一直给自己心理暗示，没什么好怕的了你现在很安全可以好好睡一觉明天会是新的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "走向健全人生",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 225,
+          "like_count": 495,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 766
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

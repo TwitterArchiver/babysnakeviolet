@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976931641068306432",
+        "3_1976931641051566080"
+      ],
+      "media_source_tweet_id": [
+        "1976931652279648664",
+        "1976931652279648664"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1984045290173952371",
+    "created_at": "2025-10-30T23:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T00:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984045290173952371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976322860575752193",
+          "start": 3,
+          "username": "okayxHan96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YH3i8zcjx5",
+          "end": 64,
+          "expanded_url": "https://x.com/han_han1909/status/1976931652279648664/photo/1",
+          "media_key": "3_1976931641068306432",
+          "start": 41,
+          "url": "https://t.co/YH3i8zcjx5"
+        },
+        {
+          "display_url": "pic.x.com/YH3i8zcjx5",
+          "end": 64,
+          "expanded_url": "https://x.com/han_han1909/status/1976931652279648664/photo/1",
+          "media_key": "3_1976931641051566080",
+          "start": 41,
+          "url": "https://t.co/YH3i8zcjx5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984045290173952371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976931652279648664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @okayxHan96: 大家好，我是涵涵 刚来推特 欢迎大家多多照顾我哦 https://t.co/YH3i8zcjx5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984045290173952371].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984045290173952371",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984045290173952371"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_1976931641068306432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2942nMbQAApgWZ.jpg",
+        "width": 1185
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1976931641051566080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2942nIb0AAyaeA.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976931641068306432",
+            "3_1976931641051566080"
+          ]
+        },
+        "author_id": "1976322860575752193",
+        "conversation_id": "1976931652279648664",
+        "created_at": "2025-10-11T08:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976931652279648664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YH3i8zcjx5",
+              "end": 48,
+              "expanded_url": "https://x.com/han_han1909/status/1976931652279648664/photo/1",
+              "media_key": "3_1976931641068306432",
+              "start": 25,
+              "url": "https://t.co/YH3i8zcjx5"
+            },
+            {
+              "display_url": "pic.x.com/YH3i8zcjx5",
+              "end": 48,
+              "expanded_url": "https://x.com/han_han1909/status/1976931652279648664/photo/1",
+              "media_key": "3_1976931641051566080",
+              "start": 25,
+              "url": "https://t.co/YH3i8zcjx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976931652279648664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 47522,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 54
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "大家好，我是涵涵 刚来推特 欢迎大家多多照顾我哦 https://t.co/YH3i8zcjx5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "母狗一条/叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 223,
+          "like_count": 487,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 770
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T16:24:38.000Z",
+        "description": "涵涵刚玩推没多久，真诚交友、喜欢交友、喜欢分享、欢迎大家入🚪欢迎女宝互转互fo",
+        "id": "1976322860575752193",
+        "location": "6.6km",
+        "name": "涵涵的后花园",
+        "pinned_tweet_id": "1976931652279648664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981389722371969024/IRK0dgTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 24
+        },
+        "username": "okayxHan96",
+        "verified": true
+      }
+    ]
+  }
+}

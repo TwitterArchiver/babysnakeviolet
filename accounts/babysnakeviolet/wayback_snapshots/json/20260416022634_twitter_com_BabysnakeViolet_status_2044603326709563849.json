@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2044558583531024627",
+    "created_at": "2026-04-16T02:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044603326709563849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041898123061030912",
+          "start": 0,
+          "username": "inlineint"
+        },
+        {
+          "end": 18,
+          "id": "1545277694325116928",
+          "start": 11,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044603326709563849",
+    "in_reply_to_user_id": "2041898123061030912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044558583531024627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inlineint @BI3BXI 求黑幕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2044558583531024627",
+        "created_at": "2026-04-16T02:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044603326709563849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041898123061030912",
+              "start": 0,
+              "username": "inlineint"
+            },
+            {
+              "end": 18,
+              "id": "1545277694325116928",
+              "start": 11,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044603326709563849",
+        "in_reply_to_user_id": "2041898123061030912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044558583531024627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inlineint @BI3BXI 求黑幕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041898123061030912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2044558583531024627",
+        "created_at": "2026-04-15T23:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:28:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044558420880118108",
+          "2044558583531024627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044558583531024627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 588,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖！\n一等奖：100元（一个）\n二等奖：50元（两个）\n三等奖：11.45元（三个）\n点赞转发评论关注四项全做参与\n4月18日用grok开奖\n没想到这么快就100fo了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 445,
+          "like_count": 2064,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 1784
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T15:23:12.000Z",
+        "description": "HRT🍥/INTP/已炸柜/家长党/轻抑中焦/OD/高中生/OIer/彩笔音游人/互关/喵",
+        "id": "2041898123061030912",
+        "location": "天堂",
+        "name": "Register Int🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041899946777985024/OgfcO6ZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 163,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 26
+        },
+        "username": "inlineint",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "海棠花开 真情为您｜Premium+｜🏳️‍🌈Enby🏳️‍⚧️\nCrush（？）@XUEQIUxka 好姐姐 @Tennoujinyano\n❤️@show5560 本垢@yqua_\n好伙伴@hoshinofujivy @Jimi_yang22770",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "show5560"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "username": "yqua_"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Jimi_yang22770"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8609,
+          "following_count": 4028,
+          "like_count": 41443,
+          "listed_count": 25,
+          "media_count": 2661,
+          "tweet_count": 10401
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

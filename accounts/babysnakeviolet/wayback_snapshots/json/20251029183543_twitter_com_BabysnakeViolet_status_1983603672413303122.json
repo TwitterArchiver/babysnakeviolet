@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983600254122659909",
+    "created_at": "2025-10-29T18:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T19:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983603672413303122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1016552943774920704",
+          "start": 0,
+          "username": "Akinoyo_"
+        },
+        {
+          "end": 25,
+          "id": "1796937387899064320",
+          "start": 10,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983603672413303122",
+    "in_reply_to_user_id": "1016552943774920704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983602809657553366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_ @CleverFf050755 爸爸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983600254122659909",
+        "created_at": "2025-10-29T18:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983603672413303122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            },
+            {
+              "end": 25,
+              "id": "1796937387899064320",
+              "start": 10,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983603672413303122",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983602809657553366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ @CleverFf050755 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016552943774920704",
+        "conversation_id": "1983600254122659909",
+        "created_at": "2025-10-29T18:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983602809657553366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 32,
+              "id": "1796937387899064320",
+              "start": 17,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983602809657553366",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983601319043883386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @CleverFf050755 何の意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 218,
+          "like_count": 440,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 721
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MTF/INFP/Overdose/剩下不知道寫什麼就這樣吧",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978517410857488384/TtfwoOdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 885,
+          "like_count": 1955,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1283
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造车间",
+        "name": "Texas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834807235936927744/ue2m-43z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 121,
+          "like_count": 40,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

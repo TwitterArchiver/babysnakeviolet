@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983319925671485440",
+        "3_1983319923624685573",
+        "3_1983319653226295304",
+        "3_1983319928121032704"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983319933410009271",
+    "created_at": "2025-10-28T23:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T00:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983319933410009271"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "母狗"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "门槛"
+        },
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "一日女友"
+        },
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "wataa"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "金主"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "水瑶"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "包养"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "骚逼"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "骚货"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "绿帽"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "奶子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7qMiMhbfT",
+          "end": 99,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1983319933410009271/photo/1",
+          "media_key": "3_1983319925671485440",
+          "start": 76,
+          "url": "https://t.co/l7qMiMhbfT"
+        },
+        {
+          "display_url": "pic.x.com/l7qMiMhbfT",
+          "end": 99,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1983319933410009271/photo/1",
+          "media_key": "3_1983319923624685573",
+          "start": 76,
+          "url": "https://t.co/l7qMiMhbfT"
+        },
+        {
+          "display_url": "pic.x.com/l7qMiMhbfT",
+          "end": 99,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1983319933410009271/photo/1",
+          "media_key": "3_1983319653226295304",
+          "start": 76,
+          "url": "https://t.co/l7qMiMhbfT"
+        },
+        {
+          "display_url": "pic.x.com/l7qMiMhbfT",
+          "end": 99,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1983319933410009271/photo/1",
+          "media_key": "3_1983319928121032704",
+          "start": 76,
+          "url": "https://t.co/l7qMiMhbfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983319933410009271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#母狗 #门槛 #门槛妹 #一日女友 #wataa #金主 #水瑶 #包养 #骚逼 #骚货 #绿帽 #奶子 \n求金主爸爸入门，我是你专属的小母狗汪汪汪 https://t.co/l7qMiMhbfT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983319933410009271].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983319933410009271",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983319933410009271"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983319925671485440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Yq9t2aYAAC29q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983319923624685573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Yq9mOasAU4Ml_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1744,
+        "media_key": "3_1983319653226295304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Yqt26asAg9Jr0.jpg",
+        "width": 1308
+      },
+      {
+        "height": 2072,
+        "media_key": "3_1983319928121032704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Yq92-bgAAExyq.jpg",
+        "width": 1260
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983303324482056705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 208,
+          "like_count": 411,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 683
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983336174069625154",
+    "created_at": "2025-10-29T13:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983523419414024260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829498397184946176",
+          "start": 0,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983523419414024260",
+    "in_reply_to_user_id": "1829498397184946176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983336174069625154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxihuigui 爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30133,
+        "height": 1920,
+        "media_key": "13_1983336063973371904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983336063973371904/img/TeAfBWPFPChNdBXg.jpg",
+        "public_metrics": {
+          "view_count": 103200
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983336063973371904/pl/YiR7chlX1PcsSWp_.m3u8?v=4e6"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983336063973371904/vid/avc1/480x852/FNW6vyMXDfiNV6Lf.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983336063973371904/vid/avc1/320x568/Vjh50N_zx_fEI0Jg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983336063973371904/vid/avc1/720x1280/aVwr5tcxHcOtq4J9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983336063973371904/vid/avc1/1080x1920/5THH-4sxGczif-fl.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983336174069625154",
+        "created_at": "2025-10-29T13:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983523419414024260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829498397184946176",
+              "start": 0,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983523419414024260",
+        "in_reply_to_user_id": "1829498397184946176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983336174069625154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxihuigui 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983336063973371904"
+          ]
+        },
+        "author_id": "1829498397184946176",
+        "conversation_id": "1983336174069625154",
+        "created_at": "2025-10-29T00:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T01:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983336174069625154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NwLKLYCWv",
+              "end": 155,
+              "expanded_url": "https://x.com/liangxihuigui/status/1983336174069625154/video/1",
+              "media_key": "13_1983336063973371904",
+              "start": 132,
+              "url": "https://t.co/1NwLKLYCWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983336174069625154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我操死你妈的卖蛋糕的，全是花我吃你妈逼，今天忽然想吃蛋糕了，小时候我就特别喜欢吃生日蛋糕，但不知道为什么只有生日的时候我姨才会给我买，今天忽然想吃了，选了个外卖销量最高的店买的蛋糕，他们为了装饰蛋糕，在蛋糕上插了很多花，然后把花瓣弄的蛋糕上全是，我真的要气疯了，\n\n他们店里还特别备注了，花是不能吃的，我最气的是什么呢？是我本来是想着把这些花儿都拔下来了，然后吃蛋糕，结果蛋糕身上也都是这些花瓣，我还得再把这些花瓣挑出来，我要气死了，我他妈吃个蛋糕都要被气到"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 230752,
+          "like_count": 175,
+          "quote_count": 1,
+          "reply_count": 249,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我操死你妈的卖蛋糕的，全是花我吃你妈逼，今天忽然想吃蛋糕了，小时候我就特别喜欢吃生日蛋糕，但不知道为什么只有生日的时候我姨才会给我买，今天忽然想吃了，选了个外卖销量最高的店买的蛋糕，他们为了装饰蛋糕，在蛋糕上插了很多花，然后把花瓣弄的蛋糕上全是，我真的要气疯了， https://t.co/1NwLKLYCWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983303324482056705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 211,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 702
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:36:57.000Z",
+        "description": "凉兮本人性别男，喜欢女（地雷系）负债两亿已结清，只玩推特其余都是假冒得，外网只有一个号，不玩其他平台，其余都是假冒的，@liangxied原来的大号几十万粉丝，因外国人嫉妒我有21cm，所以把大号封了，因为负债这几年导致重度焦虑症重度抑郁症，精神分裂，双向情感障碍，有精神病人证，支持言论自由不拉黑任何人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "1829498397184946176",
+        "location": "阴蒂",
+        "name": "凉兮大元帅（白虎已上环已结扎）",
+        "pinned_tweet_id": "1900875102960709872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908861280066420736/8nYRtT6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311590,
+          "following_count": 513,
+          "like_count": 2444,
+          "listed_count": 893,
+          "media_count": 2397,
+          "tweet_count": 6766
+        },
+        "username": "liangxihuigui",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1984457828799861157",
+    "created_at": "2025-11-01T03:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984457828799861157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984457828799861157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起对不起我刚刚误删了一个女孩子因为我这几天一直都不清醒加上我这两天哭的次数太多了我脑子实在太昏了，妈妈我求求你你看到这条吧妈妈我真的不是故意的我脑子瓦特了妈妈😭😭😭😭😭我忘记给你备注🚪了妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984457828799861157",
+        "created_at": "2025-11-01T03:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984457828799861157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984457828799861157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起对不起我刚刚误删了一个女孩子因为我这几天一直都不清醒加上我这两天哭的次数太多了我脑子实在太昏了，妈妈我求求你你看到这条吧妈妈我真的不是故意的我脑子瓦特了妈妈😭😭😭😭😭我忘记给你备注🚪了妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "走向健全人生",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 224,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 761
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

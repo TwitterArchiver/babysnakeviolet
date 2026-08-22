@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1976420717198819472",
+    "created_at": "2025-10-09T23:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T00:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976423191380938973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1958960789684920320",
+          "start": 0,
+          "username": "himeluck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976423191380938973",
+    "in_reply_to_user_id": "1958960789684920320",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976422479703982165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himeluck i will☺️have fun in shopping tho🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1976422472695099392",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G22pxHMXMAArseU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G22pxHMXMAArseU.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1976420717198819472",
+        "created_at": "2025-10-09T23:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976423191380938973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1958960789684920320",
+              "start": 0,
+              "username": "himeluck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976423191380938973",
+        "in_reply_to_user_id": "1958960789684920320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976422479703982165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himeluck i will☺️have fun in shopping tho🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1976422472695099392"
+          ]
+        },
+        "author_id": "1958960789684920320",
+        "conversation_id": "1976420717198819472",
+        "created_at": "2025-10-09T23:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976422479703982165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xXmqPiOql",
+              "end": 113,
+              "expanded_url": "https://x.com/himeluck/status/1976422479703982165/photo/1",
+              "media_key": "16_1976422472695099392",
+              "start": 90,
+              "url": "https://t.co/8xXmqPiOql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976422479703982165",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976420717198819472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet MY POOKIE im about to go shopping 🛍️ i hope you do something fun today 🩷 https://t.co/8xXmqPiOql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我回到了最初，最向往的地方",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 173,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 634
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T18:33:48.000Z",
+        "description": "block = i won",
+        "id": "1958960789684920320",
+        "name": "alicat",
+        "pinned_tweet_id": "1972051041253576716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968026785448181760/Im2E0CGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 4611,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 675
+        },
+        "username": "himeluck",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2039211761853939713"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "2039211799409754293",
+    "created_at": "2026-04-01T05:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039211799409754293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3yghq0oQ3G",
+          "end": 58,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2039211799409754293/video/1",
+          "media_key": "7_2039211761853939713",
+          "start": 35,
+          "url": "https://t.co/3yghq0oQ3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039211799409754293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我的近照，，我真的因为戒药暴食胖了好多好想哭我要在夏天之前瘦下来 https://t.co/3yghq0oQ3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11133,
+        "height": 1280,
+        "media_key": "7_2039211761853939713",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039211761853939713/pu/img/cZW6pvquVvJerC9o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039211761853939713/pu/vid/avc1/320x568/4Te24efyAZIk0ISJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039211761853939713/pu/vid/avc1/480x852/1XRpCbNV6c9lWpau.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039211761853939713/pu/vid/avc1/720x1280/NdyfDeE4z-Uji61i.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039211761853939713/pu/pl/kzWBlYNi-nFJlwVm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039211761853939713"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "2039211799409754293",
+        "created_at": "2026-04-01T05:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039211799409754293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yghq0oQ3G",
+              "end": 58,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2039211799409754293/video/1",
+              "media_key": "7_2039211761853939713",
+              "start": 35,
+              "url": "https://t.co/3yghq0oQ3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039211799409754293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的近照，，我真的因为戒药暴食胖了好多好想哭我要在夏天之前瘦下来 https://t.co/3yghq0oQ3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 439,
+          "like_count": 2011,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1722
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

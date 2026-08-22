@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1977874938884165740",
+    "created_at": "2025-10-14T01:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T02:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977906748645339629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921978979701149696",
+          "start": 0,
+          "username": "dUJNPt4l7Z13204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977906748645339629",
+    "in_reply_to_user_id": "1921978979701149696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977879475820867676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dUJNPt4l7Z13204 你这傻逼气都气死了，废物loser😂😂一句话就破防，皮下不知道多脑残能想得出装精神病😂还妄想成为第二个刘其闻，现实踏马谁屌你？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1977874938884165740",
+        "created_at": "2025-10-14T01:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T02:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977906748645339629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921978979701149696",
+              "start": 0,
+              "username": "dUJNPt4l7Z13204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977906748645339629",
+        "in_reply_to_user_id": "1921978979701149696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977879475820867676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dUJNPt4l7Z13204 你这傻逼气都气死了，废物loser😂😂一句话就破防，皮下不知道多脑残能想得出装精神病😂还妄想成为第二个刘其闻，现实踏马谁屌你？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921978979701149696",
+        "conversation_id": "1977874938884165740",
+        "created_at": "2025-10-13T23:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977879475820867676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977879475820867676",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977874938884165740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 你的逼我2元就出售了，操你妈了个逼。现实见到你爹跪下给我吃完鸡巴，然后把你的钱都给我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 189,
+          "like_count": 380,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 660
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T17:21:21.000Z",
+        "description": "飞",
+        "id": "1921978979701149696",
+        "name": "我想飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943980135105146883/4c_NVP4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "dUJNPt4l7Z13204",
+        "verified": false
+      }
+    ]
+  }
+}

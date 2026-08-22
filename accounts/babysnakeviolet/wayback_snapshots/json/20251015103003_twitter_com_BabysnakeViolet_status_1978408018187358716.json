@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1977971320639148274",
+    "created_at": "2025-10-15T10:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T11:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978408018187358716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887864488973791232",
+          "start": 0,
+          "username": "06auser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978408018187358716",
+    "in_reply_to_user_id": "1887864488973791232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977971320639148274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@06auser 抽烟声音会变很难听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1977971320639148274",
+        "created_at": "2025-10-15T10:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T11:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978408018187358716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887864488973791232",
+              "start": 0,
+              "username": "06auser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978408018187358716",
+        "in_reply_to_user_id": "1887864488973791232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977971320639148274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@06auser 抽烟声音会变很难听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887864488973791232",
+        "conversation_id": "1977971320639148274",
+        "created_at": "2025-10-14T05:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977971320639148274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977971320639148274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2612,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后会多上推的，还是推有意思\n\n我学会抽烟了喵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 197,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 662
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T14:02:59.000Z",
+        "description": "07年,174cm,52kg,梦想成为真正的女孩子\n\n双相情感障碍//中度抑郁//三级ASD//极度缺爱＋回避型/边缘型人格障碍//广泛性焦虑障碍//重度社交障碍",
+        "id": "1887864488973791232",
+        "name": "yice​ ​🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1974738087713616301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974991767977316353/5ulQ2MRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 112,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "06auser",
+        "verified": false
+      }
+    ]
+  }
+}

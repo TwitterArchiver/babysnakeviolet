@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2039211799409754293",
+    "created_at": "2026-04-02T08:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039618945725132914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039618945725132914",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039474556000174186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mshuxing 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2039211799409754293",
+        "created_at": "2026-04-02T08:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039618945725132914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039618945725132914",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039474556000174186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mshuxing 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918236611684233216",
+        "conversation_id": "2039211799409754293",
+        "created_at": "2026-04-01T22:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039474556000174186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039474556000174186",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039211799409754293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 抱抱你宝宝我们一起减肥好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 440,
+          "like_count": 2016,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1725
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "我是幼幼 2011年 喜欢哥哥 屏蔽你受着 视奸每个人\n顺女 友跨（🏳‍🌈） 抑焦 割手  有点病娇和brat属性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhan0804",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhan0804",
+                "start": 0,
+                "url": "https://t.co/m5r02qyK7z"
+              }
+            ]
+          }
+        },
+        "id": "1918236611684233216",
+        "location": "🚪纯绿88 128 288 zfb口令",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2039446360475291708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367362147663873/oSu0OAQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 221,
+          "like_count": 13319,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/m5r02qyK7z",
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

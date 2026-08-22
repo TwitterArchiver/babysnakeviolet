@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990722689435074936",
+    "created_at": "2025-11-18T11:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990743567284015370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990743567284015370",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990739237382046157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 其实是想系度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990722689435074936",
+        "created_at": "2025-11-18T11:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990743567284015370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990743567284015370",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990739237382046157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 其实是想系度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990722689435074936",
+        "created_at": "2025-11-18T11:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990739237382046157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990739237382046157",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990722689435074936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 我戒o了你信不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！入🚪默认不退本人高p",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 280,
+          "like_count": 1336,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1139
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "TMAD…/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞/抑郁焦虑治疗中/性格敏感情绪不稳定/⌓‿⌓我一直在看着你/同类互fo/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "TMA",
+        "pinned_tweet_id": "1989401182822133895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 70,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 326
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

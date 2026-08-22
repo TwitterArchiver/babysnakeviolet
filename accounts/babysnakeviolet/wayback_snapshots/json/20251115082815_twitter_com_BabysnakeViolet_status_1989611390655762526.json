@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989587575301181480",
+    "created_at": "2025-11-15T08:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989611390655762526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        },
+        {
+          "end": 22,
+          "id": "1016552943774920704",
+          "start": 13,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989611390655762526",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989588894271050207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 @Akinoyo_ 谁和我成双成对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989587575301181480",
+        "created_at": "2025-11-15T08:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989611390655762526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            },
+            {
+              "end": 22,
+              "id": "1016552943774920704",
+              "start": 13,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989611390655762526",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989588894271050207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 @Akinoyo_ 谁和我成双成对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1989587575301181480",
+        "created_at": "2025-11-15T06:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989588894271050207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989588894271050207",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989587575301181480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ 你们药圈怎么都成双成对的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！主页推广请注意分辨！入门请私信！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 278,
+          "like_count": 1248,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1086
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼\n \n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 180,
+          "like_count": 14645,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 2037
+        },
+        "username": "jngyn298282",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MtX/INFP/Overdose/剩下不知道寫什麼就這樣吧/向我提问https://t.co/zRsiCNL2vH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 65,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 42,
+                "url": "https://t.co/zRsiCNL2vH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JgAUZJNEEH"
+              }
+            ]
+          }
+        },
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "pinned_tweet_id": "1988693690328707413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984776557018402816/51DbdVJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 1058,
+          "like_count": 2477,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/JgAUZJNEEH",
+        "username": "Akinoyo_",
+        "verified": false
+      }
+    ]
+  }
+}

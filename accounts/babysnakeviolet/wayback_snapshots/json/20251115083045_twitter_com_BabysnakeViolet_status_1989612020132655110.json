@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989562435444117992",
+    "created_at": "2025-11-15T08:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989612020132655110"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜",
+          "probability": 0.7514,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777366989234917376",
+          "start": 0,
+          "username": "abgrundd991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989612020132655110",
+    "in_reply_to_user_id": "1777366989234917376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989562435444117992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abgrundd991 恭喜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989562435444117992",
+        "created_at": "2025-11-15T08:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989612020132655110"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.7514,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777366989234917376",
+              "start": 0,
+              "username": "abgrundd991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989612020132655110",
+        "in_reply_to_user_id": "1777366989234917376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989562435444117992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abgrundd991 恭喜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777366989234917376",
+        "conversation_id": "1989562435444117992",
+        "created_at": "2025-11-15T05:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989562435444117992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989562435444117992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我快四百追了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！主页推广请注意分辨！入门请私信！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 278,
+          "like_count": 1256,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1089
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:04:57.000Z",
+        "description": "我是荒樂｜前世 @huzun953 ｜#shtwt｜#希死念慮｜不露臉｜查成分回fo｜私訊開放但很慢回｜msk還我千追號TT｜詳細請看連結",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 19,
+                "tag": "shtwt"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "希死念慮"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "huzun953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/huzun",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/huzun",
+                "start": 0,
+                "url": "https://t.co/wAjb88l9zU"
+              }
+            ]
+          }
+        },
+        "id": "1777366989234917376",
+        "location": "天國",
+        "name": "荒樂",
+        "pinned_tweet_id": "1862060550416744927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847195097100288/Hs5CBziP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1387,
+          "like_count": 9082,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/wAjb88l9zU",
+        "username": "abgrundd991",
+        "verified": false
+      }
+    ]
+  }
+}

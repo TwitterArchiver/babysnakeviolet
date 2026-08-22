@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2049497084374761826",
+    "created_at": "2026-04-30T10:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049792270258639028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039072056063541248",
+          "start": 0,
+          "username": "rosensmarked"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049792270258639028",
+    "in_reply_to_user_id": "2039072056063541248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049700993148088802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosensmarked 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2049497084374761826",
+        "created_at": "2026-04-30T10:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049792270258639028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039072056063541248",
+              "start": 0,
+              "username": "rosensmarked"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049792270258639028",
+        "in_reply_to_user_id": "2039072056063541248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049700993148088802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosensmarked 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039072056063541248",
+        "conversation_id": "2049497084374761826",
+        "created_at": "2026-04-30T04:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049700993148088802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049700993148088802",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049497084374761826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 本主席翻下来一层层白色包皮垢点缀的革命糖霜肉棒，上面镶嵌着密密麻麻的滴虫和蠕动小虫，一整个阴茎的生态圈进入你的阴道仿佛彗星给地球带来的第一场生物革命，在你的子宫里迎接物种大爆发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 516,
+          "like_count": 2208,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1839
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T20:07:29.000Z",
+        "description": "键政能极大提高自身素养，会有美女被优秀的建政男性吸引，因为他们谈吐不凡，提高国际视野对各种投资也很有好处，你跟我说键政没用?什么低认知发言。\n绝对支持刘仲敬主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/callum55959",
+                "end": 23,
+                "expanded_url": "https://ngl.link/callum55959",
+                "start": 0,
+                "url": "https://t.co/k2ZGRaK20t"
+              }
+            ]
+          }
+        },
+        "id": "2039072056063541248",
+        "location": "逆向民族主义",
+        "name": "久远寺有珠 (民间键政家)",
+        "pinned_tweet_id": "2049453597650526511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 34,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/k2ZGRaK20t",
+        "username": "rosensmarked",
+        "verified": false
+      }
+    ]
+  }
+}

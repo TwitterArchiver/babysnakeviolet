@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1982986805877293147",
+    "created_at": "2025-10-29T13:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983519490399711505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942298895993954328",
+          "start": 0,
+          "username": "shellyisme24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983519490399711505",
+    "in_reply_to_user_id": "1942298895993954328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982986805877293147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shellyisme24 我现在的存款如果没死成将会迎来地狱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1982986805877293147",
+        "created_at": "2025-10-29T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983519490399711505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942298895993954328",
+              "start": 0,
+              "username": "shellyisme24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983519490399711505",
+        "in_reply_to_user_id": "1942298895993954328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982986805877293147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shellyisme24 我现在的存款如果没死成将会迎来地狱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942298895993954328",
+        "conversation_id": "1982986805877293147",
+        "created_at": "2025-10-28T01:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T02:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982986805877293147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982986805877293147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 307164,
+          "like_count": 1285,
+          "quote_count": 12,
+          "reply_count": 132,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我现在的存款够我这辈子不吃不喝了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983303324482056705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 211,
+          "like_count": 419,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 693
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T19:05:28.000Z",
+        "description": "Le/广东/0.8/Enfj  男的滚蛋",
+        "id": "1942298895993954328",
+        "name": "iam小豚鼠精",
+        "pinned_tweet_id": "1952282352245465326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944308377632247808/wOL07VSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 764,
+          "like_count": 6274,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1614
+        },
+        "username": "shellyisme24",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989361127067947507",
+    "created_at": "2025-11-15T08:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989608400989110285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768339985399480324",
+          "start": 0,
+          "username": "zzzzz337381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989608400989110285",
+    "in_reply_to_user_id": "1768339985399480324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989361127067947507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzz337381 西柚汁送服可以延迟加强药效"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16033,
+        "height": 1088,
+        "media_key": "7_1989360930279378944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989360930279378944/pu/img/VwpYxlANjCN2a-8y.jpg",
+        "public_metrics": {
+          "view_count": 2770
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989360930279378944/pu/vid/avc1/320x482/Hb0yS4mWKUqPY0bY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989360930279378944/pu/vid/avc1/480x724/deJaHNGBnBgsOnNF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989360930279378944/pu/vid/avc1/720x1088/e8XlTstZOMySkCD5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989360930279378944/pu/pl/LZFvsAEGHF9ZchM0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989361127067947507",
+        "created_at": "2025-11-15T08:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989608400989110285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768339985399480324",
+              "start": 0,
+              "username": "zzzzz337381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989608400989110285",
+        "in_reply_to_user_id": "1768339985399480324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989361127067947507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzz337381 西柚汁送服可以延迟加强药效"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989360930279378944"
+          ]
+        },
+        "author_id": "1768339985399480324",
+        "conversation_id": "1989361127067947507",
+        "created_at": "2025-11-14T15:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989361127067947507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3zpplKUg8",
+              "end": 36,
+              "expanded_url": "https://x.com/zzzzz337381/status/1989361127067947507/video/1",
+              "media_key": "7_1989360930279378944",
+              "start": 13,
+              "url": "https://t.co/n3zpplKUg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989361127067947507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4792,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次嗑药 我姐给我录的 https://t.co/n3zpplKUg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！主页推广请注意分辨！入门请私信！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 275,
+          "like_count": 1223,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1077
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T18:15:03.000Z",
+        "description": "我的人生就是自残自卑自恋自慰自杀自作多情",
+        "id": "1768339985399480324",
+        "location": "伦敦",
+        "name": "zzzzz",
+        "pinned_tweet_id": "1986306419264790690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989556998224871424/ske87Ysg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 1114,
+          "like_count": 8407,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 2250
+        },
+        "username": "zzzzz337381",
+        "verified": false
+      }
+    ]
+  }
+}

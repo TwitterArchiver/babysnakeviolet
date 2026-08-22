@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2082782877813772680",
+    "created_at": "2026-07-30T23:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082976181150990374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1899874638148087808",
+          "start": 0,
+          "username": "bfs20x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082976181150990374",
+    "in_reply_to_user_id": "1899874638148087808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082782877813772680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bfs20x 屁会很臭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082782869269925888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeH_AsaUAA_4aX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2082782877813772680",
+        "created_at": "2026-07-30T23:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082976181150990374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1899874638148087808",
+              "start": 0,
+              "username": "bfs20x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082976181150990374",
+        "in_reply_to_user_id": "1899874638148087808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082782877813772680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bfs20x 屁会很臭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082782869269925888"
+          ]
+        },
+        "author_id": "1899874638148087808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082782877813772680",
+        "created_at": "2026-07-30T10:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082782877813772680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHs4daRUdF",
+              "end": 41,
+              "expanded_url": "https://x.com/bfs20x/status/2082782877813772680/photo/1",
+              "media_key": "3_2082782869269925888",
+              "start": 18,
+              "url": "https://t.co/lHs4daRUdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082782877813772680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇 每天吃五个鸡蛋会怎么样 🥚 https://t.co/lHs4daRUdF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 642,
+          "like_count": 3248,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 2091
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T17:26:34.000Z",
+        "description": "没有付费帖子 没有财务建议 专业交易 推荐OKX交易所 https://t.co/Gcv0K27FeE 邀请码 LV666 手续费减免20%",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "promooboost.com/join/LV666",
+                "end": 51,
+                "expanded_url": "https://www.promooboost.com/join/LV666",
+                "start": 28,
+                "url": "https://t.co/Gcv0K27FeE"
+              }
+            ]
+          }
+        },
+        "id": "1899874638148087808",
+        "location": "社区与自用工具",
+        "name": "巴菲森20x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967824592405426176/bi1xC9l6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5105,
+          "following_count": 4052,
+          "like_count": 5400,
+          "listed_count": 8,
+          "media_count": 847,
+          "tweet_count": 4047
+        },
+        "url": "",
+        "username": "bfs20x",
+        "verified": true
+      }
+    ]
+  }
+}

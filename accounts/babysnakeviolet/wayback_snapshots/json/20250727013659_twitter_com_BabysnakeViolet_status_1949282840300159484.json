@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949282836550463488"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1949282840300159484",
+    "created_at": "2025-07-27T01:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T02:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949282840300159484"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "门槛"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "甜妹"
+        },
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "女大学生"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YvT4ln1VY6",
+          "end": 49,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1949282840300159484/photo/1",
+          "media_key": "3_1949282836550463488",
+          "start": 26,
+          "url": "https://t.co/YvT4ln1VY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949282840300159484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的不想入我的🚪吗哥哥？＃门槛 #甜妹 #女大学生 https://t.co/YvT4ln1VY6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949282836550463488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0-aX9bMAAyKrE.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949282836550463488"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1949282840300159484",
+        "created_at": "2025-07-27T01:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T02:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949282840300159484"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "门槛"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "甜妹"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "女大学生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvT4ln1VY6",
+              "end": 49,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1949282840300159484/photo/1",
+              "media_key": "3_1949282836550463488",
+              "start": 26,
+              "url": "https://t.co/YvT4ln1VY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949282840300159484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不想入我的🚪吗哥哥？＃门槛 #甜妹 #女大学生 https://t.co/YvT4ln1VY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 151,
+          "like_count": 319,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 567
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

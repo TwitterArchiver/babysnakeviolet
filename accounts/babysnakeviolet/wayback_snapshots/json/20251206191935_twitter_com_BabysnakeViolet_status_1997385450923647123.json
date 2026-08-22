@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1997385395164807168"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1997385450923647123",
+    "created_at": "2025-12-06T19:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T20:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997385450923647123"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "自伤"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "婊子"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "母狗"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZxFwD9sWGZ",
+          "end": 163,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1997385450923647123/video/1",
+          "media_key": "7_1997385395164807168",
+          "start": 140,
+          "url": "https://t.co/ZxFwD9sWGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997385450923647123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自称餐券妹的地雷女 你们就继续穿那个一千一件的lizlisa malymoon 买那个canmake ysl 香奈儿 迪奥 隔两天再来一个cosplay大全套 然后装作自己很命苦 天天割手 od 喝八块一瓶的魔爪 我在屏幕后面一点也不羡慕 不心酸 不嫉妒 ＃自伤 ＃婊子 ＃母狗 https://t.co/ZxFwD9sWGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21546,
+        "height": 1280,
+        "media_key": "7_1997385395164807168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997385395164807168/pu/img/gNu4CluCueNzs-tU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997385395164807168/pu/vid/avc1/320x568/bf5GB3IYx5HqY7NS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997385395164807168/pu/vid/avc1/480x852/bNoFwbXznEeWywuw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997385395164807168/pu/vid/avc1/720x1280/WpHqCTWd06K0NNSZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997385395164807168/pu/pl/lyDwQ3Bd-wfZJSOq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997385395164807168"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1997385450923647123",
+        "created_at": "2025-12-06T19:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T20:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997385450923647123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "自伤"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "婊子"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZxFwD9sWGZ",
+              "end": 163,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1997385450923647123/video/1",
+              "media_key": "7_1997385395164807168",
+              "start": 140,
+              "url": "https://t.co/ZxFwD9sWGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997385450923647123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自称餐券妹的地雷女 你们就继续穿那个一千一件的lizlisa malymoon 买那个canmake ysl 香奈儿 迪奥 隔两天再来一个cosplay大全套 然后装作自己很命苦 天天割手 od 喝八块一瓶的魔爪 我在屏幕后面一点也不羡慕 不心酸 不嫉妒 ＃自伤 ＃婊子 ＃母狗 https://t.co/ZxFwD9sWGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 343,
+          "like_count": 1581,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1357
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

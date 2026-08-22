@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2079921501328064660",
+    "created_at": "2026-07-23T06:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080172321126690955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970504759762419712",
+          "start": 0,
+          "username": "DkyOnlyforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080172321126690955",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080086439715549549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DkyOnlyforu 无比感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2079921501328064660",
+        "created_at": "2026-07-23T06:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080172321126690955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080172321126690955",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080086439715549549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 无比感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079921501328064660",
+        "created_at": "2026-07-23T00:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080086439715549549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080086439715549549",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079990361171374204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 宝贝卧蚕用的是砍妹的02眼影是那个砍妹14 修容是木柯诗的 口红窝用romand17叠了dior859的紫色😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 624,
+          "like_count": 3167,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 497,
+          "like_count": 5684,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

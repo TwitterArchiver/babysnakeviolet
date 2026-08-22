@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2077331431995642212",
+    "created_at": "2026-07-19T16:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078885929687933010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754843908524376064",
+          "start": 0,
+          "username": "huajiliefushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078885929687933010",
+    "in_reply_to_user_id": "1754843908524376064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077918817842573597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajiliefushi 这是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2077331431995642212",
+        "created_at": "2026-07-19T16:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078885929687933010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754843908524376064",
+              "start": 0,
+              "username": "huajiliefushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078885929687933010",
+        "in_reply_to_user_id": "1754843908524376064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077918817842573597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiliefushi 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754843908524376064",
+        "conversation_id": "2077331431995642212",
+        "created_at": "2026-07-17T00:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077918817842573597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077918817842573597",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077331431995642212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 做hj引导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 623,
+          "like_count": 3132,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 2035
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:26:17.000Z",
+        "description": "颓废准大一 网络蛆虫 摇滚迷   酗酒重度依赖 没事喜欢踢踢足球 友跨 漫摄fw  欢迎互fo互发乐子唠嗑",
+        "id": "1754843908524376064",
+        "location": "沃尔库塔—5",
+        "name": "diaonansfz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460493376475136/mLc0BZcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 123,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "huajiliefushi",
+        "verified": false
+      }
+    ]
+  }
+}

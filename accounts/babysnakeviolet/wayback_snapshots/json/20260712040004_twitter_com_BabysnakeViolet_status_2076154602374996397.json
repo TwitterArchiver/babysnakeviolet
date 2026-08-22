@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2076154600491807014",
+    "created_at": "2026-07-12T04:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076154602374996397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076154602374996397",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076154600491807014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看着这些东西除了恶心什么感觉也没有，在某个绝望的锚点，我只想去死，复仇，自我价值，我都不想再去实现了，这种莫大的空虚席卷了我，意识到自己是被世界排除在底层的边缘人物这一点太不舒服了，我已经尽力合群了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2076154600491807014",
+        "created_at": "2026-07-12T04:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076154602374996397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076154602374996397",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076154600491807014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看着这些东西除了恶心什么感觉也没有，在某个绝望的锚点，我只想去死，复仇，自我价值，我都不想再去实现了，这种莫大的空虚席卷了我，意识到自己是被世界排除在底层的边缘人物这一点太不舒服了，我已经尽力合群了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2076154600491807014",
+        "created_at": "2026-07-12T04:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076154600491807014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076154600491807014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我踏马现在就是好痛啊我好空虚啊，我给自己找事做写史同打游戏看电影纪录片我甚至把13季alone都看了可我还是好空虚啊，我和这部综艺里独自一人面对大自然求生的人有一个共同点，我也是孤独的，可我是空心人，我的身体里没有坚强，韧性，毅力，勇气，它空无一物，这半年我写了有二十万字零零碎碎的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 618,
+          "like_count": 2838,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 1986
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

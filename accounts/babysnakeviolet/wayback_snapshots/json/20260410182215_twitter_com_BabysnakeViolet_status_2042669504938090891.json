@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2041094389158797810",
+    "created_at": "2026-04-10T18:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042669504938090891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856705166894080000",
+          "start": 0,
+          "username": "Ilismsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042669504938090891",
+    "in_reply_to_user_id": "1856705166894080000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041094389158797810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ilismsama 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041093462137942016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNrsIwasAASrAD.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 188290,
+        "height": 1280,
+        "media_key": "13_2041093462133817344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041093462133817344/img/SoHGdHbUcNJtsesu.jpg",
+        "public_metrics": {
+          "view_count": 3256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041093462133817344/vid/avc1/320x568/GkVVQdyIyrseiMwX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041093462133817344/vid/avc1/480x852/FovSkHgO9JZ6HGh9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041093462133817344/vid/avc1/720x1280/fzxbeTFuILL6jQUO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041093462133817344/pl/oI5hxXddGrb7cHdA.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041093462133735424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNrsIvagAAIR6x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2041094389158797810",
+        "created_at": "2026-04-10T18:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042669504938090891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856705166894080000",
+              "start": 0,
+              "username": "Ilismsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042669504938090891",
+        "in_reply_to_user_id": "1856705166894080000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041094389158797810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ilismsama 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041093462137942016",
+            "13_2041093462133817344",
+            "3_2041093462133735424"
+          ]
+        },
+        "author_id": "1856705166894080000",
+        "conversation_id": "2041094389158797810",
+        "created_at": "2026-04-06T10:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041094389158797810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CK62BpLmQr",
+              "end": 52,
+              "expanded_url": "https://x.com/Ilismsama/status/2041094389158797810/video/1",
+              "media_key": "3_2041093462137942016",
+              "start": 29,
+              "url": "https://t.co/CK62BpLmQr"
+            },
+            {
+              "display_url": "pic.x.com/CK62BpLmQr",
+              "end": 52,
+              "expanded_url": "https://x.com/Ilismsama/status/2041094389158797810/video/1",
+              "media_key": "13_2041093462133817344",
+              "start": 29,
+              "url": "https://t.co/CK62BpLmQr"
+            },
+            {
+              "display_url": "pic.x.com/CK62BpLmQr",
+              "end": 52,
+              "expanded_url": "https://x.com/Ilismsama/status/2041094389158797810/video/1",
+              "media_key": "3_2041093462133735424",
+              "start": 29,
+              "url": "https://t.co/CK62BpLmQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041094389158797810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 7194,
+          "like_count": 449,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "视频是切割全过程喵窝给加速了～一会窝再分大一点喵，分舌惹 https://t.co/CK62BpLmQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 433,
+          "like_count": 1984,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1737
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:26:43.000Z",
+        "description": "Ilovecats||digital diary",
+        "id": "1856705166894080000",
+        "name": "cyxg",
+        "pinned_tweet_id": "2032496903167135909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975185848812421120/OqNELAqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5529,
+          "following_count": 131,
+          "like_count": 1927,
+          "listed_count": 11,
+          "media_count": 240,
+          "tweet_count": 780
+        },
+        "username": "Ilismsama",
+        "verified": false
+      }
+    ]
+  }
+}

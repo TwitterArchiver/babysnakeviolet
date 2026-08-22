@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984002922745835521"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1984002925665120765",
+    "created_at": "2025-10-30T21:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T22:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984002925665120765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SbbBzXhgvG",
+          "end": 69,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1984002925665120765/photo/1",
+          "media_key": "3_1984002922745835521",
+          "start": 46,
+          "url": "https://t.co/SbbBzXhgvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984002925665120765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这人长得好丑，像野猪，胖的要死全身全是脂肪跟良子有啥区别，傻逼见到这条是不是又要破防了😂😂 https://t.co/SbbBzXhgvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984002922745835521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4iYJYOaMAEkL0i.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984002922745835521"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984002925665120765",
+        "created_at": "2025-10-30T21:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T22:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984002925665120765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbbBzXhgvG",
+              "end": 69,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1984002925665120765/photo/1",
+              "media_key": "3_1984002922745835521",
+              "start": 46,
+              "url": "https://t.co/SbbBzXhgvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984002925665120765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人长得好丑，像野猪，胖的要死全身全是脂肪跟良子有啥区别，傻逼见到这条是不是又要破防了😂😂 https://t.co/SbbBzXhgvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "母狗一条/叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 224,
+          "like_count": 485,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 766
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989898151738970548",
+    "created_at": "2025-11-16T03:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989898151738970548"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "母狗"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "门槛"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "一日女友"
+        },
+        {
+          "end": 77,
+          "start": 71,
+          "tag": "wataa"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "金主"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "水瑶"
+        },
+        {
+          "end": 89,
+          "start": 86,
+          "tag": "包养"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "骚逼"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "骚货"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "绿帽"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "奶子"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "陪聊"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1289504272506392576",
+          "start": 3,
+          "username": "BabysnakeViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989898151738970548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989612799044284552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BabysnakeViolet: 我是一只被药物统治大脑的骚母狗，好想爸爸用肉棒狠狠插我小穴..#母狗 #门槛 #门槛妹 #一日女友 #wataa #金主 #水瑶 #包养 #骚逼 #骚货 #绿帽 #奶子  #爸爸活 #妈妈活 #门槛哥  #门槛姐 #金主爸爸 #陪聊 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989898151738970548].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989898151738970548",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989898151738970548"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989612795076513792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yGS7MbkAApyAd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989612795076513792"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989612799044284552",
+        "created_at": "2025-11-15T08:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989612799044284552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "母狗"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "门槛"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "一日女友"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "wataa"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "金主"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "水瑶"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "包养"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "骚逼"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "骚货"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "绿帽"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "奶子"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "陪聊"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "一日女友"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "纯绿"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "半绿"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "母狗"
+            },
+            {
+              "end": 159,
+              "start": 148,
+              "tag": "sugardaddy"
+            },
+            {
+              "end": 165,
+              "start": 160,
+              "tag": "反差女友"
+            },
+            {
+              "end": 169,
+              "start": 166,
+              "tag": "陪玩"
+            },
+            {
+              "end": 173,
+              "start": 170,
+              "tag": "女大"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "女高"
+            },
+            {
+              "end": 181,
+              "start": 178,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ghyXfVWxn",
+              "end": 205,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1989612799044284552/photo/1",
+              "media_key": "3_1989612795076513792",
+              "start": 182,
+              "url": "https://t.co/5ghyXfVWxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989612799044284552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2609,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我是一只被药物统治大脑的骚母狗，好想爸爸用肉棒狠狠插我小穴..#母狗 #门槛 #门槛妹 #一日女友 #wataa #金主 #水瑶 #包养 #骚逼 #骚货 #绿帽 #奶子  #爸爸活 #妈妈活 #门槛哥  #门槛姐 #金主爸爸 #陪聊 #一日女友 #纯绿 #半绿 #电子宠物 #ATM奴 #母狗  #sugardaddy #反差女友 #陪玩 #女大 #女高 #反差 https://t.co/5ghyXfVWxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥语音验证20，如果裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 276,
+          "like_count": 1320,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1126
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

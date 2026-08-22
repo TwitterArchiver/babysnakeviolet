@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2072420299816284376",
+    "created_at": "2026-07-01T20:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T21:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072420299816284376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910629733785870336",
+          "start": 3,
+          "username": "ji_chu25601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072420299816284376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071844650126905394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chu25601: 没有o过普瑞巴林的人生是𣎴完整的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2072420299816284376",
+        "created_at": "2026-07-01T20:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072420299816284376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910629733785870336",
+              "start": 3,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072420299816284376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071844650126905394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chu25601: 没有o过普瑞巴林的人生是𣎴完整的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2071844650126905394",
+        "created_at": "2026-06-30T06:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071844650126905394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071844650126905394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3688,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "没有o过普瑞巴林的人生是𣎴完整的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，推文当日记本发，入门请私信\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 614,
+          "like_count": 2803,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 1971
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 145,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

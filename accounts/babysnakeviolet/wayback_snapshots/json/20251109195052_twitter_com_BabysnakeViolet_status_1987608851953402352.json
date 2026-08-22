@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987440734098923595",
+    "created_at": "2025-11-09T19:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T20:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987608851953402352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 30,
+          "id": "954724026806448128",
+          "start": 15,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987608851953402352",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987587118781415640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @libertyelysium 就要扶她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987440734098923595",
+        "created_at": "2025-11-09T19:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T20:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987608851953402352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 30,
+              "id": "954724026806448128",
+              "start": 15,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987608851953402352",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987587118781415640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @libertyelysium 就要扶她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "1987440734098923595",
+        "created_at": "2025-11-09T18:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T19:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987587118781415640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987587118781415640",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987440734098923595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 就要扶她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 235,
+          "like_count": 552,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 848
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 120,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934929099300212736/ICtzJ-Pe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10191,
+          "following_count": 651,
+          "like_count": 82014,
+          "listed_count": 39,
+          "media_count": 1966,
+          "tweet_count": 30470
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

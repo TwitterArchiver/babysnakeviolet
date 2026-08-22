@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2011662652968484915",
+    "created_at": "2026-01-16T03:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T04:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012011923332874285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808697284206678016",
+          "start": 0,
+          "username": "D1nn2r_8964"
+        },
+        {
+          "end": 24,
+          "id": "1627535385453821952",
+          "start": 13,
+          "username": "uu41085108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012011923332874285",
+    "in_reply_to_user_id": "1808697284206678016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012011861974364578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1nn2r_8964 @uu41085108 hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2011662652968484915",
+        "created_at": "2026-01-16T03:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012011923332874285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808697284206678016",
+              "start": 0,
+              "username": "D1nn2r_8964"
+            },
+            {
+              "end": 24,
+              "id": "1627535385453821952",
+              "start": 13,
+              "username": "uu41085108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012011923332874285",
+        "in_reply_to_user_id": "1808697284206678016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012011861974364578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1nn2r_8964 @uu41085108 hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808697284206678016",
+        "conversation_id": "2011662652968484915",
+        "created_at": "2026-01-16T03:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T04:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012011861974364578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 28,
+              "id": "1627535385453821952",
+              "start": 17,
+              "username": "uu41085108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012011861974364578",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012009396092747938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @uu41085108 应该不会吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 420,
+          "like_count": 1969,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1590
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学 月厨/没有性别和性取向 老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费） 欢迎找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Dinnerstuff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d1nn2rstuff",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d1nn2rstuff",
+                "start": 0,
+                "url": "https://t.co/2o3aabZr7h"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "Auckland, New Zealand",
+        "name": "D1nn2r Stuff🇳🇿8964（苦命煮饭婆",
+        "pinned_tweet_id": "1967842252434313226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 982,
+          "like_count": 9817,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/2o3aabZr7h",
+        "username": "D1nn2r_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T05:07:51.000Z",
+        "description": "🇲🇾JB 02/160/60 下雨知道往家跑",
+        "id": "1627535385453821952",
+        "name": "𝑼𝑼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839341167886192640/ZLTCxyrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 9,
+          "like_count": 800,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 128
+        },
+        "username": "uu41085108",
+        "verified": false
+      }
+    ]
+  }
+}

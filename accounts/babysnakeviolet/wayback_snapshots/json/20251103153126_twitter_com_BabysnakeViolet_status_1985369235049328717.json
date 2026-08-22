@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1984998175992946727",
+    "created_at": "2025-11-03T15:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985369235049328717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        },
+        {
+          "end": 19,
+          "id": "1812910248640061442",
+          "start": 9,
+          "username": "meowo2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985369235049328717",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985008068107878592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 @meowo2333 丽丽！说了多少次了男人不要卖身！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1984998175992946727",
+        "created_at": "2025-11-03T15:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985369235049328717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            },
+            {
+              "end": 19,
+              "id": "1812910248640061442",
+              "start": 9,
+              "username": "meowo2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985369235049328717",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985008068107878592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 @meowo2333 丽丽！说了多少次了男人不要卖身！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1984998175992946727",
+        "created_at": "2025-11-02T15:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985008068107878592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1812910248640061442",
+              "start": 0,
+              "username": "meowo2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985008068107878592",
+        "in_reply_to_user_id": "1812910248640061442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984998175992946727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowo2333 给我送我当你狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 234,
+          "like_count": 517,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 789
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5623,
+          "following_count": 396,
+          "like_count": 46067,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 18486
+        },
+        "username": "4rocky9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T18:01:11.000Z",
+        "description": "⁺✞可以叫我Mia/小甜心/老爹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/torres20515",
+                "end": 23,
+                "expanded_url": "https://ngl.link/torres20515",
+                "start": 0,
+                "url": "https://t.co/iHp4iRad8J"
+              }
+            ]
+          }
+        },
+        "id": "1812910248640061442",
+        "location": "焦糖布丁春日半岛",
+        "name": "甜心老爹^",
+        "pinned_tweet_id": "1982442910303015244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982483767072530432/gHx6OkM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 252,
+          "like_count": 4870,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 3364
+        },
+        "url": "https://t.co/iHp4iRad8J",
+        "username": "meowo2333",
+        "verified": false
+      }
+    ]
+  }
+}

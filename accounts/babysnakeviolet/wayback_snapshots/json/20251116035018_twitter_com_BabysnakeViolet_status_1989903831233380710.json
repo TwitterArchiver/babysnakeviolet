@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988536070904967633",
+    "created_at": "2025-11-16T03:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989903831233380710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963620521024917506",
+          "start": 0,
+          "username": "appleintopears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989903831233380710",
+    "in_reply_to_user_id": "1963620521024917506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989233524935987244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appleintopears 拼豆是什么呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988536070904967633",
+        "created_at": "2025-11-16T03:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989903831233380710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963620521024917506",
+              "start": 0,
+              "username": "appleintopears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989903831233380710",
+        "in_reply_to_user_id": "1963620521024917506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989233524935987244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appleintopears 拼豆是什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963620521024917506",
+        "conversation_id": "1988536070904967633",
+        "created_at": "2025-11-14T07:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989233524935987244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989233524935987244",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988731446996136029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 宝宝可以试一试拼豆，这个可以转移一下注意力的，希望你幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try..😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！🚪默认不退",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 276,
+          "like_count": 1320,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1129
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T15:10:10.000Z",
+        "description": "",
+        "id": "1963620521024917506",
+        "name": "appleintopears",
+        "pinned_tweet_id": "1989880309580796386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963620723177787394/GzL1sWOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 18,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "appleintopears",
+        "verified": false
+      }
+    ]
+  }
+}

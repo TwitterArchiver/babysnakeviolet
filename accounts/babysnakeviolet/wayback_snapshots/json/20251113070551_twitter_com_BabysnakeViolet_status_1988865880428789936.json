@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988156955731296256",
+        "3_1988156955676770304",
+        "3_1988156955697754112"
+      ],
+      "media_source_tweet_id": [
+        "1988156972106141903",
+        "1988156972106141903",
+        "1988156972106141903"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988865880428789936",
+    "created_at": "2025-11-13T07:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988865880428789936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988128795505946629",
+          "start": 3,
+          "username": "xioyng41978"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZB4ODSIWQ",
+          "end": 44,
+          "expanded_url": "https://x.com/xioyng41978/status/1988156972106141903/photo/1",
+          "media_key": "3_1988156955731296256",
+          "start": 21,
+          "url": "https://t.co/FZB4ODSIWQ"
+        },
+        {
+          "display_url": "pic.x.com/FZB4ODSIWQ",
+          "end": 44,
+          "expanded_url": "https://x.com/xioyng41978/status/1988156972106141903/photo/1",
+          "media_key": "3_1988156955676770304",
+          "start": 21,
+          "url": "https://t.co/FZB4ODSIWQ"
+        },
+        {
+          "display_url": "pic.x.com/FZB4ODSIWQ",
+          "end": 44,
+          "expanded_url": "https://x.com/xioyng41978/status/1988156972106141903/photo/1",
+          "media_key": "3_1988156955697754112",
+          "start": 21,
+          "url": "https://t.co/FZB4ODSIWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988865880428789936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988156972106141903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xioyng41978: 置顶🔝 https://t.co/FZB4ODSIWQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988865880428789936].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988865880428789936",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988865880428789936"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988156955731296256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5daN7AWAAAwmOY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1174,
+        "media_key": "3_1988156955676770304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5daN6zWAAAABH7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1988156955697754112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5daN64WMAA8AIA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988156955731296256",
+            "3_1988156955676770304",
+            "3_1988156955697754112"
+          ]
+        },
+        "author_id": "1988128795505946629",
+        "conversation_id": "1988156972106141903",
+        "created_at": "2025-11-11T08:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988156972106141903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZB4ODSIWQ",
+              "end": 27,
+              "expanded_url": "https://x.com/xioyng41978/status/1988156972106141903/photo/1",
+              "media_key": "3_1988156955731296256",
+              "start": 4,
+              "url": "https://t.co/FZB4ODSIWQ"
+            },
+            {
+              "display_url": "pic.x.com/FZB4ODSIWQ",
+              "end": 27,
+              "expanded_url": "https://x.com/xioyng41978/status/1988156972106141903/photo/1",
+              "media_key": "3_1988156955676770304",
+              "start": 4,
+              "url": "https://t.co/FZB4ODSIWQ"
+            },
+            {
+              "display_url": "pic.x.com/FZB4ODSIWQ",
+              "end": 27,
+              "expanded_url": "https://x.com/xioyng41978/status/1988156972106141903/photo/1",
+              "media_key": "3_1988156955697754112",
+              "start": 4,
+              "url": "https://t.co/FZB4ODSIWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988156972106141903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1157,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝 https://t.co/FZB4ODSIWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 265,
+          "like_count": 1228,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1049
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T06:17:10.000Z",
+        "description": "你们好我是小羊 06/175/98 我第一次下海请善良对待我 我很好说话 99/299/399/520 想线下可以商量",
+        "id": "1988128795505946629",
+        "name": "小羊抱抱",
+        "pinned_tweet_id": "1988156972106141903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988129337241899008/sfpJyHoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 62,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "xioyng41978",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1942651542341050883",
+    "created_at": "2025-08-02T20:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T21:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951745344771080556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940169991741149184",
+          "start": 0,
+          "username": "f1xp9Rz3rt86647"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951745344771080556",
+    "in_reply_to_user_id": "1940169991741149184",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942651542341050883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f1xp9Rz3rt86647 same"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1942651542341050883",
+        "created_at": "2025-08-02T20:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T21:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951745344771080556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940169991741149184",
+              "start": 0,
+              "username": "f1xp9Rz3rt86647"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951745344771080556",
+        "in_reply_to_user_id": "1940169991741149184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942651542341050883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f1xp9Rz3rt86647 same"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940169991741149184",
+        "conversation_id": "1942651542341050883",
+        "created_at": "2025-07-08T18:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T19:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942651542341050883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942651542341050883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实东亚穷人挺惨的 生命的三分之一的时间都浪费在互联网上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 156,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 581
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T22:05:59.000Z",
+        "description": "",
+        "id": "1940169991741149184",
+        "name": "附加（自残版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940170124901724160/aknRNZKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 103,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "f1xp9Rz3rt86647",
+        "verified": false
+      }
+    ]
+  }
+}

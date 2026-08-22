@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2007061667683999869",
+    "created_at": "2026-01-02T20:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T21:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007194805462556871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678037476068163585",
+          "start": 0,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007194805462556871",
+    "in_reply_to_user_id": "1678037476068163585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007061667683999869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_0406_ 怎么会你那么漂亮啊宝宝，我颜值一般都做片场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2007061667683999869",
+        "created_at": "2026-01-02T20:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T21:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007194805462556871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678037476068163585",
+              "start": 0,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007194805462556871",
+        "in_reply_to_user_id": "1678037476068163585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007061667683999869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_0406_ 怎么会你那么漂亮啊宝宝，我颜值一般都做片场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678037476068163585",
+        "conversation_id": "2007061667683999869",
+        "created_at": "2026-01-02T12:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007061667683999869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007061667683999869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这样去做夜场都没人收。。。好烦。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 398,
+          "like_count": 1838,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1513
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶 1314🚪我天天黏着你发消息😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "2004490760083919245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 230,
+          "like_count": 1898,
+          "listed_count": 7,
+          "media_count": 639,
+          "tweet_count": 5890
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

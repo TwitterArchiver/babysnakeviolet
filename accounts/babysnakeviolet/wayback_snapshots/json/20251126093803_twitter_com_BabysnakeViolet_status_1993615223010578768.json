@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993615220410056704"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993615223010578768",
+    "created_at": "2025-11-26T09:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993615223010578768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHkgN4wabN",
+          "end": 30,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1993615223010578768/photo/1",
+          "media_key": "3_1993615220410056704",
+          "start": 7,
+          "url": "https://t.co/xHkgN4wabN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993615223010578768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "22年的蛇。 https://t.co/xHkgN4wabN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_1993615220410056704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6q-evdagAATqR5.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993615220410056704"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993615223010578768",
+        "created_at": "2025-11-26T09:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993615223010578768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHkgN4wabN",
+              "end": 30,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1993615223010578768/photo/1",
+              "media_key": "3_1993615220410056704",
+              "start": 7,
+              "url": "https://t.co/xHkgN4wabN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993615223010578768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "22年的蛇。 https://t.co/xHkgN4wabN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 282,
+          "like_count": 1396,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1242
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

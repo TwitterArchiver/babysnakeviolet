@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989091891477115264",
+    "created_at": "2025-11-14T05:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T06:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989208474572746933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989208474572746933",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989091891477115264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mshuxing 哼哼哼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1989091882736185347",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5qsh1gacAMxS1Z.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989091891477115264",
+        "created_at": "2025-11-14T05:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989208474572746933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989208474572746933",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989091891477115264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mshuxing 哼哼哼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989091882736185347"
+          ]
+        },
+        "author_id": "1918236611684233216",
+        "conversation_id": "1989091891477115264",
+        "created_at": "2025-11-13T22:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989091891477115264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infintytweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/8ygU7k9urp"
+            },
+            {
+              "display_url": "pic.x.com/kbH9DHSSjX",
+              "end": 71,
+              "expanded_url": "https://x.com/mshuxing/status/1989091891477115264/photo/1",
+              "media_key": "3_1989091882736185347",
+              "start": 48,
+              "url": "https://t.co/kbH9DHSSjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989091891477115264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 712,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/8ygU7k9urp https://t.co/kbH9DHSSjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989023604248584331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 275,
+          "like_count": 1230,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1067
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "cn菡亭序意 可以叫我幼幼 碎碎念 自拍 攻击性言论 中偏重抑焦自残\nBrat｜顺女｜范性恋｜友跨｜恐顺反顺 |LGBT+全友好🏳️‍🌈\n♌ 狮子座｜INTP-T｜2011.08.04 |纯爱党\n看出成分互fo属性置顶",
+        "id": "1918236611684233216",
+        "name": "幼",
+        "pinned_tweet_id": "1987675343897903364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986523114952392704/U1VlMaIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 119,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 588
+        },
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

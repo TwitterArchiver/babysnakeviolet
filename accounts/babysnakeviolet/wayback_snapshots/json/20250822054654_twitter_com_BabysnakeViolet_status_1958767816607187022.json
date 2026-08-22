@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1958767816607187022",
+    "created_at": "2025-08-22T05:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958767816607187022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958767816607187022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌极端自我的人，很讨厌，没有个性，没有博爱的能力，有的只是一路顺畅被家庭社会溺爱的人生，我喜欢非凡的人和东西，我学历不高，下过海卖过逼还有精神病，但我知道傲慢是什么，唉。我如果真的能成为很厉害的人的话，我会保护每一个在童年遭受性暴力的孩子，不分男女，我知道这种痛我能感同身受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1958767816607187022",
+        "created_at": "2025-08-22T05:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958767816607187022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958767816607187022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌极端自我的人，很讨厌，没有个性，没有博爱的能力，有的只是一路顺畅被家庭社会溺爱的人生，我喜欢非凡的人和东西，我学历不高，下过海卖过逼还有精神病，但我知道傲慢是什么，唉。我如果真的能成为很厉害的人的话，我会保护每一个在童年遭受性暴力的孩子，不分男女，我知道这种痛我能感同身受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 154,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 598
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

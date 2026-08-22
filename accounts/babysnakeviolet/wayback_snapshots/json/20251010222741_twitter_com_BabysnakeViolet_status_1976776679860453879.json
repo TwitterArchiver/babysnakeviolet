@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1976100659821998235",
+    "created_at": "2025-10-10T22:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T23:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976776679860453879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890479972328042497",
+          "start": 0,
+          "username": "Audrey050501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976776679860453879",
+    "in_reply_to_user_id": "1890479972328042497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976100659821998235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Audrey050501 我同框为啥流量那么差 大概是因为我长得丑吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1976100659821998235",
+        "created_at": "2025-10-10T22:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976776679860453879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890479972328042497",
+              "start": 0,
+              "username": "Audrey050501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976776679860453879",
+        "in_reply_to_user_id": "1890479972328042497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976100659821998235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Audrey050501 我同框为啥流量那么差 大概是因为我长得丑吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890479972328042497",
+        "conversation_id": "1976100659821998235",
+        "created_at": "2025-10-09T01:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T02:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976100659821998235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976100659821998235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 1118285,
+          "like_count": 3031,
+          "quote_count": 9,
+          "reply_count": 183,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象一个真人女生的推特会同时出现未打码的奶、逼、脸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 174,
+          "like_count": 349,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 649
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T19:15:44.000Z",
+        "description": "4i＞1i/05/不接任何形式的推广/私信随缘看",
+        "id": "1890479972328042497",
+        "location": "要认识我就打钱。",
+        "name": "帕恰小珊",
+        "pinned_tweet_id": "1976465172844904761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925996978799845376/QXHNqeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3447,
+          "following_count": 404,
+          "like_count": 13256,
+          "listed_count": 6,
+          "media_count": 234,
+          "tweet_count": 3130
+        },
+        "username": "Audrey050501",
+        "verified": false
+      }
+    ]
+  }
+}

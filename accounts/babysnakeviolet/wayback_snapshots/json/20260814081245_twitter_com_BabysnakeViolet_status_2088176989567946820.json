@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2087824524230451435",
+    "created_at": "2026-08-14T08:12:45.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088176989567946820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754871332091682817",
+          "start": 0,
+          "username": "shetong886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088176989567946820",
+    "in_reply_to_user_id": "1754871332091682817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088139062230352224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shetong886 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2087824524230451435",
+        "created_at": "2026-08-14T08:12:45.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088176989567946820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754871332091682817",
+              "start": 0,
+              "username": "shetong886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088176989567946820",
+        "in_reply_to_user_id": "1754871332091682817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088139062230352224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shetong886 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "2087824524230451435",
+        "created_at": "2026-08-14T05:42:02.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088139062230352224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088139062230352224",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087824524230451435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 被打了一分钱备注辱骂内容匿名发送。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "is_identity_verified": false,
+        "location": "你的背后",
+        "most_recent_tweet_id": "2088176989567946820",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2083272843933213099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289504272506392576/1761948477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 635,
+          "like_count": 3334,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 2143
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "蛇小瞳様毁灭中",
+        "id": "1754871332091682817",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088142782347247865",
+        "name": "心作泪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754871332091682817/1744012056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071810968321933312/IoqQHPOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 682,
+          "like_count": 79512,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 12794
+        },
+        "url": "",
+        "username": "shetong886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

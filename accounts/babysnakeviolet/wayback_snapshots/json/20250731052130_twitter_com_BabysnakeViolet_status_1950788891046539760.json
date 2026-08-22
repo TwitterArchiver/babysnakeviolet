@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1950788891046539760",
+    "created_at": "2025-07-31T05:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T06:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950788891046539760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467368317258248192",
+          "start": 3,
+          "username": "loolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950788891046539760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950781892762247265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loolzaozimin: 海绵我不知道你现在 在哪个城市但是我一定会追溯到底的 如果警察不管法律惩戒不了你 我一定会杀了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1950788891046539760",
+        "created_at": "2025-07-31T05:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T06:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950788891046539760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467368317258248192",
+              "start": 3,
+              "username": "loolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950788891046539760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950781892762247265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loolzaozimin: 海绵我不知道你现在 在哪个城市但是我一定会追溯到底的 如果警察不管法律惩戒不了你 我一定会杀了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1950781892762247265",
+        "created_at": "2025-07-31T04:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T05:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950781892762247265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loolzaozimin/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/loolzaozimin/status/1949979452311535652",
+              "start": 49,
+              "url": "https://t.co/Zq6u09Owwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950781892762247265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949979452311535652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海绵我不知道你现在 在哪个城市但是我一定会追溯到底的 如果警察不管法律惩戒不了你 我一定会杀了你 https://t.co/Zq6u09Owwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 155,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 578
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "生活は踏みつけ、蹴り、切斷、飲酒です",
+        "id": "1467368317258248192",
+        "location": "門188",
+        "name": "小藻",
+        "pinned_tweet_id": "1762362069909987403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933018250729709568/DY57ql5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16430,
+          "following_count": 53,
+          "like_count": 835,
+          "listed_count": 22,
+          "media_count": 181,
+          "tweet_count": 453
+        },
+        "username": "loolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

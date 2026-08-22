@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2008595060175368602",
+    "created_at": "2026-01-06T17:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T18:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008595151703470103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008595151703470103",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008595060175368602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "压画质了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14433,
+        "height": 720,
+        "media_key": "7_2008595018567610368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008595018567610368/pu/img/qirq0ANil7nqEoWL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008595018567610368/pu/vid/avc1/480x270/abIvKpQudGnV9yaI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008595018567610368/pu/vid/avc1/640x360/qkMpQtz3vnzkF5Dx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008595018567610368/pu/vid/avc1/1280x720/M99UjEhLcsqnVf8_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008595018567610368/pu/pl/Jkva3tCjosBrMGG-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2008595060175368602",
+        "created_at": "2026-01-06T17:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008595151703470103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008595151703470103",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008595060175368602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "压画质了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008595018567610368"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "2008595060175368602",
+        "created_at": "2026-01-06T17:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008595060175368602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQvzdIKSOs",
+              "end": 45,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2008595060175368602/video/1",
+              "media_key": "7_2008595018567610368",
+              "start": 22,
+              "url": "https://t.co/kQvzdIKSOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008595060175368602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求转发求点赞求入门 #门槛姐 #自撮り界隈 https://t.co/kQvzdIKSOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 399,
+          "like_count": 1830,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1524
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

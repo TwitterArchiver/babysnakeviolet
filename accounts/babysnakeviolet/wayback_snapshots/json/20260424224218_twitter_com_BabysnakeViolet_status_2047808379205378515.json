@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2047675843217138139",
+    "created_at": "2026-04-24T22:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047808379205378515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1702824726106984449",
+          "start": 0,
+          "username": "rioke84002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047808379205378515",
+    "in_reply_to_user_id": "1702824726106984449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047675843217138139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rioke84002 牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047675832530071552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrOUhUbcAA1JO3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2047675843217138139",
+        "created_at": "2026-04-24T22:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047808379205378515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1702824726106984449",
+              "start": 0,
+              "username": "rioke84002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047808379205378515",
+        "in_reply_to_user_id": "1702824726106984449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047675843217138139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rioke84002 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047675832530071552"
+          ]
+        },
+        "author_id": "1702824726106984449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047675843217138139",
+        "created_at": "2026-04-24T13:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047675843217138139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddOwc9FR75",
+              "end": 43,
+              "expanded_url": "https://x.com/rioke84002/status/2047675843217138139/photo/1",
+              "media_key": "3_2047675832530071552",
+              "start": 20,
+              "url": "https://t.co/ddOwc9FR75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047675843217138139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没见过神的可以来看我是怎么无痛吃晚安的 https://t.co/ddOwc9FR75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 488,
+          "like_count": 2147,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1814
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T23:20:36.000Z",
+        "description": "我是黎屿 想发啥发啥 喜欢我可怜我可以给我钱 不要转载我的血图",
+        "id": "1702824726106984449",
+        "name": "漂亮小狗鸡腿bot",
+        "pinned_tweet_id": "1920266827055444227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997278019501854720/GMuSAY7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2549,
+          "following_count": 155,
+          "like_count": 1707,
+          "listed_count": 5,
+          "media_count": 236,
+          "tweet_count": 927
+        },
+        "username": "rioke84002",
+        "verified": false
+      }
+    ]
+  }
+}

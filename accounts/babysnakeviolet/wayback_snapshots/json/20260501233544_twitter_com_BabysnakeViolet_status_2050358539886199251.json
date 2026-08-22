@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2050358539886199251",
+    "created_at": "2026-05-01T23:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T00:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050358539886199251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/k3633455837/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/k3633455837/status/2048958482800623721",
+          "start": 32,
+          "url": "https://t.co/f6ah9hqRPD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050358539886199251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048958482800623721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人认识苦水吗？我真的希望现在他一切都好只是账号被封不能回私信 https://t.co/f6ah9hqRPD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3093,
+        "height": 1280,
+        "media_key": "7_2048958455717986304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048958455717986304/pu/img/CNd2mpIOZRHQt2D9.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048958455717986304/pu/vid/avc1/320x568/MKPlPvhKPdKMkH6n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048958455717986304/pu/vid/avc1/480x852/0yOlVYu2TdeJjbyq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048958455717986304/pu/vid/avc1/720x1280/5sOaHE2R_3IQKuCO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048958455717986304/pu/pl/DbqZVGiMfNIkhGRe.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2050358539886199251",
+        "created_at": "2026-05-01T23:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050358539886199251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k3633455837/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/k3633455837/status/2048958482800623721",
+              "start": 32,
+              "url": "https://t.co/f6ah9hqRPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050358539886199251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048958482800623721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人认识苦水吗？我真的希望现在他一切都好只是账号被封不能回私信 https://t.co/f6ah9hqRPD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048958455717986304"
+          ]
+        },
+        "author_id": "1943628759074312192",
+        "conversation_id": "2048958482800623721",
+        "created_at": "2026-04-28T02:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048958482800623721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyro5KmkkZ",
+              "end": 35,
+              "expanded_url": "https://x.com/k3633455837/status/2048958482800623721/video/1",
+              "media_key": "7_2048958455717986304",
+              "start": 12,
+              "url": "https://t.co/cyro5KmkkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048958482800623721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16楼大概是活不了了吧 https://t.co/cyro5KmkkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 534,
+          "like_count": 2521,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1877
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "精神病一个",
+        "id": "1943628759074312192",
+        "location": "理想国",
+        "name": "苦水",
+        "pinned_tweet_id": "1994713593175314730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982046920253014016/q4zIYHcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 95,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1832
+        },
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2082763759362375741",
+    "created_at": "2026-07-30T23:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082974038151029160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "Curse8964"
+        },
+        {
+          "end": 22,
+          "id": "2045921763553312768",
+          "start": 11,
+          "username": "_weiwudage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082974038151029160",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082771670801301981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Curse8964 @_weiwudage 求助我现在十五天联用pr巴氯芬八次了我完全停不下来，期间要不是来月经了我还会吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2082763759362375741",
+        "created_at": "2026-07-30T23:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082974038151029160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "Curse8964"
+            },
+            {
+              "end": 22,
+              "id": "2045921763553312768",
+              "start": 11,
+              "username": "_weiwudage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082974038151029160",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082771670801301981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Curse8964 @_weiwudage 求助我现在十五天联用pr巴氯芬八次了我完全停不下来，期间要不是来月经了我还会吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2082763759362375741",
+        "created_at": "2026-07-30T10:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082771670801301981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045921763553312768",
+              "start": 0,
+              "username": "_weiwudage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082771670801301981",
+        "in_reply_to_user_id": "2045921763553312768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082771506350936179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_weiwudage 没事的呀，巴氯芬很危险千万不要经常吃，戒断是会死人的！也不要吃太多，一次3t就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 641,
+          "like_count": 3246,
+          "listed_count": 5,
+          "media_count": 79,
+          "tweet_count": 2088
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "💊🔪🩸\n♡炮友欧友宝宝主人♡\n ♡@xiaotunovo0♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "xiaotunovo0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/curse37",
+                "end": 23,
+                "expanded_url": "https://ngl.link/curse37",
+                "start": 0,
+                "url": "https://t.co/BoOyx5gTDQ"
+              }
+            ]
+          }
+        },
+        "id": "2039398734962761728",
+        "location": "PR80",
+        "name": "Curse✟",
+        "pinned_tweet_id": "2082372910061330660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082169865146949632/CxpDCaV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 443,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/BoOyx5gTDQ",
+        "username": "Curse8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心  同成分请和我互fo\n匿名提问请https://t.co/S9thlsTIJh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwdg",
+                "end": 48,
+                "expanded_url": "https://ngl.link/wwdg",
+                "start": 25,
+                "url": "https://t.co/S9thlsTIJh"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "name": "苦愛",
+        "pinned_tweet_id": "2082693728435880029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 27,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "_weiwudage",
+        "verified": false
+      }
+    ]
+  }
+}

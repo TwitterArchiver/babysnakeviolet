@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985903492062703858",
+    "created_at": "2025-11-05T02:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985903493635588443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985903493635588443",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985903492062703858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后一句我没说，这些年来我总是歇斯底里，最近两年我突然的平静了下来，把自己抽了出来，但这样其实不好...歇斯底里的生活方式不好麻木平静也不好，我找不好平衡点我也不知道最优解该怎么做，我对死亡也没有敬畏心了，从外婆去世那天开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985903492062703858",
+        "created_at": "2025-11-05T02:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985903493635588443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985903493635588443",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985903492062703858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后一句我没说，这些年来我总是歇斯底里，最近两年我突然的平静了下来，把自己抽了出来，但这样其实不好...歇斯底里的生活方式不好麻木平静也不好，我找不好平衡点我也不知道最优解该怎么做，我对死亡也没有敬畏心了，从外婆去世那天开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985903492062703858",
+        "created_at": "2025-11-05T02:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985903492062703858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985903492062703858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上半年去的精神病科，下半年妈妈才和我坦白跟我说其实她知道了当年我被诱奸的事情，她问我是谁，当时我有发帖说我什么都没感觉，是真的没感觉，我因为许多事情得不到回应和保护已经失去了一种反馈的能力了，我该怎么跟她说，说那人是你的好朋友，街坊邻居都认识的熟人，说了又能怎样，你会给我做主吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 234,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 815
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993072010365387097",
+    "created_at": "2025-11-24T21:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T22:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993072011825095087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993072011825095087",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993072010365387097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凝视我，我看哪里都无法躲避，闭眼是她睁眼是她，有时候我都以为她是不是爱上我了纠缠我这么多年，如果你爱我的话，你就帮我把那些人都杀了好不好姐姐，我过得好可怜，我愿意跟你走，你把他们都杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993072010365387097",
+        "created_at": "2025-11-24T21:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T22:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993072011825095087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993072011825095087",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993072010365387097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凝视我，我看哪里都无法躲避，闭眼是她睁眼是她，有时候我都以为她是不是爱上我了纠缠我这么多年，如果你爱我的话，你就帮我把那些人都杀了好不好姐姐，我过得好可怜，我愿意跟你走，你把他们都杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993072010365387097",
+        "created_at": "2025-11-24T21:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T22:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993072010365387097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993072010365387097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的脑子里一直有个女鬼盯着我，初中有一次家里闹鬼了，有人扯我头发一直敲我房间门问我在不在里面叫我开门有皮鞋的声音，那一次撞鬼以后我就一直会构思一个女鬼，她在各个角落直勾勾的看着我，诡异，神经质，苍白，从每个房间的门口，最开始是悄悄的注视，到最后一步一步瞬移到我面前，一点不遮掩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病不怎么会聊天抗压能力非常差，会回fo每个女孩，入门默认不退，所有女孩都可以找我帮你转发自介，不用帮我转。🥰",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1991500582067269666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 283,
+          "like_count": 1405,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1234
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983166517715054975",
+    "created_at": "2025-10-29T16:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983574586764722199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983574586764722199",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983166517715054975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 爸爸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983166514997178368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WfcCjbMAAVcnW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983166517715054975",
+        "created_at": "2025-10-29T16:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983574586764722199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983574586764722199",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983166517715054975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 爸爸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983166514997178368"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1983166517715054975",
+        "created_at": "2025-10-28T13:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983166517715054975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QM13Vd1jKu",
+              "end": 49,
+              "expanded_url": "https://x.com/IXXA00/status/1983166517715054975/photo/1",
+              "media_key": "3_1983166514997178368",
+              "start": 26,
+              "url": "https://t.co/QM13Vd1jKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983166517715054975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17798,
+          "like_count": 453,
+          "quote_count": 1,
+          "reply_count": 58,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "主包不应该再自卑了，主包就是这个世界上最可爱的人。 https://t.co/QM13Vd1jKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 213,
+          "like_count": 433,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 712
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "我不在乎你是谁，你也不需要了解我那么多。有🚪，会扫射很多照片。",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "pinned_tweet_id": "1979376283537772647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716570320449536/lCUPTHKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 4428,
+          "like_count": 31439,
+          "listed_count": 11,
+          "media_count": 2282,
+          "tweet_count": 31232
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

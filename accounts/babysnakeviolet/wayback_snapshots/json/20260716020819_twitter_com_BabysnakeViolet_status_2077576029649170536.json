@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2077335162594165166",
+    "created_at": "2026-07-16T02:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077576029649170536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758775410119090176",
+          "start": 0,
+          "username": "absorption1234"
+        },
+        {
+          "end": 27,
+          "id": "1429055428374130693",
+          "start": 16,
+          "username": "Gamer94469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077576029649170536",
+    "in_reply_to_user_id": "1758775410119090176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077459965761949761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@absorption1234 @Gamer94469 诶是不是和pr很像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2077335162594165166",
+        "created_at": "2026-07-16T02:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077576029649170536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758775410119090176",
+              "start": 0,
+              "username": "absorption1234"
+            },
+            {
+              "end": 27,
+              "id": "1429055428374130693",
+              "start": 16,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077576029649170536",
+        "in_reply_to_user_id": "1758775410119090176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077459965761949761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@absorption1234 @Gamer94469 诶是不是和pr很像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758775410119090176",
+        "conversation_id": "2077335162594165166",
+        "created_at": "2026-07-15T18:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077459965761949761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 28,
+              "id": "1429055428374130693",
+              "start": 17,
+              "username": "Gamer94469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077459965761949761",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355340107325801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @Gamer94469 我除了感觉和醉酒差不多以外好像没啥特殊的，现实ping变高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 622,
+          "like_count": 3141,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 2029
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T08:48:37.000Z",
+        "description": "👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀",
+        "id": "1758775410119090176",
+        "name": "🐍杖高手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070070686937239553/tjmlK9_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 321,
+          "like_count": 1617,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 851
+        },
+        "url": "",
+        "username": "absorption1234",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "人民杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077399425358639104/gO8CAEDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 320,
+          "like_count": 22345,
+          "listed_count": 2,
+          "media_count": 743,
+          "tweet_count": 5809
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1999291888021700670",
+    "created_at": "2025-12-13T02:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T03:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999672885385060633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1599434907201118214",
+          "start": 0,
+          "username": "MunbdfctAZY7cCt"
+        },
+        {
+          "end": 28,
+          "id": "1614768068353462273",
+          "start": 17,
+          "username": "Muddledist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999672885385060633",
+    "in_reply_to_user_id": "1599434907201118214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999306758880423991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MunbdfctAZY7cCt @Muddledist 我操啊，我傻眼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1999291888021700670",
+        "created_at": "2025-12-13T02:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999672885385060633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1599434907201118214",
+              "start": 0,
+              "username": "MunbdfctAZY7cCt"
+            },
+            {
+              "end": 28,
+              "id": "1614768068353462273",
+              "start": 17,
+              "username": "Muddledist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999672885385060633",
+        "in_reply_to_user_id": "1599434907201118214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999306758880423991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MunbdfctAZY7cCt @Muddledist 我操啊，我傻眼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599434907201118214",
+        "conversation_id": "1999291888021700670",
+        "created_at": "2025-12-12T02:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999306758880423991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614768068353462273",
+              "start": 0,
+              "username": "Muddledist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999306758880423991",
+        "in_reply_to_user_id": "1614768068353462273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999305672048148782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muddledist 想要玩东西去泰国  随便玩   一根大麻烟折合人民币才10块钱   超级便宜   我们这边是天价  那边是白菜价   还不如去国外玩   好好爽爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "你已经尝试了，现在要做的只是躺下然后看看天空。\n查成分回fo，只是一个非常颓废失败的女人。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 363,
+          "like_count": 1687,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1429
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T16:06:24.000Z",
+        "description": "淫荡的男人喜欢淫荡的女人，喜欢下流上劲的聊天。越骚越下流越喜欢，任何淫荡的女孩都可以找我聊天。为了刺激跟欲望超级喜欢给女人吹烟逼，舔烟逼玩毒，1766一起上劲一起做爱发骚。",
+        "id": "1599434907201118214",
+        "location": "Hong Kong",
+        "name": "岔道大师",
+        "pinned_tweet_id": "1808174219458761128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850563806197678080/QKR-lM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7441,
+          "following_count": 209,
+          "like_count": 41,
+          "listed_count": 19,
+          "media_count": 87,
+          "tweet_count": 1015
+        },
+        "username": "MunbdfctAZY7cCt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T23:35:01.000Z",
+        "description": "211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "id": "1614768068353462273",
+        "location": "夢",
+        "name": "乙女椿",
+        "pinned_tweet_id": "1997183338004816174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996521242195873792/u2apVK8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 5527,
+          "like_count": 7357,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2140
+        },
+        "username": "Muddledist",
+        "verified": false
+      }
+    ]
+  }
+}

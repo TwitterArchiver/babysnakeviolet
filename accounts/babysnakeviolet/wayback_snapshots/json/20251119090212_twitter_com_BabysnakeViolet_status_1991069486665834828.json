@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1991050790199578767",
+    "created_at": "2025-11-19T09:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991069486665834828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988126948552568837",
+          "start": 0,
+          "username": "wxueyuehua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991069486665834828",
+    "in_reply_to_user_id": "1988126948552568837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991067145682247730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxueyuehua 对，就是被拉入深渊即将要死的状态，恶心的爆炸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1991050790199578767",
+        "created_at": "2025-11-19T09:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991069486665834828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988126948552568837",
+              "start": 0,
+              "username": "wxueyuehua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991069486665834828",
+        "in_reply_to_user_id": "1988126948552568837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991067145682247730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxueyuehua 对，就是被拉入深渊即将要死的状态，恶心的爆炸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988126948552568837",
+        "conversation_id": "1991050790199578767",
+        "created_at": "2025-11-19T08:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991067145682247730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991067145682247730",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991050790199578767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 是的，就像灵魂被拉入深渊一样，一股莫名的恶心感觉，那种濒死感我也体验过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病入门默认不退，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 283,
+          "like_count": 1347,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1167
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T06:09:52.000Z",
+        "description": "男生，扭曲且孤独的人，被帮助过所以喜欢帮助可怜可爱的人，可惜从来没有成功过，也是一个在校大学生，聊天可以找我，喜欢碎碎念，很瑟。",
+        "id": "1988126948552568837",
+        "location": "无",
+        "name": "雪月花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988131595661045760/p6sdnp9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 118,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 138
+        },
+        "username": "wxueyuehua",
+        "verified": false
+      }
+    ]
+  }
+}

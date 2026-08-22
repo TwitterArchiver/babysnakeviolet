@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988120526418833781",
+    "created_at": "2025-11-12T02:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988437026031681808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981714150771572736",
+          "start": 0,
+          "username": "WoJiang38562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988437026031681808",
+    "in_reply_to_user_id": "1981714150771572736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988120526418833781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WoJiang38562 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988120526418833781",
+        "created_at": "2025-11-12T02:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988437026031681808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981714150771572736",
+              "start": 0,
+              "username": "WoJiang38562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988437026031681808",
+        "in_reply_to_user_id": "1981714150771572736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988120526418833781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WoJiang38562 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981714150771572736",
+        "conversation_id": "1988120526418833781",
+        "created_at": "2025-11-11T05:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988120526418833781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988120526418833781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17277,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么都喜欢小狗男？没有人喜欢小猫男吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988400320150720512/XPoIj8ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 251,
+          "like_count": 721,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 942
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:28:16.000Z",
+        "description": "成年已绝育公猫｜狮子座♌｜ 来推就是为了看黄  ｜反差｜需定期服用猫条｜猫娘一枚｜有好看的猫片记得艾特我｜我妈@Estherishere_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "Estherishere_"
+              }
+            ]
+          }
+        },
+        "id": "1981714150771572736",
+        "name": "我是一只小猫咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981939473068748800/yaE7w5dZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 126,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 430
+        },
+        "username": "WoJiang38562",
+        "verified": false
+      }
+    ]
+  }
+}

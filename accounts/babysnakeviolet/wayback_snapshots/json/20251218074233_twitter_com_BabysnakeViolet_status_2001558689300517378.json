@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001558686372896768"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001558689300517378",
+    "created_at": "2025-12-18T07:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T08:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001558689300517378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yb9TY1lGl8",
+          "end": 111,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2001558689300517378/photo/1",
+          "media_key": "3_2001558686372896768",
+          "start": 88,
+          "url": "https://t.co/yb9TY1lGl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001558689300517378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操，我看了这张图突发奇想从睡衣里捞出了左边奶子低头吃了一下，行为快过脑子后我宕机了，乳头上残留的口水和隐约留存的口腔包裹的感觉在提醒我刚才干了什么，一种莫大的羞耻感席卷了我。 https://t.co/yb9TY1lGl8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2001558686372896768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8b3BUJaoAADa2M.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001558686372896768"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001558689300517378",
+        "created_at": "2025-12-18T07:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001558689300517378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb9TY1lGl8",
+              "end": 111,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2001558689300517378/photo/1",
+              "media_key": "3_2001558686372896768",
+              "start": 88,
+              "url": "https://t.co/yb9TY1lGl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001558689300517378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操，我看了这张图突发奇想从睡衣里捞出了左边奶子低头吃了一下，行为快过脑子后我宕机了，乳头上残留的口水和隐约留存的口腔包裹的感觉在提醒我刚才干了什么，一种莫大的羞耻感席卷了我。 https://t.co/yb9TY1lGl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇，查成分回fo，只是一个非常颓废失败的女人。\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 377,
+          "like_count": 1750,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 1451
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

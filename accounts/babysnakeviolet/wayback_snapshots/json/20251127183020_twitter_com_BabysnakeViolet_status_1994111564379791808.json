@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1994111456397377575",
+    "created_at": "2025-11-27T18:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994111564379791808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994111564379791808",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994111465390002454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈，为什么要总是酗酒宿醉后被人搀扶回家呕吐一地，还是个小孩的我一边打扫呕吐物一边听你诅咒我去死下地狱，妈妈，为什么总是生气了就打我耳光？你以前总不愿意听我解释，妈妈，我好想好想杀了你，但我怕你疼，我又在哭了，妈妈，你是全世界唯一一个我想爱却不敢也不能爱的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1994111456397377575",
+        "created_at": "2025-11-27T18:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994111564379791808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994111564379791808",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994111465390002454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈，为什么要总是酗酒宿醉后被人搀扶回家呕吐一地，还是个小孩的我一边打扫呕吐物一边听你诅咒我去死下地狱，妈妈，为什么总是生气了就打我耳光？你以前总不愿意听我解释，妈妈，我好想好想杀了你，但我怕你疼，我又在哭了，妈妈，你是全世界唯一一个我想爱却不敢也不能爱的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1994111456397377575",
+        "created_at": "2025-11-27T18:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994111465390002454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994111465390002454",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994111461782864002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈，你看看我啊，你看看我吧，我，我真的是一个好孩子，我省吃俭用，长身体的年纪不能吃饱的时候我也没埋怨你，没有漂亮的衣服鞋子我也不怪你，二十几块的鞋子我也能穿的，可为什么，我应该要这样活着？妈妈你还要觉得是我和妹妹毁了你的人生？你好该死啊妈妈，我真想亲手了结你的生命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 284,
+          "like_count": 1419,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1264
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988688004911886579",
+    "created_at": "2025-11-12T21:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T22:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988726545461227953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910085836420558848",
+          "start": 0,
+          "username": "BaiandErika8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988726545461227953",
+    "in_reply_to_user_id": "1910085836420558848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988688004911886579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiandErika8964 到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988688004911886579",
+        "created_at": "2025-11-12T21:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T22:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988726545461227953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "BaiandErika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988726545461227953",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988688004911886579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiandErika8964 到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910085836420558848",
+        "conversation_id": "1988688004911886579",
+        "created_at": "2025-11-12T19:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988688004911886579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988688004911886579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来人 宇宙人 超能力者 全部听我的号令！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 257,
+          "like_count": 815,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 979
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "给你的只有看垃圾的眼神 我不是地雷女或你所认识的标签 也甚至并非女人 所以无需关注我",
+        "id": "1910085836420558848",
+        "location": "1989.6.4",
+        "name": "诅咒是纯白色",
+        "pinned_tweet_id": "1983456604881404052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988312936641974273/rxE0dTN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 454,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1509
+        },
+        "username": "BaiandErika8964",
+        "verified": false
+      }
+    ]
+  }
+}

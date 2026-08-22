@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1996204769652904023",
+    "created_at": "2025-12-03T20:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T21:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996321237765898685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996321237765898685",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996204769652904023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 笑的那里又疼又痒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_1996204762308751360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Pxp6xbMAAO1pK.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1996204769652904023",
+        "created_at": "2025-12-03T20:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996321237765898685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996321237765898685",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996204769652904023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 笑的那里又疼又痒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996204762308751360"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1996204769652904023",
+        "created_at": "2025-12-03T13:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996204769652904023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVvxFzjmn4",
+              "end": 36,
+              "expanded_url": "https://x.com/Edward_8964/status/1996204769652904023/photo/1",
+              "media_key": "3_1996204762308751360",
+              "start": 13,
+              "url": "https://t.co/sVvxFzjmn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996204769652904023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1856,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "报告同志们一个好消息（） https://t.co/sVvxFzjmn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 327,
+          "like_count": 1517,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1315
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1995870042047815930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 576,
+          "like_count": 5833,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

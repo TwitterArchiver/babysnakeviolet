@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1996695807446368642",
+    "created_at": "2025-12-04T21:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T22:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996695807446368642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996695807446368642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想去成都找朋友玩，锦江区的发小不怎么想搭理我就算了，温江的朋友在上大学，我愿意出所有钱带她出去玩因为她人很好但是，我好像和她没什么话题了，我们用完全决绝割裂的方式成长，我不知道她会不会想和这样的我一起玩，我很想她，想给她拍美美的照片请她吃漂亮饭可是我，可我，唉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1996695807446368642",
+        "created_at": "2025-12-04T21:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T22:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996695807446368642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996695807446368642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想去成都找朋友玩，锦江区的发小不怎么想搭理我就算了，温江的朋友在上大学，我愿意出所有钱带她出去玩因为她人很好但是，我好像和她没什么话题了，我们用完全决绝割裂的方式成长，我不知道她会不会想和这样的我一起玩，我很想她，想给她拍美美的照片请她吃漂亮饭可是我，可我，唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 336,
+          "like_count": 1542,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1326
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

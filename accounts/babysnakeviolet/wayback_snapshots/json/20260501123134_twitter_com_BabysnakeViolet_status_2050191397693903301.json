@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2045394488538153128",
+    "created_at": "2026-05-01T12:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050191397693903301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538535836148715520",
+          "start": 0,
+          "username": "jinghua77765851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050191397693903301",
+    "in_reply_to_user_id": "1538535836148715520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045394488538153128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinghua77765851 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045394485602127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKzcpvbkAAvXBG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2045394488538153128",
+        "created_at": "2026-05-01T12:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050191397693903301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538535836148715520",
+              "start": 0,
+              "username": "jinghua77765851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050191397693903301",
+        "in_reply_to_user_id": "1538535836148715520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045394488538153128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinghua77765851 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045394485602127872"
+          ]
+        },
+        "author_id": "1538535836148715520",
+        "conversation_id": "2045394488538153128",
+        "created_at": "2026-04-18T06:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045394488538153128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNfb7H3VDS",
+              "end": 27,
+              "expanded_url": "https://x.com/jinghua77765851/status/2045394488538153128/photo/1",
+              "media_key": "3_2045394485602127872",
+              "start": 4,
+              "url": "https://t.co/iNfb7H3VDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045394488538153128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已注射 https://t.co/iNfb7H3VDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 534,
+          "like_count": 2524,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1872
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:55:11.000Z",
+        "description": "19↑‖每天都想睡覺‖\n互粉查成分回 喜歡聰明人‖",
+        "id": "1538535836148715520",
+        "name": "鏡花生物爹",
+        "pinned_tweet_id": "1970351506923848033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042570703015415813/792SFKWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 188,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 218
+        },
+        "username": "jinghua77765851",
+        "verified": false
+      }
+    ]
+  }
+}

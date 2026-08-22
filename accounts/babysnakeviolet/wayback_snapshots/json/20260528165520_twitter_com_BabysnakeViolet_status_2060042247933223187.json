@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2059634312010678543",
+    "created_at": "2026-05-28T16:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060042247933223187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926642982817497088",
+          "start": 0,
+          "username": "Bunny_JY0426"
+        },
+        {
+          "end": 27,
+          "id": "2029585628074262528",
+          "start": 14,
+          "username": "Serinda_Aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060042247933223187",
+    "in_reply_to_user_id": "1926642982817497088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059794661884207321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunny_JY0426 @Serinda_Aqua 对，红书抖音快手都是可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2059634312010678543",
+        "created_at": "2026-05-28T16:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060042247933223187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926642982817497088",
+              "start": 0,
+              "username": "Bunny_JY0426"
+            },
+            {
+              "end": 27,
+              "id": "2029585628074262528",
+              "start": 14,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060042247933223187",
+        "in_reply_to_user_id": "1926642982817497088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059794661884207321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunny_JY0426 @Serinda_Aqua 对，红书抖音快手都是可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926642982817497088",
+        "conversation_id": "2059634312010678543",
+        "created_at": "2026-05-28T00:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059794661884207321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            },
+            {
+              "end": 30,
+              "id": "1289504272506392576",
+              "start": 14,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059794661884207321",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059789151508283464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua @BabysnakeViolet 我200开出来了 前天刚开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 583,
+          "like_count": 2687,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1933
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T14:14:26.000Z",
+        "description": "",
+        "id": "1926642982817497088",
+        "name": "绫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051415861186236416/Z72dYw2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 135,
+          "like_count": 3477,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 864
+        },
+        "username": "Bunny_JY0426",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "=小水\n如你所见只是一个有精神病的暴露癖",
+        "id": "2029585628074262528",
+        "location": "🚪88除了能加到我好友没什么好处",
+        "name": "水色歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039737520695742464/IIi0fjpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 142,
+          "like_count": 2442,
+          "listed_count": 11,
+          "media_count": 148,
+          "tweet_count": 1073
+        },
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

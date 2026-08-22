@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987451036169310366",
+    "created_at": "2025-11-09T19:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T20:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987610029244166450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767872704621772800",
+          "start": 0,
+          "username": "QiuDAOyu0730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987610029244166450",
+    "in_reply_to_user_id": "1767872704621772800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987451036169310366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuDAOyu0730 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1987451022953041921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TYLOeaUAEOFPe.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987451036169310366",
+        "created_at": "2025-11-09T19:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T20:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987610029244166450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767872704621772800",
+              "start": 0,
+              "username": "QiuDAOyu0730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987610029244166450",
+        "in_reply_to_user_id": "1767872704621772800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987451036169310366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuDAOyu0730 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987451022953041921"
+          ]
+        },
+        "author_id": "1767872704621772800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987451036169310366",
+        "created_at": "2025-11-09T09:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987451036169310366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlwTvmVbaK",
+              "end": 28,
+              "expanded_url": "https://x.com/QiuDAOyu0730/status/1987451036169310366/photo/1",
+              "media_key": "3_1987451022953041921",
+              "start": 5,
+              "url": "https://t.co/KlwTvmVbaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987451036169310366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15874,
+          "like_count": 109,
+          "quote_count": 2,
+          "reply_count": 92,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来财来财 https://t.co/KlwTvmVbaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 236,
+          "like_count": 553,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 850
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:18:02.000Z",
+        "description": "另一个我@Qzero0730",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Qzero0730"
+              }
+            ]
+          }
+        },
+        "id": "1767872704621772800",
+        "location": "🐟",
+        "name": "魚",
+        "pinned_tweet_id": "1987133517814538654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986886419806343168/txW53cIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5144,
+          "following_count": 297,
+          "like_count": 15138,
+          "listed_count": 6,
+          "media_count": 189,
+          "tweet_count": 7576
+        },
+        "username": "QiuDAOyu0730",
+        "verified": false
+      }
+    ]
+  }
+}

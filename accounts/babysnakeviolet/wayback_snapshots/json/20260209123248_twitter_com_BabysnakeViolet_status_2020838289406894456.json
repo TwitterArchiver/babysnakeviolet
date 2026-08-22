@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2020720689322348918",
+    "created_at": "2026-02-09T12:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T13:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020838289406894456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020838289406894456",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020720689322348918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 宝宝请问我有轻微精分焦虑有点严重可以试一下什么娱乐的东西...我吃普瑞巴林吃腻了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020720676236406784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsKv7FbsAADlFn.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020720676122861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsKv6qXIAANJXV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2020720689322348918",
+        "created_at": "2026-02-09T12:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020838289406894456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020838289406894456",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020720689322348918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 宝宝请问我有轻微精分焦虑有点严重可以试一下什么娱乐的东西...我吃普瑞巴林吃腻了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020720676236406784",
+            "3_2020720676122861568"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "conversation_id": "2020720689322348918",
+        "created_at": "2026-02-09T04:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020720689322348918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1xc5DQPeN",
+              "end": 109,
+              "expanded_url": "https://x.com/Freundis21/status/2020720689322348918/photo/1",
+              "media_key": "3_2020720676236406784",
+              "start": 86,
+              "url": "https://t.co/s1xc5DQPeN"
+            },
+            {
+              "display_url": "pic.x.com/s1xc5DQPeN",
+              "end": 109,
+              "expanded_url": "https://x.com/Freundis21/status/2020720689322348918/photo/1",
+              "media_key": "3_2020720676122861568",
+              "start": 86,
+              "url": "https://t.co/s1xc5DQPeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020720689322348918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 662,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 安非他酮我建议还是別鼻吸，不过真要鼻吸的话odwiki应该会有教程，我语言组织能力很差，所以建议自己去看看，应该会很详细，不好意思ovo\np2 常见的基本都尝过（） https://t.co/s1xc5DQPeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020694682305765376/b0oE3fm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 439,
+          "like_count": 2068,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1673
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物｜女性｜INFJ｜LGBTQ友好｜此账号包括：selfharm、drug/overdose&日常废话。直关无言抱歉，会互fo（如果有没fo到的请私信我ovo）。匿名提问（如果有的话）https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 117,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 94,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 537,
+          "like_count": 6591,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 969
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

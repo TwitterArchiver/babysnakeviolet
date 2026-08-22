@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1969082056157151602",
+    "created_at": "2025-09-19T16:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T17:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969082056157151602"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969082056157151602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完了我有绿帽癖，女绿我收回以前说你很难吃的话。但也其实不是特别好吃我还是更爱1v1或者1vn，我以前看ntr都是代入女主的（邪魅一笑），当然我不看长得丑的黄毛。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1969082056157151602",
+        "created_at": "2025-09-19T16:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T17:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969082056157151602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969082056157151602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了我有绿帽癖，女绿我收回以前说你很难吃的话。但也其实不是特别好吃我还是更爱1v1或者1vn，我以前看ntr都是代入女主的（邪魅一笑），当然我不看长得丑的黄毛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我回到了最初，最向往的地方",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 167,
+          "like_count": 335,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 618
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

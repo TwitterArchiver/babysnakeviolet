@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985046042979774464"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985046045517291544",
+    "created_at": "2025-11-02T18:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T19:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985046045517291544"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SCbQzGsT1T",
+          "end": 32,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1985046045517291544/photo/1",
+          "media_key": "3_1985046042979774464",
+          "start": 9,
+          "url": "https://t.co/SCbQzGsT1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985046045517291544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我需要钱。#门槛 https://t.co/SCbQzGsT1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1985046042979774464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xM296asAA-gUo.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985046042979774464"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985046045517291544",
+        "created_at": "2025-11-02T18:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985046045517291544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCbQzGsT1T",
+              "end": 32,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1985046045517291544/photo/1",
+              "media_key": "3_1985046042979774464",
+              "start": 9,
+              "url": "https://t.co/SCbQzGsT1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985046045517291544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要钱。#门槛 https://t.co/SCbQzGsT1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "走向健全人生",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 228,
+          "like_count": 497,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 772
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2076583427412033589",
+    "created_at": "2026-07-14T03:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076873648263340469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "Serinda_Aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076873648263340469",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076583427412033589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serinda_Aqua 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2076583427412033589",
+        "created_at": "2026-07-14T03:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076873648263340469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076873648263340469",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076583427412033589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2076583427412033589",
+        "created_at": "2026-07-13T08:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076583427412033589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076583427412033589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天刷牙洗脸都动不了，头更是没办法去洗，启动困难把我封印住了，但我的心里又很急，隐隐焦虑着一些小事，郁期你加油，不用管我躯体化多难受，精神病你真的赢了 ，我早就认输了，生活真的没有什么乐趣，只好一直睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 618,
+          "like_count": 2840,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "非典型黄推（？发裸照只是爱好\n碎碎念呕吐之地 | 欢迎互fo🩵双取随意\n如你所见这是一个有点暴露癖的精神病女人\n⁺✞ ʚ精品神药重度依赖⁺ɞ✟ 💊🔪🩸",
+        "id": "2029585628074262528",
+        "location": "🚪 88好友位",
+        "name": "水色歌",
+        "pinned_tweet_id": "2046054018888470756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073355526004785152/wb4mFXEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 181,
+          "like_count": 3545,
+          "listed_count": 15,
+          "media_count": 157,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

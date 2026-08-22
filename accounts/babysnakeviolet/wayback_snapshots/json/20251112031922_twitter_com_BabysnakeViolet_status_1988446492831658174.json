@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988185698898530727",
+    "created_at": "2025-11-12T03:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988446492831658174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1691119266324783104",
+          "start": 0,
+          "username": "liittle_dog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988446492831658174",
+    "in_reply_to_user_id": "1691119266324783104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988185698898530727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liittle_dog 我操好爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988185696432185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d0W2daYAA64tM.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988185698898530727",
+        "created_at": "2025-11-12T03:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988446492831658174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1691119266324783104",
+              "start": 0,
+              "username": "liittle_dog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988446492831658174",
+        "in_reply_to_user_id": "1691119266324783104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988185698898530727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liittle_dog 我操好爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988185696432185344"
+          ]
+        },
+        "author_id": "1691119266324783104",
+        "conversation_id": "1988185698898530727",
+        "created_at": "2025-11-11T10:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988185698898530727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yDc0lkE3X",
+              "end": 43,
+              "expanded_url": "https://x.com/liittle_dog/status/1988185698898530727/photo/1",
+              "media_key": "3_1988185696432185344",
+              "start": 20,
+              "url": "https://t.co/6yDc0lkE3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988185698898530727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 52984,
+          "like_count": 791,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "老婆们，自来水推荐dy下雨天太爽了我燥 https://t.co/6yDc0lkE3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988400320150720512/XPoIj8ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 251,
+          "like_count": 724,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 944
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T16:08:05.000Z",
+        "description": "欢迎叫我包包，不用礼貌回关的宝宝。不定时发些18+的东西，介意屏蔽忽略\n互关可加v",
+        "id": "1691119266324783104",
+        "name": "每天剥毛豆",
+        "pinned_tweet_id": "1976954406072717741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963502009535139840/G4wLl_JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12408,
+          "following_count": 370,
+          "like_count": 37050,
+          "listed_count": 23,
+          "media_count": 214,
+          "tweet_count": 4497
+        },
+        "username": "liittle_dog",
+        "verified": false
+      }
+    ]
+  }
+}

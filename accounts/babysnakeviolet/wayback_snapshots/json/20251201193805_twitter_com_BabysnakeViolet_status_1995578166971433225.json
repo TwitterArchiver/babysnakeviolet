@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1689283067251204097",
+    "created_at": "2025-12-01T19:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T20:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995578166971433225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1498548176017633280",
+          "start": 0,
+          "username": "shengchun10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995578166971433225",
+    "in_reply_to_user_id": "1498548176017633280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1689283067251204097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengchun10 我需要学习乘除法。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 210,
+        "media_key": "16_1689283053787447296",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/F3GJ_LoWgAAQhG8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/F3GJ_LoWgAAQhG8.mp4"
+          }
+        ],
+        "width": 210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1689283067251204097",
+        "created_at": "2025-12-01T19:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995578166971433225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1498548176017633280",
+              "start": 0,
+              "username": "shengchun10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995578166971433225",
+        "in_reply_to_user_id": "1498548176017633280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1689283067251204097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengchun10 我需要学习乘除法。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1689283053787447296"
+          ]
+        },
+        "author_id": "1498548176017633280",
+        "conversation_id": "1689283067251204097",
+        "created_at": "2023-08-09T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-09T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1689283067251204097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6WdNmUAk1",
+              "end": 163,
+              "expanded_url": "https://x.com/shengchun10/status/1689283067251204097/photo/1",
+              "media_key": "16_1689283053787447296",
+              "start": 140,
+              "url": "https://t.co/D6WdNmUAk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1689283067251204097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37378,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是置顶\n河北某重高 高三纯理在读\n可能会把推当错题本顺便记录日常\n发质量较高的难题\n同样是高三的同学可以看看我每天发的题 如果都会做高考数学135+没问题的！\n也欢迎私信问我初中高中的数学问题 \n（初中快忘光了 sorry）\n讲到你会为止 我很好交往 不会生气的\n一起进步！ https://t.co/D6WdNmUAk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 315,
+          "like_count": 1504,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1302
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T06:38:30.000Z",
+        "description": "entp 微s 喜欢摄影 钢琴 羽毛球 数学 雷诺曼学习ing/ 211在读 兼职作业帮高中/大学数学题视频讲解老师 接一点线上数学家教 分越低提分越快",
+        "id": "1498548176017633280",
+        "name": "小楠",
+        "pinned_tweet_id": "1689283067251204097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608643981466013696/zdzo4RX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 2084,
+          "like_count": 1826,
+          "listed_count": 4,
+          "media_count": 290,
+          "tweet_count": 1385
+        },
+        "username": "shengchun10",
+        "verified": false
+      }
+    ]
+  }
+}

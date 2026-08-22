@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988729259792486773",
+    "created_at": "2025-11-12T22:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T23:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988732122421686295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988732122421686295",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988729259792486773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 遭了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988729259792486773",
+        "created_at": "2025-11-12T22:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988732122421686295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988732122421686295",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988729259792486773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 遭了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531874456997863424",
+        "conversation_id": "1988729259792486773",
+        "created_at": "2025-11-12T22:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988729259792486773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988729259792486773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胃疼……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 260,
+          "like_count": 905,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 987
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "TMAD…/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "TMA",
+        "pinned_tweet_id": "1987573328622899317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 40,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 134
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

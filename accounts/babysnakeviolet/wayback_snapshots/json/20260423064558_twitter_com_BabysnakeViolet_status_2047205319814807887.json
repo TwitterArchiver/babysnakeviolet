@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2046793372267127226",
+    "created_at": "2026-04-23T06:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047205319814807887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047205319814807887",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047125089813246232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 噢噢噢哦哦谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2046793372267127226",
+        "created_at": "2026-04-23T06:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047205319814807887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047205319814807887",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047125089813246232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 噢噢噢哦哦谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "2046793372267127226",
+        "created_at": "2026-04-23T01:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047125089813246232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ],
+          "urls": [
+            {
+              "description": "苯二氮卓類藥物（Benzodiazepines，簡稱BZD或苯二氮平類）都具有一定的成癮性和濫用潛力，因為它們能產生鎮靜、放鬆和欣快感（euphoria），長期使用易導致耐受性、身體/心理依賴及戒斷症狀（如反彈性焦慮、失眠、顫抖，甚至癲癇）。沒有哪一種是「完全無害」的，但根據藥理特性、臨床研究、流行病學數據和街頭濫用情況，濫用價值（abuse liability 或 street value）最高的通常是以下幾種，依據起效速度、效力（potency）、半衰期（half-life）和強化效果（reinforcing effects）排序： 濫用價值最高的常見藥物 阿普唑侖（Alprazolam，商品名 Xanax） 常被視為濫用潛力最高之一。起效快（短效）、效力高，產生快速的「high」和放鬆感，但半衰期短（約6-12小時），易導致反彈焦慮和頻繁重複使用，加速依賴形成。 在美國和許多地區，它是最常被濫用/急診就醫相關的BZD，街頭價格也較高（視劑量可達每片數美元至20美元）。許多研究顯示，它在藥物濫用者中的主觀「喜歡」評分很高，常與酒精或阿片類合用。 在台灣/華語地區，也常見於濫用報告中（如與其他鎮靜劑併用）。 地西泮（Diazepam，商品名 Valium 或安定） 多項實驗和流行病學研究指出，它有最高的濫用潛力之一。脂溶性高，能快速穿過血腦屏障，產生強烈強化效果。街頭濫用者常認為它「價值」高於等效劑量的其他BZD。 半衰期長（可達20-100小時，含活性代謝物），但起效仍快，易被用作娛樂或輔助其他毒品。研究顯示，在已知藥物濫用者中，它的「high」評分常高於其他藥物。 氯硝西泮（Clonazepam，商品名 Klonopin 或克癇平） 高效力、長效（半衰期18-50小時），但仍有顯著濫用報告，尤其在急診訪視中排名靠前。許多人用它來「平穩」其他藥物的效果，或追求持久放鬆。雖然起效不如短效藥快，但欣快感和依賴風險仍高。 其他較高濫用潛力的藥物 勞拉西泮（Lorazepam，Ativan）：短-中效，高效力，常與阿普唑侖、地西泮並列主觀「high」評分高的藥物。 氟硝西泮（Flunitrazepam，FM2 或 Rohypnol）：在某些地區（如台灣曾被稱為「約會強姦丸」）濫用嚴重，效力強、記憶抑制作用明顯，街頭價值高，但許多國家已嚴格管制或禁用。 三唑侖（Triaz",
+              "display_url": "x.com/i/grok/share/c…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/grok/share/c17f355b2b474e9d9dd5a5da226c958e",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2047125140048318464/b6o1qg3l?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047125140048318464/b6o1qg3l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "苯二氮卓類藥物濫用價值最高的",
+              "unwound_url": "https://x.com/i/grok/share/c17f355b2b474e9d9dd5a5da226c958e",
+              "url": "https://t.co/e4nRfmTSob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047125089813246232",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047080248731480133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet https://t.co/e4nRfmTSob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 459,
+          "like_count": 2116,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1805
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029702608819212290/Qhwu5L_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 744,
+          "like_count": 44806,
+          "listed_count": 9,
+          "media_count": 563,
+          "tweet_count": 6275
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

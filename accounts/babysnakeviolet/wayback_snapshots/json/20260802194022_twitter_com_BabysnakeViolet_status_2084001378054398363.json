@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2083978387593531559",
+    "created_at": "2026-08-02T19:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084001378054398363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "star27810544557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084001378054398363",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083978387593531559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@star27810544557 我来认领了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_2083978376927412225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvHStxagAEKc3r.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2083978387593531559",
+        "created_at": "2026-08-02T19:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084001378054398363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "star27810544557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084001378054398363",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083978387593531559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@star27810544557 我来认领了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083978376927412225"
+          ]
+        },
+        "author_id": "1947765957658873860",
+        "conversation_id": "2083978387593531559",
+        "created_at": "2026-08-02T18:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083978387593531559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrxD2JqaO4",
+              "end": 28,
+              "expanded_url": "https://x.com/star27810544557/status/2083978387593531559/photo/1",
+              "media_key": "3_2083978376927412225",
+              "start": 5,
+              "url": "https://t.co/nrxD2JqaO4"
+            },
+            {
+              "display_url": "x.com/isac8964/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/isac8964/status/2083977785924559208",
+              "start": 29,
+              "url": "https://t.co/ukUphnQdr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083978387593531559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083977785924559208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被毁了 https://t.co/nrxD2JqaO4 https://t.co/ukUphnQdr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2083272843933213099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 646,
+          "like_count": 3317,
+          "listed_count": 5,
+          "media_count": 81,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 顺直勿扰 友LGBTQ 如果立场不同请不要关注我 随时销号",
+        "id": "1947765957658873860",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2083571963524690387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 64,
+          "like_count": 1366,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 840
+        },
+        "url": "",
+        "username": "star27810544557",
+        "verified": false
+      }
+    ]
+  }
+}

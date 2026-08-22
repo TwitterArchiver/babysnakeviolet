@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995916287722262886",
+    "created_at": "2025-12-02T18:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T19:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995916287722262886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "妈妈活"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995916287722262886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想被28-55以内的成熟女性包养，我当小三也可以的，我会很爱你的，你有女儿我也可以和她成为很好的朋友如果你愿意的话，我需要妈妈，我真的恋母，妈妈，姐姐，让我依靠你活下去好不好？为什么我找不到女性群体的卖淫目标，我想要妈妈活。＃妈妈活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995916287722262886",
+        "created_at": "2025-12-02T18:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T19:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995916287722262886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "妈妈活"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995916287722262886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想被28-55以内的成熟女性包养，我当小三也可以的，我会很爱你的，你有女儿我也可以和她成为很好的朋友如果你愿意的话，我需要妈妈，我真的恋母，妈妈，姐姐，让我依靠你活下去好不好？为什么我找不到女性群体的卖淫目标，我想要妈妈活。＃妈妈活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 320,
+          "like_count": 1514,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1306
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

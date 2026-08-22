@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1987615189609693184"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987615218869194909",
+    "created_at": "2025-11-09T20:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T21:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987615218869194909"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "门槛"
+        },
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "微胖"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zMrLJkLOVS",
+          "end": 46,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1987615218869194909/video/1",
+          "media_key": "7_1987615189609693184",
+          "start": 23,
+          "url": "https://t.co/zMrLJkLOVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987615218869194909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也许会有人溺爱我呢 #门槛 #门槛妹 #微胖 https://t.co/zMrLJkLOVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6153,
+        "height": 720,
+        "media_key": "7_1987615189609693184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1987615189609693184/pu/img/PdX9ZB3rd6uOhM5Y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987615189609693184/pu/vid/avc1/480x270/bqIt8c6YvMvFJO0O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987615189609693184/pu/vid/avc1/640x360/9VRHt9Te8S-16qJM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987615189609693184/pu/vid/avc1/1280x720/En3dg11RkHKmJPab.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1987615189609693184/pu/pl/APAOmLReldioLuEX.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1987615189609693184"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987615218869194909",
+        "created_at": "2025-11-09T20:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T21:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987615218869194909"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "门槛"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "微胖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMrLJkLOVS",
+              "end": 46,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1987615218869194909/video/1",
+              "media_key": "7_1987615189609693184",
+              "start": 23,
+              "url": "https://t.co/zMrLJkLOVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987615218869194909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也许会有人溺爱我呢 #门槛 #门槛妹 #微胖 https://t.co/zMrLJkLOVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 236,
+          "like_count": 555,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 852
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

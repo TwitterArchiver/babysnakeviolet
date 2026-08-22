@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995116082701509088",
+    "created_at": "2025-12-01T13:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T14:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995489102846886001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1364099330026721287",
+          "start": 0,
+          "username": "w030912"
+        },
+        {
+          "end": 19,
+          "id": "1580505223071641600",
+          "start": 9,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995489102846886001",
+    "in_reply_to_user_id": "1364099330026721287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995148998999703716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w030912 @qwq_shark 如果说变成健全人是要成为你这种脑残的话我宁可痛苦一辈子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995116082701509088",
+        "created_at": "2025-12-01T13:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995489102846886001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1364099330026721287",
+              "start": 0,
+              "username": "w030912"
+            },
+            {
+              "end": 19,
+              "id": "1580505223071641600",
+              "start": 9,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995489102846886001",
+        "in_reply_to_user_id": "1364099330026721287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995148998999703716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w030912 @qwq_shark 如果说变成健全人是要成为你这种脑残的话我宁可痛苦一辈子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1364099330026721287",
+        "conversation_id": "1995116082701509088",
+        "created_at": "2025-11-30T15:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995148998999703716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995148998999703716",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1665,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995116082701509088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 啥时候能看到脖子上有伤疤自残的😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 293,
+          "like_count": 1454,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1287
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T06:27:08.000Z",
+        "description": "我喜欢玩",
+        "id": "1364099330026721287",
+        "name": "风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651207388802736130/3mjbK9Db_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 103,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 2444
+        },
+        "username": "w030912",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993995065333829635/vxItnGmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5682,
+          "following_count": 351,
+          "like_count": 3761,
+          "listed_count": 7,
+          "media_count": 563,
+          "tweet_count": 12110
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

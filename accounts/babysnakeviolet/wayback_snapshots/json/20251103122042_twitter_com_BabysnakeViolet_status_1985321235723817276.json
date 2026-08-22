@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826278076931850241",
+        "3_1826278078051717120"
+      ],
+      "media_source_tweet_id": [
+        "1826278081021227129",
+        "1826278081021227129"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985321235723817276",
+    "created_at": "2025-11-03T12:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T13:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985321235723817276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813133690672934914",
+          "start": 3,
+          "username": "sjmmm____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yGUJUCKwYS",
+          "end": 78,
+          "expanded_url": "https://x.com/sjmmm____/status/1826278081021227129/photo/1",
+          "media_key": "3_1826278076931850241",
+          "start": 55,
+          "url": "https://t.co/yGUJUCKwYS"
+        },
+        {
+          "display_url": "pic.x.com/yGUJUCKwYS",
+          "end": 78,
+          "expanded_url": "https://x.com/sjmmm____/status/1826278081021227129/photo/1",
+          "media_key": "3_1826278078051717120",
+          "start": 55,
+          "url": "https://t.co/yGUJUCKwYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985321235723817276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826278081021227129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjmmm____: 网络乞丐在线乞讨，助力主播早日下地狱！\n没人给也要置顶，这就是潇洒酷帅装逼怪！ https://t.co/yGUJUCKwYS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_1826278076931850241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVg-PCSbQAEd5XV.jpg",
+        "width": 691
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1826278078051717120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVg-PGdbEAA4aUh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826278076931850241",
+            "3_1826278078051717120"
+          ],
+          "media_source_tweet_id": [
+            "1826278081021227129",
+            "1826278081021227129"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985321235723817276",
+        "created_at": "2025-11-03T12:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985321235723817276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813133690672934914",
+              "start": 3,
+              "username": "sjmmm____"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGUJUCKwYS",
+              "end": 78,
+              "expanded_url": "https://x.com/sjmmm____/status/1826278081021227129/photo/1",
+              "media_key": "3_1826278076931850241",
+              "start": 55,
+              "url": "https://t.co/yGUJUCKwYS"
+            },
+            {
+              "display_url": "pic.x.com/yGUJUCKwYS",
+              "end": 78,
+              "expanded_url": "https://x.com/sjmmm____/status/1826278081021227129/photo/1",
+              "media_key": "3_1826278078051717120",
+              "start": 55,
+              "url": "https://t.co/yGUJUCKwYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985321235723817276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826278081021227129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjmmm____: 网络乞丐在线乞讨，助力主播早日下地狱！\n没人给也要置顶，这就是潇洒酷帅装逼怪！ https://t.co/yGUJUCKwYS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826278076931850241",
+            "3_1826278078051717120"
+          ]
+        },
+        "author_id": "1813133690672934914",
+        "conversation_id": "1826278081021227129",
+        "created_at": "2024-08-21T15:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T16:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826278081021227129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yGUJUCKwYS",
+              "end": 63,
+              "expanded_url": "https://x.com/sjmmm____/status/1826278081021227129/photo/1",
+              "media_key": "3_1826278076931850241",
+              "start": 40,
+              "url": "https://t.co/yGUJUCKwYS"
+            },
+            {
+              "display_url": "pic.x.com/yGUJUCKwYS",
+              "end": 63,
+              "expanded_url": "https://x.com/sjmmm____/status/1826278081021227129/photo/1",
+              "media_key": "3_1826278078051717120",
+              "start": 40,
+              "url": "https://t.co/yGUJUCKwYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826278081021227129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13450,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网络乞丐在线乞讨，助力主播早日下地狱！\n没人给也要置顶，这就是潇洒酷帅装逼怪！ https://t.co/yGUJUCKwYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "走向健全人生",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 232,
+          "like_count": 505,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 782
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T08:49:00.000Z",
+        "description": "傻逼家里蹲，梦想吃爹妈保险活到死\n🚪100\n长期接线下和包养",
+        "id": "1813133690672934914",
+        "name": "头晕目眩",
+        "pinned_tweet_id": "1826278081021227129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822374459963277312/6k8fiILn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 125,
+          "like_count": 1977,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 451
+        },
+        "username": "sjmmm____",
+        "verified": false
+      }
+    ]
+  }
+}

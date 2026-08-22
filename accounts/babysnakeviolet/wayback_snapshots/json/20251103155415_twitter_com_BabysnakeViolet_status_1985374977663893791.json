@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985344492074094879",
+    "created_at": "2025-11-03T15:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985374977663893791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        },
+        {
+          "end": 24,
+          "id": "1980539279622492160",
+          "start": 11,
+          "username": "Pardon_Love_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985374977663893791",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985374414553145654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies @Pardon_Love_ 啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985344492074094879",
+        "created_at": "2025-11-03T15:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985374977663893791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            },
+            {
+              "end": 24,
+              "id": "1980539279622492160",
+              "start": 11,
+              "username": "Pardon_Love_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985374977663893791",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985374414553145654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies @Pardon_Love_ 啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836276354041495553",
+        "conversation_id": "1985344492074094879",
+        "created_at": "2025-11-03T15:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985374414553145654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980539279622492160",
+              "start": 0,
+              "username": "Pardon_Love_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985374414553145654",
+        "in_reply_to_user_id": "1980539279622492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985344492074094879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pardon_Love_ 总书记，还能兜住尿吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 236,
+          "like_count": 522,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 793
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGT4fs"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520525583282176/9mW8aMP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 152,
+          "like_count": 22692,
+          "listed_count": 3,
+          "media_count": 824,
+          "tweet_count": 12038
+        },
+        "url": "https://t.co/sFJNxGT4fs",
+        "username": "CABR_Lies",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T07:39:09.000Z",
+        "description": "※疯狂习近平乐队官方账号 420 从来不吸毒不嗑药不精神分析希特勒自慰洁身自好向警察举报也没用血药浓度为零麻神逼头发每节不含笑气大麻冰毒可卡因海洛因吗啡lsd黑神话悟空三甲医院无精神分裂症乖乖15年出生的雌小鬼原神雷电将军跨性别咱喵纳粹大逼夹乌梅外星人小宝贝主人啊爸爸：@巴塔耶 @萨德 @CABR_Lies",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 144,
+                "username": "CABR_Lies"
+              }
+            ]
+          }
+        },
+        "id": "1980539279622492160",
+        "name": "卐疯狂习近平卍",
+        "pinned_tweet_id": "1980555891922686017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984866408053035008/_fNuQRu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 8,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 202
+        },
+        "username": "Pardon_Love_",
+        "verified": false
+      }
+    ]
+  }
+}

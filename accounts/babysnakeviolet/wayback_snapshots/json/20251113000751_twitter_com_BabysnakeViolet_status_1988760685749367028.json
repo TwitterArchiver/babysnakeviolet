@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988476514510487924",
+    "created_at": "2025-11-13T00:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T01:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988760685749367028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918286867138789377",
+          "start": 0,
+          "username": "KK3787981974204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988760685749367028",
+    "in_reply_to_user_id": "1918286867138789377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988476514510487924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK3787981974204 咋不说给你钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988476503215255552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5h82CJbMAAUtLn.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988476514510487924",
+        "created_at": "2025-11-13T00:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988760685749367028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918286867138789377",
+              "start": 0,
+              "username": "KK3787981974204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988760685749367028",
+        "in_reply_to_user_id": "1918286867138789377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988476514510487924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK3787981974204 咋不说给你钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988476503215255552"
+          ]
+        },
+        "author_id": "1918286867138789377",
+        "conversation_id": "1988476514510487924",
+        "created_at": "2025-11-12T05:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988476514510487924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilVgmXLEQv",
+              "end": 27,
+              "expanded_url": "https://x.com/KK3787981974204/status/1988476514510487924/photo/1",
+              "media_key": "3_1988476503215255552",
+              "start": 4,
+              "url": "https://t.co/ilVgmXLEQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988476514510487924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/ilVgmXLEQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 261,
+          "like_count": 990,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1002
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:50:13.000Z",
+        "description": "infp｜繁中｜od｜自傷｜負面｜選fo｜🚪25純綠",
+        "id": "1918286867138789377",
+        "location": "日本 東京",
+        "name": "Linkwaii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985821247058690049/Wsrws2pC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 31,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 156
+        },
+        "username": "KK3787981974204",
+        "verified": false
+      }
+    ]
+  }
+}

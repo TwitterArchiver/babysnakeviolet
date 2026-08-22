@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988035813549240792",
+    "created_at": "2025-11-11T23:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T00:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988392534280941711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697398130940203008",
+          "start": 0,
+          "username": "gcswsigsd44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988392534280941711",
+    "in_reply_to_user_id": "1697398130940203008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988162070463095065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gcswsigsd44 不用焦虑呀小宝宝(˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988035813549240792",
+        "created_at": "2025-11-11T23:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T00:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988392534280941711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697398130940203008",
+              "start": 0,
+              "username": "gcswsigsd44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988392534280941711",
+        "in_reply_to_user_id": "1697398130940203008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988162070463095065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gcswsigsd44 不用焦虑呀小宝宝(˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697398130940203008",
+        "conversation_id": "1988035813549240792",
+        "created_at": "2025-11-11T08:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988162070463095065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988162070463095065",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988035813549240792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 🙃這兩坨東西又給我看焦慮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，原推名一刀脂肪层，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 250,
+          "like_count": 630,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 930
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T23:57:21.000Z",
+        "description": "☦️私民義絕帳,進步台派",
+        "id": "1697398130940203008",
+        "location": "401台灣台中市東區十甲東路621號",
+        "name": "小貓薪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986756431346008064/lHUxH5CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 430,
+          "like_count": 2098,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3840
+        },
+        "username": "gcswsigsd44",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985050449557454924",
+    "created_at": "2025-11-03T05:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T06:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985222986870526065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938990267560009729",
+          "start": 0,
+          "username": "huntedxschafer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985222986870526065",
+    "in_reply_to_user_id": "1938990267560009729",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985058057811005703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huntedxschafer 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985050449557454924",
+        "created_at": "2025-11-03T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985222986870526065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938990267560009729",
+              "start": 0,
+              "username": "huntedxschafer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985222986870526065",
+        "in_reply_to_user_id": "1938990267560009729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985058057811005703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huntedxschafer 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938990267560009729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1346150703182401537",
+              "name": "Bubble tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1346150703182401537",
+              "name": "Bubble tea"
+            }
+          }
+        ],
+        "conversation_id": "1985050449557454924",
+        "created_at": "2025-11-02T18:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985058057811005703"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "milk",
+              "probability": 0.5496,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "boba",
+              "probability": 0.7055,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985058057811005703",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985050980447375483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet i love taro milk tea with boba so much 🙇🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "走向健全人生",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 230,
+          "like_count": 499,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 775
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T15:58:09.000Z",
+        "description": "partys over 🔻",
+        "id": "1938990267560009729",
+        "location": "monsterland",
+        "name": "إيفي (evie)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979359810958000128/kvdKvs6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 840,
+          "like_count": 24364,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 6506
+        },
+        "username": "huntedxschafer",
+        "verified": false
+      }
+    ]
+  }
+}

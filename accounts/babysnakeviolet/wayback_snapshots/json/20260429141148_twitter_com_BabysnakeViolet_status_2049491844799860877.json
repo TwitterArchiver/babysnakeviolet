@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2049491844799860877",
+    "created_at": "2026-04-29T14:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049491844799860877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049491844799860877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049389844485275794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: GHB致死事件引起轩然大波，药圈遭遇飞来横祸😨\n\n以前的社群共识认为，扩散OD的主体往往是ODer、wiki主和禁毒媒体。而这次事件，则是公众人物也能堂而皇之地扩散OD，并引发恶劣社会影响的铁证。\n\n现在，谁都知道在淘宝上能轻易买到“迷奸水”了。药…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2049388857762689024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDkTtmWsAAnGUE.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2049491844799860877",
+        "created_at": "2026-04-29T14:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049491844799860877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049491844799860877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049389844485275794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: GHB致死事件引起轩然大波，药圈遭遇飞来横祸😨\n\n以前的社群共识认为，扩散OD的主体往往是ODer、wiki主和禁毒媒体。而这次事件，则是公众人物也能堂而皇之地扩散OD，并引发恶劣社会影响的铁证。\n\n现在，谁都知道在淘宝上能轻易买到“迷奸水”了。药…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049388857762689024"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2049389844485275794",
+        "created_at": "2026-04-29T07:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049389844485275794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iszAyjl9l4",
+              "end": 176,
+              "expanded_url": "https://x.com/SalviaSWC/status/2049389844485275794/photo/1",
+              "media_key": "3_2049388857762689024",
+              "start": 153,
+              "url": "https://t.co/iszAyjl9l4"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2048989273941315782",
+              "start": 177,
+              "url": "https://t.co/XQyfBa0HW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049389844485275794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4387,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048989273941315782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GHB致死事件引起轩然大波，药圈遭遇飞来横祸😨\n\n以前的社群共识认为，扩散OD的主体往往是ODer、wiki主和禁毒媒体。而这次事件，则是公众人物也能堂而皇之地扩散OD，并引发恶劣社会影响的铁证。\n\n现在，谁都知道在淘宝上能轻易买到“迷奸水”了。药圈将会如何回应此次冲击?🤓\n\n冷知识：罗淼曾发文力挺姜萍 https://t.co/iszAyjl9l4 https://t.co/XQyfBa0HW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 508,
+          "like_count": 2177,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1827
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4119,
+          "following_count": 995,
+          "like_count": 22795,
+          "listed_count": 11,
+          "media_count": 474,
+          "tweet_count": 7316
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

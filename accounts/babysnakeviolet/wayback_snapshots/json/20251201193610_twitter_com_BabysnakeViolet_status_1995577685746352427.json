@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995356289329983726",
+    "created_at": "2025-12-01T19:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T20:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995577685746352427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587132762364022787",
+          "start": 0,
+          "username": "weihangshi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995577685746352427",
+    "in_reply_to_user_id": "1587132762364022787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995356289329983726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weihangshi1 那你讨厌我不？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995356289329983726",
+        "created_at": "2025-12-01T19:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995577685746352427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587132762364022787",
+              "start": 0,
+              "username": "weihangshi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995577685746352427",
+        "in_reply_to_user_id": "1587132762364022787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995356289329983726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weihangshi1 那你讨厌我不？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587132762364022787",
+        "conversation_id": "1995356289329983726",
+        "created_at": "2025-12-01T04:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995356289329983726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995356289329983726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说老实话我不讨厌lgbt，我理解你们中很多人受过心理创伤。但我劝你们不要对身体造成不可逆的改变，这是留后路和后悔的权利。也许过几年你会改变你的看法。\n你没有办法变成另一个性别，那些药物会让你的后半生短促而痛苦。现在的技术根本保证不了跨性别者有质量地维持后半生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 312,
+          "like_count": 1501,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1301
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T17:23:53.000Z",
+        "description": "黄右，make China great again👊🏻🇨🇳🔥 老黄脖子，学习昂撒精神，以昂学治夷狄",
+        "id": "1587132762364022787",
+        "name": "Real-vinijr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628766844466364418/4YwmzuQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 97,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "weihangshi1",
+        "verified": false
+      }
+    ]
+  }
+}

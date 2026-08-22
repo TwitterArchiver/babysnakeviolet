@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987515128942866942",
+    "created_at": "2025-11-09T19:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T20:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987608702611050667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987608702611050667",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987515128942866942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 他到底咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987515120499736576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5USeMcawAAX3yw.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987515128942866942",
+        "created_at": "2025-11-09T19:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T20:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987608702611050667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987608702611050667",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987515128942866942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 他到底咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987515120499736576"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "1987515128942866942",
+        "created_at": "2025-11-09T13:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987515128942866942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlkQQb9H3Z",
+              "end": 70,
+              "expanded_url": "https://x.com/yui804275429451/status/1987515128942866942/photo/1",
+              "media_key": "3_1987515120499736576",
+              "start": 47,
+              "url": "https://t.co/AlkQQb9H3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987515128942866942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2974,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然不知道你为什么这样🥲但正常人应该是不会在网上随便攻击别人的 按这个逻辑的话你也是神经病噢 https://t.co/AlkQQb9H3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 235,
+          "like_count": 551,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 847
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "永远可爱永远幸福",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 502,
+          "like_count": 963,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 503
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

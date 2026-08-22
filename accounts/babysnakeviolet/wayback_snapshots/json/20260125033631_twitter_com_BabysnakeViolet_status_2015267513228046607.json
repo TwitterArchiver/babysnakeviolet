@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2014905940831842354",
+    "created_at": "2026-01-25T03:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T04:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015267513228046607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015267513228046607",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014905940831842354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 一辈子在药效好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2014905940831842354",
+        "created_at": "2026-01-25T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015267513228046607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015267513228046607",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014905940831842354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 一辈子在药效好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "2014905940831842354",
+        "created_at": "2026-01-24T03:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014905940831842354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014905940831842354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么，不能一直在药效中……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 423,
+          "like_count": 2030,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1625
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2010378465535738107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 137,
+          "like_count": 379,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 1626
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

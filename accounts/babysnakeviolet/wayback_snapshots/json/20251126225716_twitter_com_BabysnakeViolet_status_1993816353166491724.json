@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993778031085932865",
+    "created_at": "2025-11-26T22:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T23:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993816353166491724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        },
+        {
+          "end": 30,
+          "id": "1741871837464694784",
+          "start": 17,
+          "username": "labixiaoen11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993816353166491724",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993778391116599793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 @labixiaoen11 每次吃完都昏睡不用加量了吧，pr起效算快的了，你小子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993778031085932865",
+        "created_at": "2025-11-26T22:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993816353166491724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            },
+            {
+              "end": 30,
+              "id": "1741871837464694784",
+              "start": 17,
+              "username": "labixiaoen11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993816353166491724",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993778391116599793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 @labixiaoen11 每次吃完都昏睡不用加量了吧，pr起效算快的了，你小子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531874456997863424",
+        "conversation_id": "1993778031085932865",
+        "created_at": "2025-11-26T20:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T21:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993778391116599793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "labixiaoen11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993778391116599793",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993778031085932865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@labixiaoen11 先等一个多小时，不爽就加量加量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 282,
+          "like_count": 1403,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1252
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1993644506605146148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 120,
+          "like_count": 4714,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 662
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "uu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990509751709675520/qZ2AWx8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 123,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 319
+        },
+        "username": "labixiaoen11",
+        "verified": false
+      }
+    ]
+  }
+}

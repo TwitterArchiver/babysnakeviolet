@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2003418775509774787",
+    "created_at": "2025-12-24T18:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003888792290447768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678037476068163585",
+          "start": 0,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003888792290447768",
+    "in_reply_to_user_id": "1678037476068163585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003840902570352899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako_0406_ 打飞机挺简单的，拿点润滑的东西涂手上，先挑逗一下硬了就可以由慢到快再慢到快，一只手撸一只手玩睾丸，在我手上没人撑过十分钟☠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2003418775509774787",
+        "created_at": "2025-12-24T18:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003888792290447768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678037476068163585",
+              "start": 0,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003888792290447768",
+        "in_reply_to_user_id": "1678037476068163585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003840902570352899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako_0406_ 打飞机挺简单的，拿点润滑的东西涂手上，先挑逗一下硬了就可以由慢到快再慢到快，一只手撸一只手玩睾丸，在我手上没人撑过十分钟☠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678037476068163585",
+        "conversation_id": "2003418775509774787",
+        "created_at": "2025-12-24T14:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003840902570352899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003840902570352899",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003675693633380829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 我去 我啥也不会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 393,
+          "like_count": 1854,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1500
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶 1314🚪我天天黏着你发消息😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "1996871517553164630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 225,
+          "like_count": 1885,
+          "listed_count": 7,
+          "media_count": 625,
+          "tweet_count": 5816
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

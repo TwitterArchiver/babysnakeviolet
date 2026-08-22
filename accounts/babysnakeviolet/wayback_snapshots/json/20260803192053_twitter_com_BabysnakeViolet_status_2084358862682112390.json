@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2084017847081337170",
+    "created_at": "2026-08-03T19:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T20:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084358862682112390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2084201724345204736",
+          "start": 0,
+          "username": "shejumping8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084358862682112390",
+    "in_reply_to_user_id": "2084201724345204736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084207779095736542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shejumping8964 欧巴擦浪黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2084017847081337170",
+        "created_at": "2026-08-03T19:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084358862682112390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2084201724345204736",
+              "start": 0,
+              "username": "shejumping8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084358862682112390",
+        "in_reply_to_user_id": "2084201724345204736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084207779095736542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shejumping8964 欧巴擦浪黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084201724345204736",
+        "conversation_id": "2084017847081337170",
+        "created_at": "2026-08-03T09:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084207779095736542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084207779095736542",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084017847081337170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 藕霸我大号被举报了禁言了啊啊啊这我小号，还发不了私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2083272843933213099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 647,
+          "like_count": 3319,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 2133
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-03T08:59:13.000Z",
+        "description": "我重生了",
+        "id": "2084201724345204736",
+        "location": "距离你0.1km",
+        "name": "艾果者8964",
+        "pinned_tweet_id": "2084206101420273945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084202862796804097/8Kn5yIAv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "shejumping8964",
+        "verified": false
+      }
+    ]
+  }
+}

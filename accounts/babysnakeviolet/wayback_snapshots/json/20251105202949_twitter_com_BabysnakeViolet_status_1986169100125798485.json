@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985954662739239200",
+    "created_at": "2025-11-05T20:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T21:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986169100125798485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959096880039886848",
+          "start": 0,
+          "username": "pany77095"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986169100125798485",
+    "in_reply_to_user_id": "1959096880039886848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985954662739239200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pany77095 黏糊糊的美味饭.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985954652681097216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-HPA0XUAADicd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985954662739239200",
+        "created_at": "2025-11-05T20:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T21:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986169100125798485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959096880039886848",
+              "start": 0,
+              "username": "pany77095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986169100125798485",
+        "in_reply_to_user_id": "1959096880039886848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985954662739239200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pany77095 黏糊糊的美味饭.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985954652681097216"
+          ]
+        },
+        "author_id": "1959096880039886848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985954662739239200",
+        "created_at": "2025-11-05T06:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985954662739239200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XboRkGRuQI",
+              "end": 51,
+              "expanded_url": "https://x.com/pany77095/status/1985954662739239200/photo/1",
+              "media_key": "3_1985954652681097216",
+              "start": 28,
+              "url": "https://t.co/XboRkGRuQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985954662739239200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不吃近平肉了，吃个番茄牛肉胡萝卜土豆烩饭，配小葱和大蒜 https://t.co/XboRkGRuQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 235,
+          "like_count": 535,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 826
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T03:34:46.000Z",
+        "description": "错误全在美方，责任全在美方，资产全在美方，子女全在美方",
+        "id": "1959096880039886848",
+        "location": "中南海习近平床下",
+        "name": "习近平今天5️⃣了吗",
+        "pinned_tweet_id": "1977668036736987218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959097119559524353/3NBQ24Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 121,
+          "like_count": 6655,
+          "listed_count": 8,
+          "media_count": 954,
+          "tweet_count": 3655
+        },
+        "username": "pany77095",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1994110447012991117",
+    "created_at": "2025-11-28T04:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994257180459925873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1448881148541685760",
+          "start": 0,
+          "username": "uni_ododriru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994257180459925873",
+    "in_reply_to_user_id": "1448881148541685760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994110447012991117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uni_ododriru 是不是碰水了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994110438561468420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6yA4O1a0AQD2DU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1994110447012991117",
+        "created_at": "2025-11-28T04:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994257180459925873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1448881148541685760",
+              "start": 0,
+              "username": "uni_ododriru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994257180459925873",
+        "in_reply_to_user_id": "1448881148541685760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994110447012991117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uni_ododriru 是不是碰水了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994110438561468420"
+          ]
+        },
+        "author_id": "1448881148541685760",
+        "conversation_id": "1994110447012991117",
+        "created_at": "2025-11-27T18:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994110447012991117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8IiKvmmjQ",
+              "end": 23,
+              "expanded_url": "https://x.com/uni_ododriru/status/1994110447012991117/photo/1",
+              "media_key": "3_1994110438561468420",
+              "start": 0,
+              "url": "https://t.co/F8IiKvmmjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994110447012991117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F8IiKvmmjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 285,
+          "like_count": 1434,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1274
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T05:19:35.000Z",
+        "description": "OD妹Ⅱ性别为女性 Ⅱ虚无主义孤僻isfp社恐Ⅱcn叶米/りる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+bE2gu8h4dnkzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+bE2gu8h4dnkzMWRl",
+                "start": 0,
+                "url": "https://t.co/vCQdW8retw"
+              }
+            ]
+          }
+        },
+        "id": "1448881148541685760",
+        "location": "Japan",
+        "name": "山与屿",
+        "pinned_tweet_id": "1988064492455067652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994252481745047555/0KITTlLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 464,
+          "like_count": 69512,
+          "listed_count": 0,
+          "media_count": 717,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/vCQdW8retw",
+        "username": "uni_ododriru",
+        "verified": false
+      }
+    ]
+  }
+}

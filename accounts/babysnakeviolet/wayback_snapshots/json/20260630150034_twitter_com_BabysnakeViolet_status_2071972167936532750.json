@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2071889727251423594",
+    "created_at": "2026-06-30T15:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071972167936532750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071972167936532750",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071889727251423594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 蹭眼熟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071889705021358080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDUtZmWQAADOzd.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2071889727251423594",
+        "created_at": "2026-06-30T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071972167936532750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071972167936532750",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071889727251423594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 蹭眼熟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071889705021358080"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2071889727251423594",
+        "created_at": "2026-06-30T09:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071889727251423594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3Y7de4QWZ",
+              "end": 62,
+              "expanded_url": "https://x.com/Ta1z19/status/2071889727251423594/photo/1",
+              "media_key": "3_2071889705021358080",
+              "start": 39,
+              "url": "https://t.co/v3Y7de4QWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071889727251423594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "400fo啦！500gfo给大家点小奖励～还是活跃眼熟的优先 抽奖我怕封号。 https://t.co/v3Y7de4QWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，推文当日记本发，入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 600,
+          "like_count": 2756,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1963
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 67,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

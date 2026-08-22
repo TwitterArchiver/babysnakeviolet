@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1982976660216688914",
+    "created_at": "2025-10-29T13:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983523629561434578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916074220108582912",
+          "start": 0,
+          "username": "GlyndaMcdo97923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983523629561434578",
+    "in_reply_to_user_id": "1916074220108582912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982976660216688914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlyndaMcdo97923 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982976651383451651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4TywheasAMIRKe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1982976660216688914",
+        "created_at": "2025-10-29T13:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983523629561434578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "GlyndaMcdo97923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983523629561434578",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982976660216688914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlyndaMcdo97923 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982976651383451651"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "1982976660216688914",
+        "created_at": "2025-10-28T01:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T02:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982976660216688914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 19,
+              "start": 7,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rpgXcsM3x",
+              "end": 56,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/1982976660216688914/photo/1",
+              "media_key": "3_1982976651383451651",
+              "start": 33,
+              "url": "https://t.co/5rpgXcsM3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982976660216688914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2225,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系女子 #地雷系女子と繋がりたい #自撮り界隈 #女高 早 https://t.co/5rpgXcsM3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983303324482056705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 211,
+          "like_count": 426,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 703
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=pG2Mmfa4",
+                "start": 0,
+                "url": "https://t.co/NkM164DItX"
+              }
+            ]
+          }
+        },
+        "id": "1916074220108582912",
+        "location": "蜂鸟VPN",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "1980485856843694289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970285436217245696/_z3tMn3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 56,
+          "like_count": 672,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/NkM164DItX",
+        "username": "GlyndaMcdo97923",
+        "verified": false
+      }
+    ]
+  }
+}

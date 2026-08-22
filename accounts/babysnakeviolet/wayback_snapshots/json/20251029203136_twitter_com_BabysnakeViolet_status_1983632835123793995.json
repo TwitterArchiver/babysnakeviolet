@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983588946656555421",
+    "created_at": "2025-10-29T20:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T21:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983632835123793995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590939682568736769",
+          "start": 0,
+          "username": "ColesPerson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983632835123793995",
+    "in_reply_to_user_id": "1590939682568736769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983588946656555421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColesPerson 给我一把求你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1983588938322513920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cfoUEbkAAg8_8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983588946656555421",
+        "created_at": "2025-10-29T20:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T21:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983632835123793995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590939682568736769",
+              "start": 0,
+              "username": "ColesPerson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983632835123793995",
+        "in_reply_to_user_id": "1590939682568736769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983588946656555421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColesPerson 给我一把求你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983588938322513920"
+          ]
+        },
+        "author_id": "1590939682568736769",
+        "conversation_id": "1983588946656555421",
+        "created_at": "2025-10-29T17:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983588946656555421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UK4m5F4nrd",
+              "end": 32,
+              "expanded_url": "https://x.com/ColesPerson/status/1983588946656555421/photo/1",
+              "media_key": "3_1983588938322513920",
+              "start": 9,
+              "url": "https://t.co/UK4m5F4nrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983588946656555421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不知道该求谁 https://t.co/UK4m5F4nrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983519056100499930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983520256116056064/P1lzuc1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 218,
+          "like_count": 440,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 724
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T05:29:24.000Z",
+        "description": "啥意思",
+        "id": "1590939682568736769",
+        "location": "Manhattan, NY",
+        "name": "4000年难遇的老实人",
+        "pinned_tweet_id": "1980605611067756844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966324061379899395/5ckbxTzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1400,
+          "like_count": 26440,
+          "listed_count": 3,
+          "media_count": 864,
+          "tweet_count": 9548
+        },
+        "username": "ColesPerson",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995715744546373928",
+    "created_at": "2025-12-02T17:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995901064160444472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995901064160444472",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995715744546373928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 杀杀杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995715744546373928",
+        "created_at": "2025-12-02T17:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995901064160444472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995901064160444472",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995715744546373928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 杀杀杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1995715744546373928",
+        "created_at": "2025-12-02T04:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995715744546373928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995715744546373928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7067,
+          "like_count": 191,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": ": 真想在学校来一场轰轰烈烈的图沙啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 319,
+          "like_count": 1513,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1302
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙🐙🐙■■■：@■ / 江别 ：@cy79p / 何名义？：@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1995495062290231407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993721728602947584/BnMXUZgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1351,
+          "like_count": 24797,
+          "listed_count": 6,
+          "media_count": 893,
+          "tweet_count": 7848
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

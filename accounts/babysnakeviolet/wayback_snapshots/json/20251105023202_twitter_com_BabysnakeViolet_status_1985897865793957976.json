@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985897864082665980",
+    "created_at": "2025-11-05T02:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985897865793957976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985897865793957976",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985897864082665980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的微信常年只有一百多个人不超150，我会删人，不管是谁，甚至当初我发了许多帖子说过很喜欢且花了不少钱的陪玩也被我删掉了。也不只是男生啦，我性格就是这样，但是很奇怪，我不知道我为什么会幻想和一个普通男人的婚后生活，普通的长相，普通的经济情况，普通的爱侣日常，幻想里他脸都是模糊的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985897864082665980",
+        "created_at": "2025-11-05T02:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985897865793957976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985897865793957976",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985897864082665980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的微信常年只有一百多个人不超150，我会删人，不管是谁，甚至当初我发了许多帖子说过很喜欢且花了不少钱的陪玩也被我删掉了。也不只是男生啦，我性格就是这样，但是很奇怪，我不知道我为什么会幻想和一个普通男人的婚后生活，普通的长相，普通的经济情况，普通的爱侣日常，幻想里他脸都是模糊的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985897864082665980",
+        "created_at": "2025-11-05T02:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985897864082665980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985897864082665980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这一晚上幻想了好几次嫁给一个男人做妻子，很奇怪，很久很久以前甚至我从小因为父母就对婚姻这个东西不抱期待，加上我的情感经历和人生路程我本人基本上也对和男性的恋爱关系没有指望，甚至我平时是一个很少和男生说话的人，虽然我网上看起来一点不正经但其实我能够平等的交流的男生很少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 234,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 809
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

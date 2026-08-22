@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1987686570275807468",
+    "created_at": "2025-11-10T01:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T02:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987688711530991652"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987688711530991652",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987686570275807468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没事的，我会一直陪着你的，你现在很安全，你现在很平静，不需要药物你也可以过得很幸福很好很健康，你知道吗？你给了我很多力量，你总说自己没什么用对所有人没有重量但是，你在我心里是有重量的，你是重要的，你是我的一部分，我们把刀片都丢掉了不是吗，药也都丢了退了，你现在也很好对不对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1987686570275807468",
+        "created_at": "2025-11-10T01:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T02:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987688711530991652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987688711530991652",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987686570275807468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没事的，我会一直陪着你的，你现在很安全，你现在很平静，不需要药物你也可以过得很幸福很好很健康，你知道吗？你给了我很多力量，你总说自己没什么用对所有人没有重量但是，你在我心里是有重量的，你是重要的，你是我的一部分，我们把刀片都丢掉了不是吗，药也都丢了退了，你现在也很好对不对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987686570275807468",
+        "created_at": "2025-11-10T00:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987686570275807468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987686570275807468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我应该平静下来，平静，呼吸，平静，呼吸，不要尖锐，不要厌恶自己，勇敢，坦诚，善良的对待自己，只是一些截图而已对不对？你都那么勇敢走到了这一步，加上他和他聊天然后再像当年那样删掉拉黑他把世界割裂，这也只是一件很简单的事情，你不用再害怕恐惧了，不要怨恨，不要偏激，你是活着的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 236,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 861
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

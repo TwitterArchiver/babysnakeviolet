@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2027125802039648697",
+    "created_at": "2026-02-26T20:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T21:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027125802039648697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027125802039648697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得活着好恶心啊，有人明白吗？空无一物，光是呼吸，思考，重复着上一个动作，都觉得非常无聊，痛苦。我很疲惫，我不想出门，社交也总是走神，我想念五年前的自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2027125802039648697",
+        "created_at": "2026-02-26T20:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027125802039648697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027125802039648697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得活着好恶心啊，有人明白吗？空无一物，光是呼吸，思考，重复着上一个动作，都觉得非常无聊，痛苦。我很疲惫，我不想出门，社交也总是走神，我想念五年前的自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 444,
+          "like_count": 2011,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1702
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

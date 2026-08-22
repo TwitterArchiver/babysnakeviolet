@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2001515390053306685",
+    "created_at": "2025-12-18T09:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001578915790492014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "Bigbabo02054306"
+        },
+        {
+          "end": 33,
+          "id": "1531874456997863424",
+          "start": 17,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001578915790492014",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001573803722444959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bigbabo02054306 @guodongmaikefe2 我抽烟会降低pr药效，但嗑药不抽烟就像拉屎不擦屁股😒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2001515390053306685",
+        "created_at": "2025-12-18T09:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001578915790492014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "Bigbabo02054306"
+            },
+            {
+              "end": 33,
+              "id": "1531874456997863424",
+              "start": 17,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001578915790492014",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001573803722444959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bigbabo02054306 @guodongmaikefe2 我抽烟会降低pr药效，但嗑药不抽烟就像拉屎不擦屁股😒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2001515390053306685",
+        "created_at": "2025-12-18T08:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001573803722444959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001573803722444959",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001515390053306685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 O了普瑞甚至抽的更多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇，查成分回fo，只是一个非常颓废失败的女人。\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 377,
+          "like_count": 1752,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 1454
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "地狱",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "1998777832814559410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999372994175746048/ieOtg0g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 97,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 197
+        },
+        "username": "Bigbabo02054306",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "不要被任何事物掌控/⌓‿⌓/抑郁焦虑/同类互fo/顺直男/恐gay，恐跨，排斥/愈美片是屎/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "2000717482982826381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 164,
+          "like_count": 10522,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 993
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

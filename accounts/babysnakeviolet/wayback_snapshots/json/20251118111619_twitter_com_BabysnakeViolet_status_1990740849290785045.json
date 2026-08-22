@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990541072389570707",
+    "created_at": "2025-11-18T11:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990740849290785045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990740849290785045",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990541072389570707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mshuxing 我会一直一直看着你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990541072389570707",
+        "created_at": "2025-11-18T11:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990740849290785045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990740849290785045",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990541072389570707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mshuxing 我会一直一直看着你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918236611684233216",
+        "conversation_id": "1990541072389570707",
+        "created_at": "2025-11-17T22:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T23:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990541072389570707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/1990263362941493433",
+              "start": 130,
+              "url": "https://t.co/ji5Oz1Ae1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990541072389570707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990263362941493433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在视奸你啊……你能不能每天多发一些日常？你今天的每一句话、每一个表情，我在暗处细细品味，你和谁聊天了，说了什么，有没有提到我？我一直在脑海里反复揣摩你的心思，你发的每一条动态，我都像研究密码一样，一个字一个字地拆解，你的点赞、你的收藏，我都有一遍遍翻看 https://t.co/ji5Oz1Ae1M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！入🚪默认不退本人高p",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 280,
+          "like_count": 1336,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1137
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "cn菡亭序意 可以叫我幼幼 碎碎念 自拍 攻击性言论 中偏重抑焦自残 顺女｜泛性恋｜友跨｜恐顺反顺 |LGBT+全友好🏳️‍🌈 ♌ 狮子座｜INTP-T｜2011.08.04 |纯爱党 看出成分互fo属性置顶",
+        "id": "1918236611684233216",
+        "location": "Barcelona, Spain",
+        "name": "幼",
+        "pinned_tweet_id": "1990545604938985726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986523114952392704/U1VlMaIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 128,
+          "like_count": 3137,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 704
+        },
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

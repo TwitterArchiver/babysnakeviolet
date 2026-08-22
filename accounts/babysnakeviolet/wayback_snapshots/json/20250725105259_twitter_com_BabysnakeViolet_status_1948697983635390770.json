@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1948697712976871663",
+    "created_at": "2025-07-25T10:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T11:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948697983635390770"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948697983635390770",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948697712976871663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为毛压画质？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948697666881499136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsqNBEasAAXLtt.jpg",
+        "width": 1724
+      },
+      {
+        "duration_ms": 8803,
+        "height": 1280,
+        "media_key": "7_1948697654722265093",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1948697654722265093/pu/img/vjJ7RDtwJRqAzFgn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948697654722265093/pu/vid/avc1/320x568/Nj1NKmPI1LTbuFdx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948697654722265093/pu/vid/avc1/480x852/cbI5ZrphklDgL0tO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948697654722265093/pu/vid/avc1/720x1280/qtlzJEgm2Mjuyh8d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1948697654722265093/pu/pl/BeAzFjWHagRfM-1t.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1948697712976871663",
+        "created_at": "2025-07-25T10:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948697983635390770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948697983635390770",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948697712976871663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为毛压画质？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948697666881499136",
+            "7_1948697654722265093"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1948697712976871663",
+        "created_at": "2025-07-25T10:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948697712976871663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0sP9JZ02U",
+              "end": 34,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1948697712976871663/video/1",
+              "media_key": "3_1948697666881499136",
+              "start": 11,
+              "url": "https://t.co/c0sP9JZ02U"
+            },
+            {
+              "display_url": "pic.x.com/c0sP9JZ02U",
+              "end": 34,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1948697712976871663/video/1",
+              "media_key": "7_1948697654722265093",
+              "start": 11,
+              "url": "https://t.co/c0sP9JZ02U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948697712976871663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割割割割割割 #自伤 https://t.co/c0sP9JZ02U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 149,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 564
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

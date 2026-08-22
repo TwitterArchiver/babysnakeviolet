@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063419988460138496"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "2063420085151396070",
+    "created_at": "2026-06-07T00:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T01:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063420085151396070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8LUVauRSq5",
+          "end": 39,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2063420085151396070/photo/1",
+          "media_key": "3_2063419988460138496",
+          "start": 16,
+          "url": "https://t.co/8LUVauRSq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063420085151396070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和一个自闭症俄罗斯男孩相爱了 https://t.co/8LUVauRSq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063419988460138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKK9jAqbcAAkfsa.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063419988460138496"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "2063420085151396070",
+        "created_at": "2026-06-07T00:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063420085151396070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LUVauRSq5",
+              "end": 39,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2063420085151396070/photo/1",
+              "media_key": "3_2063419988460138496",
+              "start": 16,
+              "url": "https://t.co/8LUVauRSq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063420085151396070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和一个自闭症俄罗斯男孩相爱了 https://t.co/8LUVauRSq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，推文当日记本发，入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 580,
+          "like_count": 2725,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1942
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

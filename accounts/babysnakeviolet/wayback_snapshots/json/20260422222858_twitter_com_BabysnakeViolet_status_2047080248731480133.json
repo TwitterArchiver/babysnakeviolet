@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2046793372267127226",
+    "created_at": "2026-04-22T22:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T23:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047080248731480133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047080248731480133",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046793372267127226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 劳拉西泮是什么效果啊，我也要没药磕了好崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2046793372267127226",
+        "created_at": "2026-04-22T22:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047080248731480133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047080248731480133",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046793372267127226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 劳拉西泮是什么效果啊，我也要没药磕了好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115809099482980353",
+        "conversation_id": "2046793372267127226",
+        "created_at": "2026-04-22T03:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046793372267127226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046793372267127226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 863,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的普瑞還夠o一次，如果吃完了我就去吃勞拉西泮，勞拉吃完了我就去吃加巴噴丁，然後再吃勞拉西泮。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 459,
+          "like_count": 2112,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1802
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029702608819212290/Qhwu5L_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 745,
+          "like_count": 44768,
+          "listed_count": 9,
+          "media_count": 563,
+          "tweet_count": 6267
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

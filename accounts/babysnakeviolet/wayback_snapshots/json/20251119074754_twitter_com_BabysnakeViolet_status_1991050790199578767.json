@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1991050790199578767",
+    "created_at": "2025-11-19T07:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991050790199578767"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991050790199578767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我究竟是血清素综合征还是惊恐发作，我其实分不清，但濒死感，实在太恐怖了，那种心跳随时快到要骤停的死亡威胁之感，思维混乱之恐怖感，眼球爆炸之害怕感，是一种你处于能明确感知到死亡的逼近，你能感觉到你有死掉的风险，并且你很恐慌，突然之间全身开始害怕惊恐，不是逐渐的，是突然。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1991050790199578767",
+        "created_at": "2025-11-19T07:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991050790199578767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991050790199578767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我究竟是血清素综合征还是惊恐发作，我其实分不清，但濒死感，实在太恐怖了，那种心跳随时快到要骤停的死亡威胁之感，思维混乱之恐怖感，眼球爆炸之害怕感，是一种你处于能明确感知到死亡的逼近，你能感觉到你有死掉的风险，并且你很恐慌，突然之间全身开始害怕惊恐，不是逐渐的，是突然。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病入门默认不退，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 283,
+          "like_count": 1344,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1159
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

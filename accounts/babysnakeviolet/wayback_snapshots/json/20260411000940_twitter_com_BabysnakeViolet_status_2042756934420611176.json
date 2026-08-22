@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2042500899415683468",
+    "created_at": "2026-04-11T00:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T01:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042756934420611176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916434358917033984",
+          "start": 0,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042756934420611176",
+    "in_reply_to_user_id": "1916434358917033984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042753834900959454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackTrapTrip 我o大了看错了我服了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2042500899415683468",
+        "created_at": "2026-04-11T00:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042756934420611176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042756934420611176",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042753834900959454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 我o大了看错了我服了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2042500899415683468",
+        "created_at": "2026-04-10T23:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042753834900959454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042753834900959454",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042747436045885623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet o点伤害小的吧宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 435,
+          "like_count": 2000,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1744
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "同类互关欢迎｜she/her❗️非常雷男性称呼｜纯看黄的不要关注我｜pansexual🏳️‍🌈🏳️‍⚧️友好｜可以私信或提问箱但不回答drug相关问题 女生一般都会回｜uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "shtwt"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "odtwt"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱👁️8964 of shtwt",
+        "pinned_tweet_id": "2004798405714083942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091281591619585/JqgLxKnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 185,
+          "like_count": 1164,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

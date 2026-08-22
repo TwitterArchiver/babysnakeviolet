@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1978287901289881983",
+    "created_at": "2025-10-15T10:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T11:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978409857091842444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978409857091842444",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978287901289881983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 不要啊.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1978287901289881983",
+        "created_at": "2025-10-15T10:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T11:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978409857091842444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978409857091842444",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978287901289881983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 不要啊.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764820595387305984",
+        "conversation_id": "1978287901289881983",
+        "created_at": "2025-10-15T02:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978287901289881983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978287901289881983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4938,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞个置顶，目前已经休学了，选了个自杀时间，然后想搞个旅行计划表去见你们，愿意见我的朋友/群友在这个置顶下面留言地址，我去找你们，要眼熟的喔，我钱不多了，不见陌生人，车费我自费，吃饭AA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 198,
+          "like_count": 386,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 663
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/爱人@wanchunshi/🚪30￥/MTX/ overdose💊/双相/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "wanchunshi"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "pinned_tweet_id": "1978287901289881983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3237,
+          "following_count": 3321,
+          "like_count": 14318,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 6851
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

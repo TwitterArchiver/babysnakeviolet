@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1974859303371825433",
+    "created_at": "2025-10-11T16:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T17:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977056261503127552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1951905813284679680",
+          "start": 0,
+          "username": "Duoldz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977056261503127552",
+    "in_reply_to_user_id": "1951905813284679680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974859303371825433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duoldz 萌宝 好喜欢好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1974859266977624064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2gcCkGW8AArLn6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1974859266986004481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2gcCkIW0AELLnv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1974859303371825433",
+        "created_at": "2025-10-11T16:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977056261503127552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1951905813284679680",
+              "start": 0,
+              "username": "Duoldz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977056261503127552",
+        "in_reply_to_user_id": "1951905813284679680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974859303371825433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duoldz 萌宝 好喜欢好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974859266977624064",
+            "3_1974859266986004481"
+          ]
+        },
+        "author_id": "1951905813284679680",
+        "conversation_id": "1974859303371825433",
+        "created_at": "2025-10-05T15:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974859303371825433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "北京BACC漫展"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1P76BvbuQH",
+              "end": 54,
+              "expanded_url": "https://x.com/Duoldz/status/1974859303371825433/photo/1",
+              "media_key": "3_1974859266977624064",
+              "start": 31,
+              "url": "https://t.co/1P76BvbuQH"
+            },
+            {
+              "display_url": "pic.x.com/1P76BvbuQH",
+              "end": 54,
+              "expanded_url": "https://x.com/Duoldz/status/1974859303371825433/photo/1",
+              "media_key": "3_1974859266986004481",
+              "start": 31,
+              "url": "https://t.co/1P76BvbuQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974859303371825433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#北京BACC漫展\n第一次逛漫展₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/1P76BvbuQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 175,
+          "like_count": 355,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 659
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T07:20:07.000Z",
+        "description": "燃燒",
+        "id": "1951905813284679680",
+        "name": "Duoldz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951906068654850049/-nMYNVob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 47,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 17
+        },
+        "username": "Duoldz",
+        "verified": false
+      }
+    ]
+  }
+}

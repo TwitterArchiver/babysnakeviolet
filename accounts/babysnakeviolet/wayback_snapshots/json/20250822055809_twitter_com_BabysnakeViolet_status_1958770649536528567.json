@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1958770649536528567",
+    "created_at": "2025-08-22T05:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958770649536528567"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958770649536528567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近可能很长一段时间都不会更新🚪相关，慎重入门吧我只能这样说，私信也不会再回了，我可能要回归正常人行列了（？）有点奇怪这么说，但其实我玩这个号第一天到现在就没有说纯粹的为了💰，🚪哥不会删，等我有钱了（估计猴年马月）会主动把🚪都退了如果你们没删我的话，就这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1958770649536528567",
+        "created_at": "2025-08-22T05:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958770649536528567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958770649536528567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近可能很长一段时间都不会更新🚪相关，慎重入门吧我只能这样说，私信也不会再回了，我可能要回归正常人行列了（？）有点奇怪这么说，但其实我玩这个号第一天到现在就没有说纯粹的为了💰，🚪哥不会删，等我有钱了（估计猴年马月）会主动把🚪都退了如果你们没删我的话，就这样！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 154,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 598
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

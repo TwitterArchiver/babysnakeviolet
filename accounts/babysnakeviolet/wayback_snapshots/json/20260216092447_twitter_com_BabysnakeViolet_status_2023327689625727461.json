@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2023068488894677070",
+    "created_at": "2026-02-16T09:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023327689625727461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741308284416487424",
+          "start": 0,
+          "username": "tintinPPHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023327689625727461",
+    "in_reply_to_user_id": "1741308284416487424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023068488894677070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tintinPPHf 求黑幕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2023068476827680768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNiD52awAALANC.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1778,
+        "media_key": "3_2023068476840292352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNiD55bMAAPxzG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2020,
+        "media_key": "3_2023068476794077184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNiD5uaAAAy7gk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2023068488894677070",
+        "created_at": "2026-02-16T09:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023327689625727461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741308284416487424",
+              "start": 0,
+              "username": "tintinPPHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023327689625727461",
+        "in_reply_to_user_id": "1741308284416487424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023068488894677070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tintinPPHf 求黑幕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023068476827680768",
+            "3_2023068476840292352",
+            "3_2023068476794077184"
+          ]
+        },
+        "author_id": "1741308284416487424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023068488894677070",
+        "created_at": "2026-02-15T16:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023068488894677070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "门槛"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "门哥"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "门姐"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jB1iq7lRC",
+              "end": 77,
+              "expanded_url": "https://x.com/tintinPPHf/status/2023068488894677070/photo/1",
+              "media_key": "3_2023068476827680768",
+              "start": 54,
+              "url": "https://t.co/9jB1iq7lRC"
+            },
+            {
+              "display_url": "pic.x.com/9jB1iq7lRC",
+              "end": 77,
+              "expanded_url": "https://x.com/tintinPPHf/status/2023068488894677070/photo/1",
+              "media_key": "3_2023068476840292352",
+              "start": 54,
+              "url": "https://t.co/9jB1iq7lRC"
+            },
+            {
+              "display_url": "pic.x.com/9jB1iq7lRC",
+              "end": 77,
+              "expanded_url": "https://x.com/tintinPPHf/status/2023068488894677070/photo/1",
+              "media_key": "3_2023068476794077184",
+              "start": 54,
+              "url": "https://t.co/9jB1iq7lRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023068488894677070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐喵..有人愿意投喂我嘛 可验证 定制视频我也接…#门槛妹 #门槛哥 #门槛 #门哥 #门姐 #白丝 https://t.co/9jB1iq7lRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 440,
+          "like_count": 2072,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1685
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T04:00:22.000Z",
+        "description": "🟰蕾 160/50kg｜目前找回前世互关中ing…🚪88/188/288/520/1314 可验证 过门解锁视频图包（30多视频和图片共70多个文件）",
+        "id": "1741308284416487424",
+        "location": "Norway",
+        "name": "レイ（4.0",
+        "pinned_tweet_id": "2023068488894677070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020869891784630272/diKY722a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 23,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "tintinPPHf",
+        "verified": false
+      }
+    ]
+  }
+}

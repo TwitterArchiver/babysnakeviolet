@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985364754299523228",
+    "created_at": "2025-11-03T15:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985369723589312932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910085836420558848",
+          "start": 0,
+          "username": "BaiandErika8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985369723589312932",
+    "in_reply_to_user_id": "1910085836420558848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985364754299523228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiandErika8964 非常可爱自然！完全天使🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_1985364682417614848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985364682417614848/img/eqRuPx-RqonXUXCA.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985364682417614848/vid/avc1/320x568/Lm4jWrSpaJMU7QMS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985364682417614848/vid/avc1/480x852/10Fzjy212qt75rhm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985364682417614848/vid/avc1/720x1280/wIKSSbC5vjE9mWoi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985364682417614848/pl/xHIsD9TVGQqoHB2l.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985364754299523228",
+        "created_at": "2025-11-03T15:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985369723589312932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "BaiandErika8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985369723589312932",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985364754299523228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiandErika8964 非常可爱自然！完全天使🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985364682417614848"
+          ]
+        },
+        "author_id": "1910085836420558848",
+        "conversation_id": "1985364754299523228",
+        "created_at": "2025-11-03T15:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985364754299523228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyxfKtKoOc",
+              "end": 48,
+              "expanded_url": "https://x.com/BaiandErika8964/status/1985364754299523228/video/1",
+              "media_key": "13_1985364682417614848",
+              "start": 25,
+              "url": "https://t.co/CyxfKtKoOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985364754299523228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得我这个音无彩名的视频舞蹈动作拍的自然吗？ https://t.co/CyxfKtKoOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 234,
+          "like_count": 518,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 790
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "给你的只有看垃圾的眼神 我不是地雷女或你所认识的标签 也甚至并非女人 所以无需关注我",
+        "id": "1910085836420558848",
+        "location": "1989.6.4",
+        "name": "诅咒是纯白色",
+        "pinned_tweet_id": "1983456604881404052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924931715652530176/qXgXK2K9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 406,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1378
+        },
+        "username": "BaiandErika8964",
+        "verified": false
+      }
+    ]
+  }
+}

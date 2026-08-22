@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988838078845194583",
+    "created_at": "2025-11-13T15:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988998460406943851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1973059926189895680",
+          "start": 0,
+          "username": "ouoxsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988998460406943851",
+    "in_reply_to_user_id": "1973059926189895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988983358253330611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoxsi 我去找过，因为手上的疤不肯收我，夏天，我的疤很多很显眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988838078845194583",
+        "created_at": "2025-11-13T15:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988998460406943851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1973059926189895680",
+              "start": 0,
+              "username": "ouoxsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988998460406943851",
+        "in_reply_to_user_id": "1973059926189895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988983358253330611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoxsi 我去找过，因为手上的疤不肯收我，夏天，我的疤很多很显眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973059926189895680",
+        "conversation_id": "1988838078845194583",
+        "created_at": "2025-11-13T14:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988983358253330611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988983358253330611",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1255,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988838078845194583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 没钱怎么不上班🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 276,
+          "like_count": 1226,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1057
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T16:18:53.000Z",
+        "description": "喜欢发碎碎念",
+        "id": "1973059926189895680",
+        "name": "love",
+        "pinned_tweet_id": "1987074995248669053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980590830403403776/zBez2NDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 84
+        },
+        "username": "ouoxsi",
+        "verified": false
+      }
+    ]
+  }
+}

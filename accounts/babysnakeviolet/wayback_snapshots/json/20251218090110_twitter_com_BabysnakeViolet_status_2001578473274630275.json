@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2001558689300517378",
+    "created_at": "2025-12-18T09:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001578473274630275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "Bigbabo02054306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001578473274630275",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001572484521562132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bigbabo02054306 有种认知解体的荒诞和微微的恐惧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2001558689300517378",
+        "created_at": "2025-12-18T09:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001578473274630275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "Bigbabo02054306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001578473274630275",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001572484521562132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bigbabo02054306 有种认知解体的荒诞和微微的恐惧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2001558689300517378",
+        "created_at": "2025-12-18T08:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001572484521562132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001572484521562132",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001558689300517378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 我也吃过……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇，查成分回fo，只是一个非常颓废失败的女人。\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 377,
+          "like_count": 1751,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 1452
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "地狱",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "1998777832814559410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999372994175746048/ieOtg0g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 97,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 197
+        },
+        "username": "Bigbabo02054306",
+        "verified": false
+      }
+    ]
+  }
+}

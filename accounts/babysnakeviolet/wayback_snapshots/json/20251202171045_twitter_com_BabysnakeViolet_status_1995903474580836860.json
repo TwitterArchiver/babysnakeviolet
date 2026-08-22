@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sci-fi and fantasy",
+          "id": "847869772129685504",
+          "name": "Sci-fi & fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1223187634983292929",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481070956998656",
+          "name": "Sci-fi & fantasy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1223187634983292929",
+          "name": "Stranger Things"
+        }
+      }
+    ],
+    "conversation_id": "1995903474580836860",
+    "created_at": "2025-12-02T17:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995903474580836860"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Demogorgon",
+          "probability": 0.8738,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shivtweetzz/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/shivtweetzz/status/1995804379107238323",
+          "start": 57,
+          "url": "https://t.co/LZQZD5y4rT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995903474580836860",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995804379107238323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I wrote a fan fiction about Demogorgon 3 years ago ahhhh https://t.co/LZQZD5y4rT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22200,
+        "height": 1280,
+        "media_key": "13_1995804258705571846",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995804258705571846/img/Uf6qpoX1s3JCqXqf.jpg",
+        "public_metrics": {
+          "view_count": 36743
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995804258705571846/vid/avc1/320x568/tDohFbuxOy9ATGpi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995804258705571846/vid/avc1/480x852/-R-1swACKF1bmIRp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995804258705571846/vid/avc1/720x1280/13JI0uq2_74t045u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995804258705571846/pl/rE3RTYB0Kr4CbcYt.m3u8?v=c37"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          }
+        ],
+        "conversation_id": "1995903474580836860",
+        "created_at": "2025-12-02T17:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995903474580836860"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Demogorgon",
+              "probability": 0.8738,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shivtweetzz/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/shivtweetzz/status/1995804379107238323",
+              "start": 57,
+              "url": "https://t.co/LZQZD5y4rT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995903474580836860",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995804379107238323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I wrote a fan fiction about Demogorgon 3 years ago ahhhh https://t.co/LZQZD5y4rT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995804258705571846"
+          ]
+        },
+        "author_id": "1815028494457548801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          }
+        ],
+        "conversation_id": "1995804379107238323",
+        "created_at": "2025-12-02T10:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995804379107238323"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Demogorgon Grill",
+              "probability": 0.5982,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "Hari Grapher",
+              "probability": 0.4688,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/25xeUrDkIP",
+              "end": 79,
+              "expanded_url": "https://x.com/shivtweetzz/status/1995804379107238323/video/1",
+              "media_key": "13_1995804258705571846",
+              "start": 56,
+              "url": "https://t.co/25xeUrDkIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995804379107238323",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 57109,
+          "like_count": 665,
+          "quote_count": 24,
+          "reply_count": 24,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "Demogorgon Grill 😂😂\n\nHilarious 🤣\n\nCredits- Hari Grapher https://t.co/25xeUrDkIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 319,
+          "like_count": 1514,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1304
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T14:18:23.000Z",
+        "description": "Cine Buff 🎥 | WebSeries Binge 📺 | #ShivFlix = My Picks ✨ | Thalapathy ❤️ | Curry30 🏀 | IT Guy 💻 | Shiva Devotee 🙏 | Politics = Personal | Anti DMK |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 34,
+                "tag": "ShivFlix"
+              }
+            ]
+          }
+        },
+        "id": "1815028494457548801",
+        "location": "Chennai",
+        "name": "Shiva Flix",
+        "pinned_tweet_id": "1995855310704312349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815030505852854273/IA27nvXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11104,
+          "following_count": 1599,
+          "like_count": 115372,
+          "listed_count": 40,
+          "media_count": 2794,
+          "tweet_count": 57275
+        },
+        "username": "shivtweetzz",
+        "verified": true
+      }
+    ]
+  }
+}

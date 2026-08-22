@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993615476451340660",
+    "created_at": "2025-11-26T09:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993615476451340660"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 104,
+          "tag": "蛇的日记本"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993615476451340660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说吃这么多药真的没事么？你看看你，苦的五官都皱成一团了，放心放心，没有说你不好看的意思，这样的你让我有种想心疼的可爱，想和我说说话么？不说话也没事，就这样靠在一起，汲取我的体温也没事，安心，我会一直在的。 ＃蛇的日记本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993615476451340660",
+        "created_at": "2025-11-26T09:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993615476451340660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 104,
+              "tag": "蛇的日记本"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993615476451340660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说吃这么多药真的没事么？你看看你，苦的五官都皱成一团了，放心放心，没有说你不好看的意思，这样的你让我有种想心疼的可爱，想和我说说话么？不说话也没事，就这样靠在一起，汲取我的体温也没事，安心，我会一直在的。 ＃蛇的日记本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 282,
+          "like_count": 1396,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1243
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

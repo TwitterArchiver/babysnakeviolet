@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983188186550706515",
+    "created_at": "2025-10-29T12:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983508113786577267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945157928010604544",
+          "start": 0,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983508113786577267",
+    "in_reply_to_user_id": "1945157928010604544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983188186550706515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiTvTing 我也一吃就吐，哦一次嘴巴三天都要愈美味儿，我现在已经改吃pr了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983188186550706515",
+        "created_at": "2025-10-29T12:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983508113786577267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945157928010604544",
+              "start": 0,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983508113786577267",
+        "in_reply_to_user_id": "1945157928010604544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983188186550706515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiTvTing 我也一吃就吐，哦一次嘴巴三天都要愈美味儿，我现在已经改吃pr了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "1983188186550706515",
+        "created_at": "2025-10-28T15:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983188186550706515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983188186550706515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我一吃愈美就吐我服了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983303324482056705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 209,
+          "like_count": 415,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 687
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "",
+        "id": "1945157928010604544",
+        "name": "卡卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945158975118319628/fkbhJtnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 35,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

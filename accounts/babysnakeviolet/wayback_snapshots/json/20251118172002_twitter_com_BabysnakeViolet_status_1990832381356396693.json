@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990794707866431807",
+    "created_at": "2025-11-18T17:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T18:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990832381356396693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990832381356396693",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990794707866431807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 不要跟见证逼玩。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40458,
+        "height": 1280,
+        "media_key": "7_1990794476378566656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990794476378566656/pu/img/11ILJHbuAuJZaeD_.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990794476378566656/pu/vid/avc1/320x568/WKnViUpfcAH_Og-p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990794476378566656/pu/vid/avc1/480x852/WY6EwkhH2B-NEoR3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990794476378566656/pu/vid/avc1/720x1280/8Qs8FDsGE_rjCoKj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990794476378566656/pu/pl/Ji43bHLlucTXO7Ir.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990794707866431807",
+        "created_at": "2025-11-18T17:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990832381356396693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990832381356396693",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990794707866431807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 不要跟见证逼玩。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990794476378566656"
+          ]
+        },
+        "author_id": "1531874456997863424",
+        "conversation_id": "1990794707866431807",
+        "created_at": "2025-11-18T14:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990794707866431807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khghsGuJDY",
+              "end": 51,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1990794707866431807/video/1",
+              "media_key": "7_1990794476378566656",
+              "start": 28,
+              "url": "https://t.co/khghsGuJDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990794707866431807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很难搞的一首专业曲子，不听民乐但键政的推友可能听过这个 https://t.co/khghsGuJDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病入门默认不退，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 283,
+          "like_count": 1338,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1150
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "TMAD…/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞/抑郁焦虑治疗中/性格敏感情绪不稳定/⌓‿⌓我一直在看着你/同类互fo/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "TMA",
+        "pinned_tweet_id": "1989401182822133895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 74,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 333
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

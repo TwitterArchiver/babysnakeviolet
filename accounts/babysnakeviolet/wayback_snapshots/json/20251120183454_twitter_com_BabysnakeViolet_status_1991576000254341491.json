@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988119573833674753",
+        "3_1988119573821091846",
+        "3_1988119573837869058",
+        "13_1988119573850460160"
+      ],
+      "media_source_tweet_id": [
+        "1988119588601819176",
+        "1988119588601819176",
+        "1988119588601819176",
+        "1988119588601819176"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1991576000254341491",
+    "created_at": "2025-11-20T18:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T19:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991576000254341491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691443274526142464",
+          "start": 3,
+          "username": "xyng328992"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5U7uRAXXdR",
+          "end": 39,
+          "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+          "media_key": "3_1988119573833674753",
+          "start": 16,
+          "url": "https://t.co/5U7uRAXXdR"
+        },
+        {
+          "display_url": "pic.x.com/5U7uRAXXdR",
+          "end": 39,
+          "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+          "media_key": "3_1988119573821091846",
+          "start": 16,
+          "url": "https://t.co/5U7uRAXXdR"
+        },
+        {
+          "display_url": "pic.x.com/5U7uRAXXdR",
+          "end": 39,
+          "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+          "media_key": "3_1988119573837869058",
+          "start": 16,
+          "url": "https://t.co/5U7uRAXXdR"
+        },
+        {
+          "display_url": "pic.x.com/5U7uRAXXdR",
+          "end": 39,
+          "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+          "media_key": "13_1988119573850460160",
+          "start": 16,
+          "url": "https://t.co/5U7uRAXXdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991576000254341491",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988119588601819176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyng328992: https://t.co/5U7uRAXXdR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991576000254341491].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991576000254341491",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991576000254341491"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_1988119573833674753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c4OAlbcAE_kMm.jpg",
+        "width": 1014
+      },
+      {
+        "height": 741,
+        "media_key": "3_1988119573821091846",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c4OAibcAYddcv.jpg",
+        "width": 992
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1988119573837869058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c4OAmbcAI7uYp.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 1166,
+        "height": 1280,
+        "media_key": "13_1988119573850460160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988119573850460160/img/S-VXqMvLGZ_98fJx.jpg",
+        "public_metrics": {
+          "view_count": 6274
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/320x568/VAabn2VE0FdAe_Pm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/480x852/Kr---PGGjn-lMctX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/720x1280/5rJtoJB_INk8BfB0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/pl/mEomXTD9VxCyh2Nj.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 1166,
+        "height": 1280,
+        "media_key": "13_1988119573850460160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988119573850460160/img/S-VXqMvLGZ_98fJx.jpg",
+        "public_metrics": {
+          "view_count": 6277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/320x568/VAabn2VE0FdAe_Pm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/480x852/Kr---PGGjn-lMctX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/vid/avc1/720x1280/5rJtoJB_INk8BfB0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988119573850460160/pl/mEomXTD9VxCyh2Nj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988119573833674753",
+            "3_1988119573821091846",
+            "3_1988119573837869058",
+            "13_1988119573850460160"
+          ]
+        },
+        "author_id": "1691443274526142464",
+        "conversation_id": "1988119588601819176",
+        "created_at": "2025-11-11T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988119588601819176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5U7uRAXXdR",
+              "end": 23,
+              "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+              "media_key": "3_1988119573833674753",
+              "start": 0,
+              "url": "https://t.co/5U7uRAXXdR"
+            },
+            {
+              "display_url": "pic.x.com/5U7uRAXXdR",
+              "end": 23,
+              "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+              "media_key": "3_1988119573821091846",
+              "start": 0,
+              "url": "https://t.co/5U7uRAXXdR"
+            },
+            {
+              "display_url": "pic.x.com/5U7uRAXXdR",
+              "end": 23,
+              "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+              "media_key": "3_1988119573837869058",
+              "start": 0,
+              "url": "https://t.co/5U7uRAXXdR"
+            },
+            {
+              "display_url": "pic.x.com/5U7uRAXXdR",
+              "end": 23,
+              "expanded_url": "https://x.com/xyng328992/status/1988119588601819176/video/1",
+              "media_key": "13_1988119573850460160",
+              "start": 0,
+              "url": "https://t.co/5U7uRAXXdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988119588601819176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 30775,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5U7uRAXXdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病不怎么会聊天抗压能力非常差，入门默认不退，所有女孩都可以找我帮你转发自介，不用帮我转。🥰",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1991500582067269666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 279,
+          "like_count": 1377,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1198
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T13:35:05.000Z",
+        "description": "🚪100 @Seven7733624 https://t.co/BmPlnzFkJR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Seven7733624"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A6%A4%E5%A…",
+                "end": 42,
+                "expanded_url": "https://ngl.link/%E5%A6%A4%E5%A6%A455410",
+                "start": 19,
+                "url": "https://t.co/BmPlnzFkJR"
+              }
+            ]
+          }
+        },
+        "id": "1691443274526142464",
+        "name": "尸体小猫",
+        "pinned_tweet_id": "1988119588601819176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991484232007577609/rZ4s0NbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 434,
+          "like_count": 3199,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1951
+        },
+        "username": "xyng328992",
+        "verified": false
+      }
+    ]
+  }
+}

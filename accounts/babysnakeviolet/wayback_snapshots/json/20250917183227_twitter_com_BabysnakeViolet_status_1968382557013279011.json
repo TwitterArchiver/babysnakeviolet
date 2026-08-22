@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1968262104869126632",
+    "created_at": "2025-09-17T18:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T19:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968382557013279011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "28940967",
+          "start": 0,
+          "username": "lidangzzz"
+        },
+        {
+          "end": 19,
+          "id": "3315697506",
+          "start": 11,
+          "username": "wntwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968382557013279011",
+    "in_reply_to_user_id": "28940967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968292179144843377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidangzzz @wntwang 我记得你是黄推啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1968262104869126632",
+        "created_at": "2025-09-17T18:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968382557013279011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            },
+            {
+              "end": 19,
+              "id": "3315697506",
+              "start": 11,
+              "username": "wntwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968382557013279011",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968292179144843377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz @wntwang 我记得你是黄推啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "conversation_id": "1968262104869126632",
+        "created_at": "2025-09-17T12:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968292179144843377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3315697506",
+              "start": 0,
+              "username": "wntwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968292179144843377",
+        "in_reply_to_user_id": "3315697506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 47821,
+          "like_count": 218,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968288525457199553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wntwang 曾博他妈今年年初死了，现在这傻逼只会复制粘贴我的帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我回到了最初，最向往的地方",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 165,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 614
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598477,
+          "following_count": 2699,
+          "like_count": 27281,
+          "listed_count": 3693,
+          "media_count": 8531,
+          "tweet_count": 41177
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-15T07:38:26.000Z",
+        "description": "平庸，就是所有邪恶的根本",
+        "id": "3315697506",
+        "location": "Shanghai",
+        "name": "Albert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964905857822359552/fKBz5dCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 406,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1889
+        },
+        "username": "wntwang",
+        "verified": false
+      }
+    ]
+  }
+}

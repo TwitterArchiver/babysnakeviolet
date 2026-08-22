@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1997872401858830697",
+    "created_at": "2025-12-08T09:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997965100532269122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808697284206678016",
+          "start": 0,
+          "username": "D1nn2r_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997965100532269122",
+    "in_reply_to_user_id": "1808697284206678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997872401858830697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1nn2r_8964 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1997872401858830697",
+        "created_at": "2025-12-08T09:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997965100532269122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808697284206678016",
+              "start": 0,
+              "username": "D1nn2r_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997965100532269122",
+        "in_reply_to_user_id": "1808697284206678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997872401858830697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1nn2r_8964 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808697284206678016",
+        "conversation_id": "1997872401858830697",
+        "created_at": "2025-12-08T03:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T04:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997872401858830697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997872401858830697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天像社会实验一样的骚扰列表\n男的叫爸爸 女的叫妈妈\n我要看看他们多久会受不了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 347,
+          "like_count": 1621,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1378
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学 月厨/没有性别和性取向 老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费） 欢迎找我玩！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Dinnerstuff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d1nn2rstuff",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d1nn2rstuff",
+                "start": 0,
+                "url": "https://t.co/2o3aabZr7h"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "Auckland, New Zealand",
+        "name": "D1nn2r Stuff🇳🇿8964（苦命煮饭婆",
+        "pinned_tweet_id": "1967842252434313226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 956,
+          "like_count": 8948,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/2o3aabZr7h",
+        "username": "D1nn2r_8964",
+        "verified": false
+      }
+    ]
+  }
+}

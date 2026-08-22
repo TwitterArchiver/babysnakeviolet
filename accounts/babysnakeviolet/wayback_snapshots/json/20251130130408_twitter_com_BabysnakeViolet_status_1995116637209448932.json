@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995116637209448932",
+    "created_at": "2025-11-30T13:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T14:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995116637209448932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/brokenqaq/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/brokenqaq/status/1995012321266335918",
+          "start": 49,
+          "url": "https://t.co/H71Br7JSLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995116637209448932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 314,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995012321266335918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以前有两个客人开价是一个\n月一万，但是要我跟着他们住，还不能继续上班，一群穷逼，鸡都嫖不起了。 https://t.co/H71Br7JSLT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995116637209448932",
+        "created_at": "2025-11-30T13:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995116637209448932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brokenqaq/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/brokenqaq/status/1995012321266335918",
+              "start": 49,
+              "url": "https://t.co/H71Br7JSLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995116637209448932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995012321266335918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前有两个客人开价是一个\n月一万，但是要我跟着他们住，还不能继续上班，一群穷逼，鸡都嫖不起了。 https://t.co/H71Br7JSLT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631216897151881216",
+        "conversation_id": "1995012321266335918",
+        "created_at": "2025-11-30T06:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995012321266335918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995012321266335918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22303,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我以前一直以为包养一个月3w➕很正常 现在才发现其实算是比较高的数字了\n原来包养不是全部都每天全天候陪伴啊 一个月有个三四天就行 🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 289,
+          "like_count": 1448,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1285
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T08:56:41.000Z",
+        "description": "06大二｜私信只回复过门口令｜喜欢我请给我钱｜只玩推特其余平台一律不玩｜熟人刷到请闭嘴｜盗我图死全家倒霉一辈子",
+        "id": "1631216897151881216",
+        "location": "🚪128/520/1314",
+        "name": "QQ企鹅",
+        "pinned_tweet_id": "1942137272419471571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915316623843745794/G_iNzt5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39711,
+          "following_count": 217,
+          "like_count": 3164,
+          "listed_count": 98,
+          "media_count": 687,
+          "tweet_count": 2335
+        },
+        "username": "brokenqaq",
+        "verified": false
+      }
+    ]
+  }
+}

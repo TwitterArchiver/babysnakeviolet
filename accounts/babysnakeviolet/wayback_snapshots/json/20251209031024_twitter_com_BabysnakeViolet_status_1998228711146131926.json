@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1997975558484074792",
+    "created_at": "2025-12-09T03:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T04:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998228711146131926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998228711146131926",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997975558484074792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 我幻视我初中喜欢的男孩了，天呐你好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3666,
+        "height": 1280,
+        "media_key": "13_1997975504604041216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997975504604041216/img/usZur5JJaGUmS8JA.jpg",
+        "public_metrics": {
+          "view_count": 233
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997975504604041216/vid/avc1/320x568/aniAR35Y2VDggfuq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997975504604041216/vid/avc1/480x852/aYU071ohDutNO9jR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997975504604041216/vid/avc1/720x1280/wD5wxvviQWC4Ah4H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997975504604041216/pl/hjCfB9jh-y_JbjSO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1997975558484074792",
+        "created_at": "2025-12-09T03:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T04:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998228711146131926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998228711146131926",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997975558484074792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 我幻视我初中喜欢的男孩了，天呐你好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997975504604041216"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "1997975558484074792",
+        "created_at": "2025-12-08T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997975558484074792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbAVPWRsEQ",
+              "end": 23,
+              "expanded_url": "https://x.com/DKR_World/status/1997975558484074792/video/1",
+              "media_key": "13_1997975504604041216",
+              "start": 0,
+              "url": "https://t.co/tbAVPWRsEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997975558484074792",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 717,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tbAVPWRsEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 349,
+          "like_count": 1633,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1388
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "自我破壊と相互扶助の連帯の集団の下で、短命なコミューンを築こう！ 最後の指令：すべてと一緒に滅びろ。これは革命家と彼女の恋愛だ。◆🚪52/101/188",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "1997270794100187354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996156993913176065/lTegZg-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 719,
+          "like_count": 37585,
+          "listed_count": 9,
+          "media_count": 443,
+          "tweet_count": 5401
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

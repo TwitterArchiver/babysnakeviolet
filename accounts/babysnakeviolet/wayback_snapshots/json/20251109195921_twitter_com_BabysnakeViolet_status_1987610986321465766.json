@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987403609236287658",
+    "created_at": "2025-11-09T19:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T20:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987610986321465766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987610986321465766",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987403609236287658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 我操.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987403609236287658",
+        "created_at": "2025-11-09T19:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T20:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987610986321465766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987610986321465766",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987403609236287658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 我操.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1987403609236287658",
+        "created_at": "2025-11-09T06:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987403609236287658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987403609236287658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要是死了李君豪就是杀人犯，记住了，他是杀人犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 236,
+          "like_count": 554,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 851
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig：hara_kawa1｜谢谢你的视奸｜和你想象中不一样很抱歉｜现充版本@luobodoul｜长期招募门哥门姐中…门槛128/388/520/1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "luobodoul"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "0.2km",
+        "name": "视奸我畏惧我",
+        "pinned_tweet_id": "1987600146532814995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987122716336660482/9ZCTyZoE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8532,
+          "following_count": 527,
+          "like_count": 4389,
+          "listed_count": 12,
+          "media_count": 661,
+          "tweet_count": 3416
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

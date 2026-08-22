@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2008064275974332688",
+    "created_at": "2026-01-06T00:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T01:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008336566515601615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "ZJURsNvP5K25665"
+        },
+        {
+          "end": 33,
+          "id": "1981563709102477312",
+          "start": 17,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008336566515601615",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008317044261781749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZJURsNvP5K25665 @yui804275429451 女神我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2008064275974332688",
+        "created_at": "2026-01-06T00:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008336566515601615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "ZJURsNvP5K25665"
+            },
+            {
+              "end": 33,
+              "id": "1981563709102477312",
+              "start": 17,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008336566515601615",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008317044261781749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZJURsNvP5K25665 @yui804275429451 女神我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2008064275974332688",
+        "created_at": "2026-01-05T23:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T00:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008317044261781749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 33,
+              "id": "1981563709102477312",
+              "start": 17,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008317044261781749",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008276407076745601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @yui804275429451 412701200208121055\n这个好像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 397,
+          "like_count": 1819,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 1516
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大御神\n@wwwjssns 这是我的契约者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "wwwjssns"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007848835134226432/jx9VTAP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 939,
+          "like_count": 14038,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1619
+        },
+        "username": "ZJURsNvP5K25665",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2635,
+          "following_count": 595,
+          "like_count": 1890,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 824
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

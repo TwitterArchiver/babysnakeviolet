@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2050595378702266668",
+    "created_at": "2026-05-02T19:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T20:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050654974078837241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050654974078837241",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050595378702266668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 我是农村小子pr是富家小姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2050595378702266668",
+        "created_at": "2026-05-02T19:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T20:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050654974078837241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050654974078837241",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050595378702266668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 我是农村小子pr是富家小姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "2050595378702266668",
+        "created_at": "2026-05-02T15:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050595378702266668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/overdose_six/status/2050105628379783544",
+              "start": 17,
+              "url": "https://t.co/Zr24TVGEa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050595378702266668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050105628379783544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "pr也变成我高攀不起的东西了。。 https://t.co/Zr24TVGEa1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 539,
+          "like_count": 2550,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1894
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券 负能 自言自语\n酷拉皮卡梦女\n被b了活该\n💊🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱",
+        "name": "回木",
+        "pinned_tweet_id": "2028842327134077389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 792,
+          "like_count": 29944,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 7912
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

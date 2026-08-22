@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990353010434937221",
+    "created_at": "2025-11-18T12:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T13:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990754825890648109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985751779821436929",
+          "start": 0,
+          "username": "yezhiiovo"
+        },
+        {
+          "end": 23,
+          "id": "1513898402366439427",
+          "start": 11,
+          "username": "Amaya_11ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990754825890648109",
+    "in_reply_to_user_id": "1985751779821436929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990355435447324770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezhiiovo @Amaya_11ovo 好厨子一段话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990353010434937221",
+        "created_at": "2025-11-18T12:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990754825890648109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985751779821436929",
+              "start": 0,
+              "username": "yezhiiovo"
+            },
+            {
+              "end": 23,
+              "id": "1513898402366439427",
+              "start": 11,
+              "username": "Amaya_11ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990754825890648109",
+        "in_reply_to_user_id": "1985751779821436929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990355435447324770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezhiiovo @Amaya_11ovo 好厨子一段话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985751779821436929",
+        "conversation_id": "1990353010434937221",
+        "created_at": "2025-11-17T09:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990355435447324770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513898402366439427",
+              "start": 0,
+              "username": "Amaya_11ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990355435447324770",
+        "in_reply_to_user_id": "1513898402366439427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2623,
+          "like_count": 112,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990353010434937221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amaya_11ovo 哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！入🚪默认不退本人高p",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 281,
+          "like_count": 1340,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1143
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T16:51:42.000Z",
+        "description": "意识开始蘑菇力....../喜欢萌妹子们和我互动qwq/我头像都这么猎奇了我发啥都不足为惧！",
+        "id": "1985751779821436929",
+        "location": "九号房间",
+        "name": "纯情鼠宝火辣辣",
+        "pinned_tweet_id": "1989678356716294355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989583462475718656/dIIU4w9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 59,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 285
+        },
+        "username": "yezhiiovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:14:50.000Z",
+        "description": "可以脆弱可以是不完美的//男的别私信🤗",
+        "id": "1513898402366439427",
+        "location": "抱抱",
+        "name": "烦烦",
+        "pinned_tweet_id": "1989400290320421039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986441853252870144/k8sqxodJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 297,
+          "like_count": 2530,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1502
+        },
+        "username": "Amaya_11ovo",
+        "verified": false
+      }
+    ]
+  }
+}

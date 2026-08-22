@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2050056280820359636",
+    "created_at": "2026-05-01T06:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T07:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050097079436079277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031852608684769280",
+          "start": 0,
+          "username": "Kiyumi_kamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050097079436079277",
+    "in_reply_to_user_id": "2031852608684769280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050056280820359636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyumi_kamisama 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10566,
+        "height": 1280,
+        "media_key": "13_2050056151493124096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050056151493124096/img/jFpCCKMW2w8Wnmee.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050056151493124096/vid/avc1/320x568/cywJFtOeyhqp0L33.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050056151493124096/vid/avc1/480x852/h38eG0KVWI3rV2_Z.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050056151493124096/vid/avc1/720x1280/R51lT-wkzLH5feAC.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050056151493124096/pl/TXo3aCcKMYjeBwjh.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2050056280820359636",
+        "created_at": "2026-05-01T06:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050097079436079277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031852608684769280",
+              "start": 0,
+              "username": "Kiyumi_kamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050097079436079277",
+        "in_reply_to_user_id": "2031852608684769280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050056280820359636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyumi_kamisama 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050056151493124096"
+          ]
+        },
+        "author_id": "2031852608684769280",
+        "conversation_id": "2050056280820359636",
+        "created_at": "2026-05-01T03:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050056280820359636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GM1nGdXGa",
+              "end": 34,
+              "expanded_url": "https://x.com/Kiyumi_kamisama/status/2050056280820359636/video/1",
+              "media_key": "13_2050056151493124096",
+              "start": 11,
+              "url": "https://t.co/6GM1nGdXGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050056280820359636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个美颜怎么这么傻逼 https://t.co/6GM1nGdXGa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 524,
+          "like_count": 2360,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1858
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T22:00:35.000Z",
+        "description": "Kiyumi/0121/躁郁/焦虑/被害妄想/overdose/清水推/不聊骚努力活着中/第n世就只有这个号现在在用/顺女/不想被说像任何人/(´-ω-`)@ljiy142044/小号 @XKiyumikawaiiX\n🚪188/288/588/888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "ljiy142044"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "XKiyumikawaiiX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kiyumi_sama",
+                "end": 23,
+                "expanded_url": "http://t.me/Kiyumi_sama",
+                "start": 0,
+                "url": "https://t.co/9MlOdIFbRP"
+              }
+            ]
+          }
+        },
+        "id": "2031852608684769280",
+        "location": "天空",
+        "name": "Kiyumi",
+        "pinned_tweet_id": "2038042420907307315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049779732066295808/ycziCq0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 34,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/9MlOdIFbRP",
+        "username": "Kiyumi_kamisama",
+        "verified": false
+      }
+    ]
+  }
+}

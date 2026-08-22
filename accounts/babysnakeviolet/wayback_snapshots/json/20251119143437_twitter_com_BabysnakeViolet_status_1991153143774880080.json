@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990931366285025532",
+    "created_at": "2025-11-19T14:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T15:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991153143774880080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        },
+        {
+          "end": 20,
+          "id": "1975516163078594560",
+          "start": 9,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991153143774880080",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991132840730247580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo @Freundis21 有精神病性症状的焦虑是不是不能玩lsd😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990931366285025532",
+        "created_at": "2025-11-19T14:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991153143774880080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            },
+            {
+              "end": 20,
+              "id": "1975516163078594560",
+              "start": 9,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991153143774880080",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991132840730247580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo @Freundis21 有精神病性症状的焦虑是不是不能玩lsd😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1990931366285025532",
+        "created_at": "2025-11-19T13:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991132840730247580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991132840730247580",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990931366285025532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 lsd很好带吧我感觉成功率贼高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病入门默认不退，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 284,
+          "like_count": 1351,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1173
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛躁郁圣体❤️绝赞病b小心染病❤️同类fo必回-漏fo请私-爱互关宝宝❤️点赞评论bot-讨厌不熟的人闲聊♡喜欢sex与drug♡不提供任何咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 886,
+          "like_count": 3039,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2060
+        },
+        "username": "Numiouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物｜女性｜INFJ｜坐标布达佩斯/四川｜友同友跨｜此账号包括：废话、自残图片、药物滥用。直关无言抱歉，可互fo",
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 209,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 512
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

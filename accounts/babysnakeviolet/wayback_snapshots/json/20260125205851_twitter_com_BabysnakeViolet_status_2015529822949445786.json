@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2015434070860472667",
+    "created_at": "2026-01-25T20:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T21:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015529822949445786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1576280228090957824",
+          "start": 0,
+          "username": "doms0779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015529822949445786",
+    "in_reply_to_user_id": "1576280228090957824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015436597760795068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doms0779 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2015436589292503040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hE5lQawAAZAQ8.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2015434070860472667",
+        "created_at": "2026-01-25T20:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T21:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015529822949445786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1576280228090957824",
+              "start": 0,
+              "username": "doms0779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015529822949445786",
+        "in_reply_to_user_id": "1576280228090957824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015436597760795068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doms0779 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015436589292503040"
+          ]
+        },
+        "author_id": "1576280228090957824",
+        "conversation_id": "2015434070860472667",
+        "created_at": "2026-01-25T14:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015436597760795068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9ruF0a2FH",
+              "end": 40,
+              "expanded_url": "https://x.com/doms0779/status/2015436597760795068/photo/1",
+              "media_key": "3_2015436589292503040",
+              "start": 17,
+              "url": "https://t.co/q9ruF0a2FH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015436597760795068",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015434070860472667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet https://t.co/q9ruF0a2FH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 423,
+          "like_count": 2068,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1639
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T18:37:59.000Z",
+        "description": "直男 评论被吞 私信找我玩",
+        "id": "1576280228090957824",
+        "location": "广西北海",
+        "name": "我不是变态",
+        "pinned_tweet_id": "1752275083173986727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732472442185281540/LL_V2lcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 525,
+          "like_count": 11514,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 4352
+        },
+        "username": "doms0779",
+        "verified": false
+      }
+    ]
+  }
+}

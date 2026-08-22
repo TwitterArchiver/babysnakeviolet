@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2012161438526116336",
+    "created_at": "2026-01-18T02:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012719579806491007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1298038130063208449",
+          "start": 0,
+          "username": "yayadezahuopu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012719579806491007",
+    "in_reply_to_user_id": "1298038130063208449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012161438526116336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayadezahuopu_ 求黑幕鸭鸭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_2012161375116857344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yiHBqaEAA4XZq.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2012161438526116336",
+        "created_at": "2026-01-18T02:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012719579806491007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1298038130063208449",
+              "start": 0,
+              "username": "yayadezahuopu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012719579806491007",
+        "in_reply_to_user_id": "1298038130063208449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012161438526116336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayadezahuopu_ 求黑幕鸭鸭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012161375116857344"
+          ]
+        },
+        "author_id": "1298038130063208449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012161438526116336",
+        "created_at": "2026-01-16T13:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012161438526116336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sM1TgCspiQ",
+              "end": 127,
+              "expanded_url": "https://x.com/yayadezahuopu_/status/2012161438526116336/photo/1",
+              "media_key": "3_2012161375116857344",
+              "start": 104,
+              "url": "https://t.co/sM1TgCspiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012161438526116336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16324,
+          "like_count": 95,
+          "quote_count": 7,
+          "reply_count": 253,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "转发➕评论，抽一个人任选一个玩具\n学生们应该都放假了吧！\n送一个对象过寒假！（男同女用都有）\n店里的玩具都有优惠的！\n可以和客服说推特来的\n有比我低的，找客服给改价格！\n（有的瞎写价格的确实比不了，赔死了） https://t.co/sM1TgCspiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 426,
+          "like_count": 2024,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1609
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T23:23:11.000Z",
+        "description": "小玩具淘宝店：鸭鸭的杂货铺，可以发全球🌍，可以微信购买，需要推荐请私信，找客服说推特来的给大家优惠！！！有比我便宜，我就改价格，找我买吧！拜托拜托",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.UuRchai",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.UuRchai",
+                "start": 0,
+                "url": "https://t.co/Ts2WoiNFHb"
+              }
+            ]
+          }
+        },
+        "id": "1298038130063208449",
+        "location": "一爱情侣，玩具由女朋友测评，说性骚扰请举证",
+        "name": "🍑：鸭鸭的杂货铺（送对象，送优惠）",
+        "pinned_tweet_id": "2012161438526116336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800053920905244672/fWXFshAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30618,
+          "following_count": 4017,
+          "like_count": 92758,
+          "listed_count": 37,
+          "media_count": 1223,
+          "tweet_count": 44224
+        },
+        "url": "https://t.co/Ts2WoiNFHb",
+        "username": "yayadezahuopu_",
+        "verified": true
+      }
+    ]
+  }
+}

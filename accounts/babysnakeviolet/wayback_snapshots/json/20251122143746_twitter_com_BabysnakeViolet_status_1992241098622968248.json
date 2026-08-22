@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1992223570563596777",
+    "created_at": "2025-11-22T14:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992241098622968248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808697284206678016",
+          "start": 0,
+          "username": "D1nn2r_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992241098622968248",
+    "in_reply_to_user_id": "1808697284206678016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992223570563596777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D1nn2r_8964 香气吐我脸上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6500,
+        "height": 1280,
+        "media_key": "13_1992223512220856320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992223512220856320/img/66IkEejMHPX9jN7X.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992223512220856320/vid/avc1/320x568/BAWPMrxnTcyCzdod.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992223512220856320/vid/avc1/480x852/xtDJP84jPaKG0iwU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992223512220856320/vid/avc1/720x1280/QeR0DR_Xib6ubRAx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992223512220856320/pl/jmL19TBExqKNrHjW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1992223570563596777",
+        "created_at": "2025-11-22T14:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992241098622968248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808697284206678016",
+              "start": 0,
+              "username": "D1nn2r_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992241098622968248",
+        "in_reply_to_user_id": "1808697284206678016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992223570563596777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D1nn2r_8964 香气吐我脸上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992223512220856320"
+          ]
+        },
+        "author_id": "1808697284206678016",
+        "conversation_id": "1992223570563596777",
+        "created_at": "2025-11-22T13:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992223570563596777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oseLDFGhEW",
+              "end": 35,
+              "expanded_url": "https://x.com/D1nn2r_8964/status/1992223570563596777/video/1",
+              "media_key": "13_1992223512220856320",
+              "start": 12,
+              "url": "https://t.co/oseLDFGhEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992223570563596777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一次两根（烟）初体验😎 https://t.co/oseLDFGhEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病不怎么会聊天抗压能力非常差，入门默认不退，所有女孩都可以找我帮你转发自介，不用帮我转。🥰",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1991500582067269666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 284,
+          "like_count": 1401,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1210
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T03:00:22.000Z",
+        "description": "UoA🇳🇿环境科学/动物学 月厨/没有性别和性取向 老号@EeyoreYan 小号：@Dinnerstuff🚪：89.64（聊得来免费）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "EeyoreYan"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Dinnerstuff"
+              }
+            ]
+          }
+        },
+        "id": "1808697284206678016",
+        "location": "纽村中南海",
+        "name": "D1nn2r Stuff🇳🇿8964（苦命煮饭婆",
+        "pinned_tweet_id": "1967842252434313226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874622533544353793/adP8-2Gp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 898,
+          "like_count": 8525,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3794
+        },
+        "username": "D1nn2r_8964",
+        "verified": false
+      }
+    ]
+  }
+}

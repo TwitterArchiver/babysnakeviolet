@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989216721438404780",
+    "created_at": "2025-11-15T03:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989530428232143307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916906286362603520",
+          "start": 0,
+          "username": "8964tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989530428232143307",
+    "in_reply_to_user_id": "1916906286362603520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989216721438404780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tv 不死不死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989216721438404780",
+        "created_at": "2025-11-15T03:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989530428232143307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989530428232143307",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989216721438404780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv 不死不死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916906286362603520",
+        "conversation_id": "1989216721438404780",
+        "created_at": "2025-11-14T06:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989216721438404780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989216721438404780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "集美们我又想死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！主页推广请注意分辨！入门请私信！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 275,
+          "like_count": 1219,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1068
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "郭楠巨婴精神病生活不能自理",
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "1988335412331618589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988332578190065664/zfRBwvK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 44,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 153
+        },
+        "username": "8964tv",
+        "verified": false
+      }
+    ]
+  }
+}

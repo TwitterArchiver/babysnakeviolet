@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1985897864082665980",
+    "created_at": "2025-11-05T02:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985897881568755780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985897881568755780",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985897878209061198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是极度的自卑和自负的，我会觉得自己很卑微渺小但是同时我也觉得自己是一个非常厉害的人，我以前的帖子就说过，我想要一种死亡也无法分割的爱，我想要一种非凡...我还蛮期待重新开展一次恋情的，但是，抛开我的曾经来说，现在的我，真的能和一个健全的，普通的男孩恋爱结婚吗..我不知道，也许呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985897864082665980",
+        "created_at": "2025-11-05T02:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985897881568755780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985897881568755780",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985897878209061198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是极度的自卑和自负的，我会觉得自己很卑微渺小但是同时我也觉得自己是一个非常厉害的人，我以前的帖子就说过，我想要一种死亡也无法分割的爱，我想要一种非凡...我还蛮期待重新开展一次恋情的，但是，抛开我的曾经来说，现在的我，真的能和一个健全的，普通的男孩恋爱结婚吗..我不知道，也许呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1985897864082665980",
+        "created_at": "2025-11-05T02:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985897878209061198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985897878209061198",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985897875344408585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前有个客人曾认真的安慰我，在我给他口交之后，他说我看起来总是很难过和别的技师不一样，叫我挣够钱了就上岸吧，离开这里找个老实男人结婚。可我不是那样的人，我虽然有时候很讨厌但我做不出找老实人接盘这种事情，我也不知道我在清高什么，也不是说我不做就证明我有良知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，\n叫我小蛇，DDLG，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 234,
+          "like_count": 528,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 809
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

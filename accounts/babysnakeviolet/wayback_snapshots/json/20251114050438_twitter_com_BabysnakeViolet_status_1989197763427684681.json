@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989197763427684681",
+    "created_at": "2025-11-14T05:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T06:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989197763427684681"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1989185314821403079",
+          "start": 76,
+          "url": "https://t.co/0piOCQnv4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989197763427684681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989185314821403079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想，伤害任何一个人，从头到尾我做错的唯一一件事就是被你胁迫说出了那句话，导致我伤害了一个女孩。我给你道了无数句歉，哪怕我根本都不知道我做错了什么。 https://t.co/0piOCQnv4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2224,
+        "media_key": "3_1989185310748790784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sBgD-bUAAkcMQ.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989185311482707968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sBgGtaAAAwvSj.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989197763427684681",
+        "created_at": "2025-11-14T05:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989197763427684681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1989185314821403079",
+              "start": 76,
+              "url": "https://t.co/0piOCQnv4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989197763427684681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989185314821403079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想，伤害任何一个人，从头到尾我做错的唯一一件事就是被你胁迫说出了那句话，导致我伤害了一个女孩。我给你道了无数句歉，哪怕我根本都不知道我做错了什么。 https://t.co/0piOCQnv4y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989185310748790784",
+            "3_1989185311482707968"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989185314821403079",
+        "created_at": "2025-11-14T04:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989185314821403079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QcSFQ80pE",
+              "end": 122,
+              "expanded_url": "https://x.com/y0zarashi/status/1989185314821403079/photo/1",
+              "media_key": "3_1989185310748790784",
+              "start": 99,
+              "url": "https://t.co/4QcSFQ80pE"
+            },
+            {
+              "display_url": "pic.x.com/4QcSFQ80pE",
+              "end": 122,
+              "expanded_url": "https://x.com/y0zarashi/status/1989185314821403079/photo/1",
+              "media_key": "3_1989185311482707968",
+              "start": 99,
+              "url": "https://t.co/4QcSFQ80pE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185314821403079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真给吴思嫣的妓女闺蜜恶心到了，直播敲门，吴思嫣可以叫着我的名字当AV女优出道给其他男人，操那是因为我跟吴思嫣有关系。我他妈根本就不认识赵婧妤，你赵婧妤只是吴思嫣闺蜜有什么资格打着我的名号去卖逼？ https://t.co/4QcSFQ80pE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989023604248584331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 275,
+          "like_count": 1226,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1065
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mtf  不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。",
+        "id": "1811690667720212480",
+        "location": "我被吴思嫣绿了",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1988859428183892376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173282617323535/gFc0LSIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 110,
+          "like_count": 26,
+          "listed_count": 6,
+          "media_count": 529,
+          "tweet_count": 3072
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

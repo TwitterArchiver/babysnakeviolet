@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2048014398942540029",
+    "created_at": "2026-04-25T14:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048047576025542711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048047576025542711",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048014398942540029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 思思天使"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2048014394702090240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwCPbsa0AAQuNI.jpg",
+        "width": 1504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-25T14:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048047576025542711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048047576025542711",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048014398942540029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 思思天使"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048014394702090240"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-25T12:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048014398942540029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cs34i6xzpC",
+              "end": 120,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2048014398942540029/photo/1",
+              "media_key": "3_2048014394702090240",
+              "start": 97,
+              "url": "https://t.co/Cs34i6xzpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048014398942540029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在日本的家人们可以免费找我心理咨询\n我在东京 日暮里那边\n电话09041194639\nQQ 996067412\n邮箱spicyspace@gmail.com\n这是联系方式\n也可以直接私信DM我 https://t.co/Cs34i6xzpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 490,
+          "like_count": 2156,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1820
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 1450,
+          "like_count": 94553,
+          "listed_count": 5,
+          "media_count": 786,
+          "tweet_count": 9574
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

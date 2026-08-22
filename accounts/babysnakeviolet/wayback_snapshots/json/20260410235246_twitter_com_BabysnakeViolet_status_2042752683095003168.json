@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2042752674110803969"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "2042389082605830394",
+    "created_at": "2026-04-10T23:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042752683095003168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1439530928494186499",
+          "start": 0,
+          "username": "noose_die"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B56IiWxmJf",
+          "end": 41,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/2042752683095003168/photo/1",
+          "media_key": "16_2042752674110803969",
+          "start": 18,
+          "url": "https://t.co/B56IiWxmJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042752683095003168",
+    "in_reply_to_user_id": "1439530928494186499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042389082605830394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noose_die 宝宝你也太萌 https://t.co/B56IiWxmJf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "16_2042752674110803969",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFlQu_BakAEZe9j.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFlQu_BakAEZe9j.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042389071700570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgGCifaMAAF_rs.jpg",
+        "width": 1630
+      },
+      {
+        "height": 1816,
+        "media_key": "3_2042389071688065024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgGCicbYAAumSh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042389071717376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgGCijaoAAfiDs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2042752674110803969"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "2042389082605830394",
+        "created_at": "2026-04-10T23:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042752683095003168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1439530928494186499",
+              "start": 0,
+              "username": "noose_die"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B56IiWxmJf",
+              "end": 41,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2042752683095003168/photo/1",
+              "media_key": "16_2042752674110803969",
+              "start": 18,
+              "url": "https://t.co/B56IiWxmJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042752683095003168",
+        "in_reply_to_user_id": "1439530928494186499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042389082605830394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noose_die 宝宝你也太萌 https://t.co/B56IiWxmJf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042389071700570112",
+            "3_2042389071688065024",
+            "3_2042389071717376000"
+          ]
+        },
+        "author_id": "1439530928494186499",
+        "conversation_id": "2042389082605830394",
+        "created_at": "2026-04-09T23:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042389082605830394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95oH6ABvBE",
+              "end": 104,
+              "expanded_url": "https://x.com/noose_die/status/2042389082605830394/photo/1",
+              "media_key": "3_2042389071700570112",
+              "start": 81,
+              "url": "https://t.co/95oH6ABvBE"
+            },
+            {
+              "display_url": "pic.x.com/95oH6ABvBE",
+              "end": 104,
+              "expanded_url": "https://x.com/noose_die/status/2042389082605830394/photo/1",
+              "media_key": "3_2042389071688065024",
+              "start": 81,
+              "url": "https://t.co/95oH6ABvBE"
+            },
+            {
+              "display_url": "pic.x.com/95oH6ABvBE",
+              "end": 104,
+              "expanded_url": "https://x.com/noose_die/status/2042389082605830394/photo/1",
+              "media_key": "3_2042389071717376000",
+              "start": 81,
+              "url": "https://t.co/95oH6ABvBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042389082605830394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2824,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是小白\n୨୧  地雷系｜量產型｜水色｜Cos\n୨୧  躁鬱｜情緒不安定｜自殘\n୨୧  喜歡台搖和日搖，貝斯新手\n୨୧  深坑哈利波特\n୨୧  只回fo女孩子！ https://t.co/95oH6ABvBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 435,
+          "like_count": 1997,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 1742
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T10:05:14.000Z",
+        "description": "屁眼",
+        "id": "1439530928494186499",
+        "name": "白",
+        "pinned_tweet_id": "2042389082605830394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018638571079692288/bkVg3lYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 95,
+          "like_count": 1303,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 208
+        },
+        "username": "noose_die",
+        "verified": false
+      }
+    ]
+  }
+}

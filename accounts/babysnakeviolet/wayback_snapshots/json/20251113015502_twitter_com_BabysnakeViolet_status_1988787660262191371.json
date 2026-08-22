@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988787660262191371",
+    "created_at": "2025-11-13T01:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T02:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988787660262191371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879214313308868609",
+          "start": 3,
+          "username": "Mitang_ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988787660262191371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979383796240912899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mitang_ouo: 发一个新置顶！这里是米汤！\n整理了之前门哥对我的一些评价和一点点小日常，遇到了很多很好很善良的门哥，也希望有新门哥愿意认识我来和我交朋友😽\nଘ*⑅┈┈⋆°˖ ┈┈ ୨୧┈┈°⋆┈┈⑅*ଓ\n简介和门槛在p1，可能有一点啰嗦，但还是请有入门想法的宝宝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988787660262191371].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988787660262191371",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988787660262191371"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979383763533484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gvC7OW0AAoMwx.jpg",
+        "width": 1851
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979383764112302080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gvC9YW4AAUAXC.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1818,
+        "media_key": "3_1979383767706841088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gvDKxXMAAdAzq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979383768067518464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3gvDMHWsAAGcwZ.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979383763533484032",
+            "3_1979383764112302080",
+            "3_1979383767706841088",
+            "3_1979383768067518464"
+          ]
+        },
+        "author_id": "1879214313308868609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979383796240912899",
+        "created_at": "2025-10-18T03:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979383796240912899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3W1XQ7uwO1",
+              "end": 175,
+              "expanded_url": "https://x.com/Mitang_ouo/status/1979383796240912899/photo/1",
+              "media_key": "3_1979383763533484032",
+              "start": 152,
+              "url": "https://t.co/3W1XQ7uwO1"
+            },
+            {
+              "display_url": "pic.x.com/3W1XQ7uwO1",
+              "end": 175,
+              "expanded_url": "https://x.com/Mitang_ouo/status/1979383796240912899/photo/1",
+              "media_key": "3_1979383764112302080",
+              "start": 152,
+              "url": "https://t.co/3W1XQ7uwO1"
+            },
+            {
+              "display_url": "pic.x.com/3W1XQ7uwO1",
+              "end": 175,
+              "expanded_url": "https://x.com/Mitang_ouo/status/1979383796240912899/photo/1",
+              "media_key": "3_1979383767706841088",
+              "start": 152,
+              "url": "https://t.co/3W1XQ7uwO1"
+            },
+            {
+              "display_url": "pic.x.com/3W1XQ7uwO1",
+              "end": 175,
+              "expanded_url": "https://x.com/Mitang_ouo/status/1979383796240912899/photo/1",
+              "media_key": "3_1979383768067518464",
+              "start": 152,
+              "url": "https://t.co/3W1XQ7uwO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979383796240912899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6540,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "发一个新置顶！这里是米汤！\n整理了之前门哥对我的一些评价和一点点小日常，遇到了很多很好很善良的门哥，也希望有新门哥愿意认识我来和我交朋友😽\nଘ*⑅┈┈⋆°˖ ┈┈ ୨୧┈┈°⋆┈┈⑅*ଓ\n简介和门槛在p1，可能有一点啰嗦，但还是请有入门想法的宝宝仔细看看\np2p3是我的萌萌照片\np4是门哥的评价和日常 https://t.co/3W1XQ7uwO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 264,
+          "like_count": 1049,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1012
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T17:10:00.000Z",
+        "description": "小⭕️贝/m/brat\n鲜衣怒马少年郎 超级无敌米汤王 \n若有门哥入门来 祝你鸡巴十米长(ᐡ т  ̫ т ᐡ)\n                               🚪138/288/520/1314\n 防炸号互转一周清一次可以找我重新转！",
+        "id": "1879214313308868609",
+        "location": "恩师∶孙笑川",
+        "name": "米汤大王（unity我草泥马）",
+        "pinned_tweet_id": "1979383796240912899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982847588891025408/3c_LEPQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 945,
+          "like_count": 1581,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 698
+        },
+        "username": "Mitang_ouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2049512640087822795",
+    "created_at": "2026-05-01T04:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050070861072548235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_kuma"
+        },
+        {
+          "end": 32,
+          "id": "1531874456997863424",
+          "start": 16,
+          "username": "youhappynohappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050070861072548235",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049512640087822795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_kuma @youhappynohappy 你觉得这个可行吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2049512640087822795",
+        "created_at": "2026-05-01T04:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050070861072548235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 32,
+              "id": "1531874456997863424",
+              "start": 16,
+              "username": "youhappynohappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050070861072548235",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049512640087822795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @youhappynohappy 你觉得这个可行吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557839863151337473",
+        "conversation_id": "2049512640087822795",
+        "created_at": "2026-04-29T15:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049512640087822795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scutigera_kuma…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/scutigera_kuma/status/2049233377874833501",
+              "start": 12,
+              "url": "https://t.co/rvW7FIrJqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049512640087822795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8606,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049233377874833501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想卖这个但是只卖熟人 https://t.co/rvW7FIrJqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 524,
+          "like_count": 2340,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1854
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 3524,
+          "like_count": 34262,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 9119
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "人生且当黄粱梦，了却人间千古愁。",
+        "id": "1531874456997863424",
+        "location": "尖沙咀铁锅炖大鹅",
+        "name": "不开心就不开心呗",
+        "pinned_tweet_id": "2046962410335154653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045177151373377536/WYIiopRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 177,
+          "like_count": 14789,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 613
+        },
+        "username": "youhappynohappy",
+        "verified": false
+      }
+    ]
+  }
+}

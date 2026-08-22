@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2054774061394444780",
+    "created_at": "2026-05-14T04:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054774886254731517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054774886254731517",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054774061394444780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我的青春期。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2054774061394444780",
+        "created_at": "2026-05-14T04:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054774886254731517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054774886254731517",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054774061394444780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的青春期。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2054774061394444780",
+        "created_at": "2026-05-14T04:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054774061394444780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054774061394444780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个家里没有你的房间，这不是你家，我宁可从没生过你，还想要钱过生日？老子辛辛苦苦受罪生的你怎么没人给我钱，你凭什么锁门，爸爸妈妈吃饭的时候批评你是为你好，你不想吃就去饿死，滚过来吃饭搞得我虐待你一样，吃吃吃就知道吃从来不心疼妈妈，你看看别人家的孩子，你怎么不去死？你不是我的女儿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 578,
+          "like_count": 2671,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1919
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

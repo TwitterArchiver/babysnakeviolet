@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2001900025681731971",
+    "created_at": "2025-12-19T08:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001936541917254019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849619112533819394",
+          "start": 0,
+          "username": "LongLiveGCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001936541917254019",
+    "in_reply_to_user_id": "1849619112533819394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001924854426239428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LongLiveGCU 阿达西不讲不讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2001900025681731971",
+        "created_at": "2025-12-19T08:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001936541917254019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849619112533819394",
+              "start": 0,
+              "username": "LongLiveGCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001936541917254019",
+        "in_reply_to_user_id": "1849619112533819394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001924854426239428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongLiveGCU 阿达西不讲不讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849619112533819394",
+        "conversation_id": "2001900025681731971",
+        "created_at": "2025-12-19T07:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001924854426239428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001924854426239428",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001900025681731971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 阿达西的脸雄鹰一样呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "叫我小蛇，查成分回fo，只是一个非常颓废失败的女人。\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 382,
+          "like_count": 1766,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 1465
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T01:09:47.000Z",
+        "description": "南岛猴语言能力训练大师，可治膏药，吐口水和乱叫。附赠数据线批发服务，特供鎏金铜头皮带赠品，包治好，若治不好免费换新。目前正在研究如何促进南岛猴脱离吉吉国画报，提升人类语言逻辑内部关联和理解基因的表达。训练对象：@H2RqG8f6Z_731\n附：天阉太监们别看关注列表了，daddy的身体很健康，跟你们不一样",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "H2RqG8f6Z_731"
+              }
+            ]
+          }
+        },
+        "id": "1849619112533819394",
+        "location": "爱猴TV拍摄地",
+        "name": "Re:Miklos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853258809441198080/GTUEJZsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 183,
+          "like_count": 31488,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 8683
+        },
+        "username": "LongLiveGCU",
+        "verified": false
+      }
+    ]
+  }
+}

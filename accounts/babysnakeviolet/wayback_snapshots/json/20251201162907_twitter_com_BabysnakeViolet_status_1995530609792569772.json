@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995530609792569772",
+    "created_at": "2025-12-01T16:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T17:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995530609792569772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995530609792569772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刻板印象中的健全人真的是健全人么？我根据从小接受的教育所得出的八字健全箴言是己所不欲勿施于人，但是很明显非常多自称健全的人并没有这项能力，于是我有了这个疑惑，健全人真的健全么？其实我觉得我现实遇到的很多健全人还不如我健全，当然前提是健全的狭义是善良有共情心责任心等伟光正的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995530609792569772",
+        "created_at": "2025-12-01T16:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995530609792569772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995530609792569772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刻板印象中的健全人真的是健全人么？我根据从小接受的教育所得出的八字健全箴言是己所不欲勿施于人，但是很明显非常多自称健全的人并没有这项能力，于是我有了这个疑惑，健全人真的健全么？其实我觉得我现实遇到的很多健全人还不如我健全，当然前提是健全的狭义是善良有共情心责任心等伟光正的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 292,
+          "like_count": 1466,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1293
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

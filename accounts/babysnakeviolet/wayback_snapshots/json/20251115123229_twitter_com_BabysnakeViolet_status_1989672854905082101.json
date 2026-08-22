@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989672851969036288"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989672854905082101",
+    "created_at": "2025-11-15T12:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989672854905082101"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "母狗"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "门槛"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "一日女友"
+        },
+        {
+          "end": 71,
+          "start": 65,
+          "tag": "wataa"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "金主"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "水瑶"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "包养"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "骚逼"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "骚货"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "绿帽"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "奶子"
+        },
+        {
+          "end": 105,
+          "start": 101,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 127,
+          "start": 122,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "陪聊"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "一日女友"
+        },
+        {
+          "end": 141,
+          "start": 138,
+          "tag": "纯绿"
+        },
+        {
+          "end": 145,
+          "start": 142,
+          "tag": "半绿"
+        },
+        {
+          "end": 151,
+          "start": 146,
+          "tag": "电子宠物"
+        },
+        {
+          "end": 157,
+          "start": 152,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 161,
+          "start": 158,
+          "tag": "母狗"
+        },
+        {
+          "end": 174,
+          "start": 163,
+          "tag": "sugardaddy"
+        },
+        {
+          "end": 180,
+          "start": 175,
+          "tag": "反差女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GntIqYclFX",
+          "end": 204,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1989672854905082101/photo/1",
+          "media_key": "3_1989672851969036288",
+          "start": 181,
+          "url": "https://t.co/GntIqYclFX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989672854905082101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "52入门聊天解锁朋友圈，88我会很热情掉落福利，200可定制照片和视频上半身，520下半身 #母狗 #门槛 #门槛妹 #一日女友 #wataa #金主 #水瑶 #包养 #骚逼 #骚货 #绿帽 #奶子  #爸爸活 #妈妈活 #门槛哥  #门槛姐 #金主爸爸 #陪聊 #一日女友 #纯绿 #半绿 #电子宠物 #ATM奴 #母狗  #sugardaddy #反差女友 https://t.co/GntIqYclFX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_1989672851969036288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y86sjaUAAi1lt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989672851969036288"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989672854905082101",
+        "created_at": "2025-11-15T12:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989672854905082101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "母狗"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "一日女友"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "wataa"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "金主"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "水瑶"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "包养"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "骚逼"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "骚货"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "绿帽"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "奶子"
+            },
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "陪聊"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "一日女友"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "纯绿"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "半绿"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "母狗"
+            },
+            {
+              "end": 174,
+              "start": 163,
+              "tag": "sugardaddy"
+            },
+            {
+              "end": 180,
+              "start": 175,
+              "tag": "反差女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GntIqYclFX",
+              "end": 204,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1989672854905082101/photo/1",
+              "media_key": "3_1989672851969036288",
+              "start": 181,
+              "url": "https://t.co/GntIqYclFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989672854905082101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "52入门聊天解锁朋友圈，88我会很热情掉落福利，200可定制照片和视频上半身，520下半身 #母狗 #门槛 #门槛妹 #一日女友 #wataa #金主 #水瑶 #包养 #骚逼 #骚货 #绿帽 #奶子  #爸爸活 #妈妈活 #门槛哥  #门槛姐 #金主爸爸 #陪聊 #一日女友 #纯绿 #半绿 #电子宠物 #ATM奴 #母狗  #sugardaddy #反差女友 https://t.co/GntIqYclFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥语音验证20，如果裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（绿帽媚男女奴露脸露逼版）",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 278,
+          "like_count": 1307,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1119
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

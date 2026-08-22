@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2083828740744995222",
+    "created_at": "2026-08-02T08:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083828740744995222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/star2781054455…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/star27810544557/status/2083814383445287167",
+          "start": 10,
+          "url": "https://t.co/dJGFNUJ1F9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083828740744995222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083814383445287167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特么的口才太牛逼了 https://t.co/dJGFNUJ1F9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2083828740744995222",
+        "created_at": "2026-08-02T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083828740744995222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/star2781054455…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/star27810544557/status/2083814383445287167",
+              "start": 10,
+              "url": "https://t.co/dJGFNUJ1F9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083828740744995222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083814383445287167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特么的口才太牛逼了 https://t.co/dJGFNUJ1F9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-02T07:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083814383445287167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491134477162008576",
+              "start": 0,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083814383445287167",
+        "in_reply_to_user_id": "1491134477162008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InnocentB1tch_ 宝贝从各方面都能看出来你是一个精神错乱的自我阉割者，上赶着给别人贞洁私生活打分结果自己也是个网络卖淫逼，一个母的连鸡巴都没有还搞个这种网名，又开始生殖崇拜了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2083272843933213099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 644,
+          "like_count": 3270,
+          "listed_count": 5,
+          "media_count": 80,
+          "tweet_count": 2121
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 友LGBTQ 如果立场不同请不要关注我 随时销号",
+        "id": "1947765957658873860",
+        "name": "爱国者8964(爱吃逼)",
+        "pinned_tweet_id": "2083571963524690387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 48,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "star27810544557",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1944350816363593915",
+    "created_at": "2025-07-13T13:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944387963770855839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "weiheyaokanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944387963770855839",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944350816363593915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiheyaokanwo 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1944350816363593915",
+        "created_at": "2025-07-13T13:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944387963770855839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "weiheyaokanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944387963770855839",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944350816363593915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiheyaokanwo 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847153221900685312",
+        "conversation_id": "1944350816363593915",
+        "created_at": "2025-07-13T10:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T11:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944350816363593915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944350816363593915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4388,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我未来的老公必须是跟我牵个手都会勃起的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她了 可以来找她互关",
+        "id": "1289504272506392576",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 141,
+          "like_count": 298,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 526
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "病垢/陰キャ 剥离表达欲中//等待中½提问箱: https://t.co/MhyZBZnGpQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noi48823",
+                "end": 47,
+                "expanded_url": "https://ngl.link/noi48823",
+                "start": 24,
+                "url": "https://t.co/MhyZBZnGpQ"
+              }
+            ]
+          }
+        },
+        "id": "1847153221900685312",
+        "location": "门槛188/520 只能跟我成为朋友 不搞黄没有线下",
+        "name": "匿名",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927445670220247040/w5rEe2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 404,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1673
+        },
+        "username": "weiheyaokanwo",
+        "verified": false
+      }
+    ]
+  }
+}

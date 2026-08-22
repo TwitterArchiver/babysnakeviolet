@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1944897196874256543",
+    "created_at": "2025-08-22T06:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T07:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958771122339754436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "955993497613484032",
+          "start": 0,
+          "username": "Al54186939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958771122339754436",
+    "in_reply_to_user_id": "955993497613484032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956499617601945977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Al54186939 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1944897196874256543",
+        "created_at": "2025-08-22T06:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958771122339754436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "955993497613484032",
+              "start": 0,
+              "username": "Al54186939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958771122339754436",
+        "in_reply_to_user_id": "955993497613484032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956499617601945977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Al54186939 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "955993497613484032",
+        "conversation_id": "1944897196874256543",
+        "created_at": "2025-08-15T23:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T00:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956499617601945977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956499617601945977",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944897196874256543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 这张好漂亮好惊艳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1958770649536528567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 154,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 599
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-24T02:39:46.000Z",
+        "description": "",
+        "id": "955993497613484032",
+        "name": "Al",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1007084198211883010/ZinaXagh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 490,
+          "like_count": 98,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 400
+        },
+        "username": "Al54186939",
+        "verified": false
+      }
+    ]
+  }
+}

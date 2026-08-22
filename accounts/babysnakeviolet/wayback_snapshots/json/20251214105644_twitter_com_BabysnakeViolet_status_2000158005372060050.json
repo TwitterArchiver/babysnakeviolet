@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2000158005372060050",
+    "created_at": "2025-12-14T10:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T11:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000158005372060050"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000158005372060050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我很感谢我的门哥，真的是我的衣食父母，但我做的说的远远达不到我想表达出来的，我好希望我能振作一点努力一点去营业，多拍照多化妆打扮自己多和你们聊天，但我真的没力气，24/7躺床上思念普瑞药效，脑子也完全处理不了复杂一点的信息，我恨不得给你们拍磕头视频。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2000158005372060050",
+        "created_at": "2025-12-14T10:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000158005372060050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000158005372060050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我很感谢我的门哥，真的是我的衣食父母，但我做的说的远远达不到我想表达出来的，我好希望我能振作一点努力一点去营业，多拍照多化妆打扮自己多和你们聊天，但我真的没力气，24/7躺床上思念普瑞药效，脑子也完全处理不了复杂一点的信息，我恨不得给你们拍磕头视频。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "你已经尝试了，现在要做的只是躺下然后看看天空。\n查成分回fo，只是一个非常颓废失败的女人。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 367,
+          "like_count": 1705,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 1439
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

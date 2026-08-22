@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2008594433017868709",
+    "created_at": "2026-01-07T20:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T21:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009006759940329529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1659548960938409984",
+          "start": 0,
+          "username": "Lqlnlp7"
+        },
+        {
+          "end": 22,
+          "id": "1678037476068163585",
+          "start": 9,
+          "username": "tamako_0406_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009006759940329529",
+    "in_reply_to_user_id": "1659548960938409984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009005808051527862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lqlnlp7 @tamako_0406_ 我操了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2008594433017868709",
+        "created_at": "2026-01-07T20:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009006759940329529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1659548960938409984",
+              "start": 0,
+              "username": "Lqlnlp7"
+            },
+            {
+              "end": 22,
+              "id": "1678037476068163585",
+              "start": 9,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009006759940329529",
+        "in_reply_to_user_id": "1659548960938409984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009005808051527862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lqlnlp7 @tamako_0406_ 我操了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659548960938409984",
+        "conversation_id": "2008594433017868709",
+        "created_at": "2026-01-07T20:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009005808051527862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 30,
+              "id": "1678037476068163585",
+              "start": 17,
+              "username": "tamako_0406_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009005808051527862",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009001575789088838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @tamako_0406_ 对...耐药没上去的话 吃愈美也是 一开始吃特别大剂量会死 具体多少不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 405,
+          "like_count": 1842,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1539
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T13:18:08.000Z",
+        "description": "你好 在的",
+        "id": "1659548960938409984",
+        "name": "=u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008629862270189568/E_wbZsVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 368,
+          "like_count": 12419,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 4058
+        },
+        "username": "Lqlnlp7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T13:45:01.000Z",
+        "description": "前世@tamako94001201 @tamako_0406 请认真阅读置顶 1314🚪我天天黏着你发消息😚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "tamako94001201"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "tamako_0406"
+              }
+            ]
+          }
+        },
+        "id": "1678037476068163585",
+        "location": "骂我反弹",
+        "name": "tamako（被骗钱还债中",
+        "pinned_tweet_id": "2008535427310121249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844969754655633409/aRDtRO_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 229,
+          "like_count": 1905,
+          "listed_count": 7,
+          "media_count": 638,
+          "tweet_count": 5935
+        },
+        "username": "tamako_0406_",
+        "verified": false
+      }
+    ]
+  }
+}

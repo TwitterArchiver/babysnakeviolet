@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996925573059497985"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1996925642471100695",
+    "created_at": "2025-12-05T12:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996925642471100695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "门槛"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "奶子"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "绿帽"
+        },
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "ATM奴"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aaBrAUfe8A",
+          "end": 72,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1996925642471100695/photo/1",
+          "media_key": "3_1996925573059497985",
+          "start": 49,
+          "url": "https://t.co/aaBrAUfe8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996925642471100695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这种垃圾连本蛇殿下的臭脚都不配舔知道么？还不老实上供磕头？ #门槛 ＃奶子 ＃绿帽 #ATM奴 https://t.co/aaBrAUfe8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996925573059497985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7aBOoEa0AERb8d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996925573059497985"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1996925642471100695",
+        "created_at": "2025-12-05T12:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996925642471100695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "门槛"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "奶子"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "绿帽"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaBrAUfe8A",
+              "end": 72,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1996925642471100695/photo/1",
+              "media_key": "3_1996925573059497985",
+              "start": 49,
+              "url": "https://t.co/aaBrAUfe8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996925642471100695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这种垃圾连本蛇殿下的臭脚都不配舔知道么？还不老实上供磕头？ #门槛 ＃奶子 ＃绿帽 #ATM奴 https://t.co/aaBrAUfe8A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 338,
+          "like_count": 1543,
+          "listed_count": 4,
+          "media_count": 52,
+          "tweet_count": 1330
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1947259127270719643",
+    "created_at": "2025-07-21T15:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T16:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947321682504597772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762050911332081664",
+          "start": 0,
+          "username": "BucketFallen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947321682504597772",
+    "in_reply_to_user_id": "1762050911332081664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947259127270719643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BucketFallen 还有很多脑残的健全人认为自残只是为了博同情和缺爱，神经来着的吧，我自残就是因为我过得惨我纯恨这个世界不行吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1947259127270719643",
+        "created_at": "2025-07-21T15:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T16:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947321682504597772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762050911332081664",
+              "start": 0,
+              "username": "BucketFallen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947321682504597772",
+        "in_reply_to_user_id": "1762050911332081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947259127270719643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BucketFallen 还有很多脑残的健全人认为自残只是为了博同情和缺爱，神经来着的吧，我自残就是因为我过得惨我纯恨这个世界不行吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762050911332081664",
+        "conversation_id": "1947259127270719643",
+        "created_at": "2025-07-21T11:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T12:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947259127270719643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947259127270719643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5289,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有的男的是不是以为在缺爱地雷妹底下评论几句摸摸抱抱就能操到b😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 142,
+          "like_count": 314,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 545
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T09:44:15.000Z",
+        "description": "Introvert nerd coomer edgylord loser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rez331.straw.page",
+                "end": 23,
+                "expanded_url": "https://rez331.straw.page",
+                "start": 0,
+                "url": "https://t.co/vHuBpTCNle"
+              }
+            ]
+          }
+        },
+        "id": "1762050911332081664",
+        "location": "18岁",
+        "name": "湖北精神病人",
+        "pinned_tweet_id": "1946911640311755162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944810777480978433/VtKe9LuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 530,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/vHuBpTCNle",
+        "username": "BucketFallen",
+        "verified": false
+      }
+    ]
+  }
+}

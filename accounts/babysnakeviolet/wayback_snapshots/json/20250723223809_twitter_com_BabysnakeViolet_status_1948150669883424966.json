@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948150663742914560",
+        "3_1948150665391255552"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1948150669883424966",
+    "created_at": "2025-07-23T22:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T23:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948150669883424966"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTlcETf2RZ",
+          "end": 48,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1948150669883424966/photo/1",
+          "media_key": "3_1948150663742914560",
+          "start": 25,
+          "url": "https://t.co/MTlcETf2RZ"
+        },
+        {
+          "display_url": "pic.x.com/MTlcETf2RZ",
+          "end": 48,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1948150669883424966/photo/1",
+          "media_key": "3_1948150665391255552",
+          "start": 25,
+          "url": "https://t.co/MTlcETf2RZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948150669883424966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不回安定区了我要回东横......#地雷系女子 https://t.co/MTlcETf2RZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948150663742914560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwk4tPlWgAAD9fU.jpg",
+        "width": 1521
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948150665391255552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwk4tVuWMAAVjTo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948150663742914560",
+            "3_1948150665391255552"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1948150669883424966",
+        "created_at": "2025-07-23T22:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T23:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948150669883424966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTlcETf2RZ",
+              "end": 48,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1948150669883424966/photo/1",
+              "media_key": "3_1948150663742914560",
+              "start": 25,
+              "url": "https://t.co/MTlcETf2RZ"
+            },
+            {
+              "display_url": "pic.x.com/MTlcETf2RZ",
+              "end": 48,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1948150669883424966/photo/1",
+              "media_key": "3_1948150665391255552",
+              "start": 25,
+              "url": "https://t.co/MTlcETf2RZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948150669883424966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不回安定区了我要回东横......#地雷系女子 https://t.co/MTlcETf2RZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "这里只有一个伤心的婊子 你们不要欺负她/\n求转贴求互fo/ 盗图死妈且挡灾/\n脑子不清醒的时候会乱说话不要生她气",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1943098791655280715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909830160939089920/2oJtPovI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 146,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 559
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989287912933060921",
+    "created_at": "2025-11-15T08:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989608740363145568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936283321568509952",
+          "start": 0,
+          "username": "mingxing311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989608740363145568",
+    "in_reply_to_user_id": "1936283321568509952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989287912933060921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxing311 我超级焦虑我的浦西，..尤其是皮炎，为啥会颜色那么深好绝望"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989287851541045248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tewuMaoAAj74i.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989287912933060921",
+        "created_at": "2025-11-15T08:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989608740363145568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936283321568509952",
+              "start": 0,
+              "username": "mingxing311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989608740363145568",
+        "in_reply_to_user_id": "1936283321568509952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989287912933060921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxing311 我超级焦虑我的浦西，..尤其是皮炎，为啥会颜色那么深好绝望"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989287851541045248"
+          ]
+        },
+        "author_id": "1936283321568509952",
+        "conversation_id": "1989287912933060921",
+        "created_at": "2025-11-14T11:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989287912933060921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBRN0qIr2b",
+              "end": 42,
+              "expanded_url": "https://x.com/mingxing311/status/1989287912933060921/photo/1",
+              "media_key": "3_1989287851541045248",
+              "start": 19,
+              "url": "https://t.co/XBRN0qIr2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989287912933060921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 194665,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以别这么对我吗 我明明什么都没做错 https://t.co/XBRN0qIr2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！主页推广请注意分辨！入门请私信！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1989283040758263870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 276,
+          "like_count": 1228,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1079
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T04:41:43.000Z",
+        "description": "温柔不是懦弱 温柔也是一种力量",
+        "id": "1936283321568509952",
+        "location": "Hong Kong",
+        "name": "辣条魅魔",
+        "pinned_tweet_id": "1989569083109691567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979817604710551552/O5RruRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 24,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 90
+        },
+        "username": "mingxing311",
+        "verified": false
+      }
+    ]
+  }
+}

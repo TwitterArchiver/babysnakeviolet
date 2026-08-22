@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988507697852080181",
+    "created_at": "2025-11-13T02:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988789373102686254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1715329947483734016",
+          "start": 0,
+          "username": "gwydqhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988789373102686254",
+    "in_reply_to_user_id": "1715329947483734016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988507697852080181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gwydqhh 我想被狠狠扇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988507697852080181",
+        "created_at": "2025-11-13T02:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988789373102686254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1715329947483734016",
+              "start": 0,
+              "username": "gwydqhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988789373102686254",
+        "in_reply_to_user_id": "1715329947483734016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988507697852080181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gwydqhh 我想被狠狠扇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715329947483734016",
+        "conversation_id": "1988507697852080181",
+        "created_at": "2025-11-12T07:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988507697852080181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988507697852080181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18625,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被扇b到底啥感觉🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 264,
+          "like_count": 1051,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1014
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T11:32:33.000Z",
+        "description": "地球爆炸世界毁灭｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MR0VkrZ6",
+                "start": 0,
+                "url": "https://t.co/HXOjkHSEmt"
+              }
+            ]
+          }
+        },
+        "id": "1715329947483734016",
+        "location": "🚪｜自用蜂鸟VPN➡️",
+        "name": "你可闭嘴吧",
+        "pinned_tweet_id": "1935046111380783353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984597502465884162/eNM3aahG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955,
+          "following_count": 119,
+          "like_count": 868,
+          "listed_count": 9,
+          "media_count": 121,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/HXOjkHSEmt",
+        "username": "gwydqhh",
+        "verified": false
+      }
+    ]
+  }
+}

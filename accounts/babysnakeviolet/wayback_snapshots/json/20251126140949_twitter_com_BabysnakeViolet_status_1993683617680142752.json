@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993683617680142752",
+    "created_at": "2025-11-26T14:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993683617680142752"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993683617680142752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以人为什么会“出轨”？我不能理解，并非我觉得一个人如果和一个人在一起了就应该完全违背“人性”，我觉得是我没有这一种人性，我没有欲望，需要安慰也可以找心理医生，性爱这种东西对我更是无聊透顶，我所有性经验包括下海都只让我觉得我是在服务别人，也被服务过，但依然无聊无趣。征服或证明，都无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993683617680142752",
+        "created_at": "2025-11-26T14:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993683617680142752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993683617680142752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以人为什么会“出轨”？我不能理解，并非我觉得一个人如果和一个人在一起了就应该完全违背“人性”，我觉得是我没有这一种人性，我没有欲望，需要安慰也可以找心理医生，性爱这种东西对我更是无聊透顶，我所有性经验包括下海都只让我觉得我是在服务别人，也被服务过，但依然无聊无趣。征服或证明，都无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 283,
+          "like_count": 1399,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1248
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

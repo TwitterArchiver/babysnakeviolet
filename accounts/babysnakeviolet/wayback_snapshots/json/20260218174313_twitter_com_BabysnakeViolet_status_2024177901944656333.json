@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2023327864662405407",
+    "created_at": "2026-02-18T17:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024177901944656333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834858254691975173",
+          "start": 0,
+          "username": "TArea55362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024177901944656333",
+    "in_reply_to_user_id": "1834858254691975173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023420925044195419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TArea55362 我这个月因为炮竹一直惊恐发作，我很害怕很大的声音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2023327864662405407",
+        "created_at": "2026-02-18T17:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024177901944656333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834858254691975173",
+              "start": 0,
+              "username": "TArea55362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024177901944656333",
+        "in_reply_to_user_id": "1834858254691975173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023420925044195419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TArea55362 我这个月因为炮竹一直惊恐发作，我很害怕很大的声音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834858254691975173",
+        "conversation_id": "2023327864662405407",
+        "created_at": "2026-02-16T15:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023420925044195419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023420925044195419",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023327864662405407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 对的，很吓人，特别是一连串的炮声让人觉得很崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 439,
+          "like_count": 2061,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1685
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T07:34:49.000Z",
+        "description": "别人的生活是一种习惯性流产//厌男恨女拜屌渴批//不定时锁推中",
+        "id": "1834858254691975173",
+        "name": "宓",
+        "pinned_tweet_id": "1866513931461967882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982834552943853568/jwwEv_Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 147,
+          "like_count": 10547,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 518
+        },
+        "username": "TArea55362",
+        "verified": false
+      }
+    ]
+  }
+}

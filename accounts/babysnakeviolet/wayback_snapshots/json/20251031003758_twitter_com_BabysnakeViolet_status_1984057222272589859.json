@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983864087923827041",
+    "created_at": "2025-10-31T00:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T01:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984057222272589859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813133690672934914",
+          "start": 0,
+          "username": "sjmmm____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984057222272589859",
+    "in_reply_to_user_id": "1813133690672934914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983864087923827041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjmmm____ 都这么萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3377,
+        "height": 1280,
+        "media_key": "7_1983864066167992327",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983864066167992327/pu/img/loY9aA6uyB5L3I3U.jpg",
+        "public_metrics": {
+          "view_count": 114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983864066167992327/pu/vid/avc1/320x568/81DX9NNq389VXWpS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983864066167992327/pu/vid/avc1/480x852/7NUSFBaYqSOF-kfJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983864066167992327/pu/vid/avc1/720x1280/TaMB5fTZq_Nf6gh5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983864066167992327/pu/pl/1E44twM7yeVR38Ve.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983864087923827041",
+        "created_at": "2025-10-31T00:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984057222272589859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813133690672934914",
+              "start": 0,
+              "username": "sjmmm____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984057222272589859",
+        "in_reply_to_user_id": "1813133690672934914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983864087923827041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjmmm____ 都这么萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983864066167992327"
+          ]
+        },
+        "author_id": "1813133690672934914",
+        "conversation_id": "1983864087923827041",
+        "created_at": "2025-10-30T11:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983864087923827041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ditEpdfsaN",
+              "end": 34,
+              "expanded_url": "https://x.com/sjmmm____/status/1983864087923827041/video/1",
+              "media_key": "7_1983864066167992327",
+              "start": 11,
+              "url": "https://t.co/ditEpdfsaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983864087923827041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个右边妹子就这样萌 https://t.co/ditEpdfsaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "母狗一条/叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 224,
+          "like_count": 488,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 772
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T08:49:00.000Z",
+        "description": "傻逼家里蹲，梦想吃爹妈保险活到死\n🚪100\n长期接线下和包养",
+        "id": "1813133690672934914",
+        "name": "头晕目眩",
+        "pinned_tweet_id": "1826278081021227129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822374459963277312/6k8fiILn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 117,
+          "like_count": 1905,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 445
+        },
+        "username": "sjmmm____",
+        "verified": false
+      }
+    ]
+  }
+}

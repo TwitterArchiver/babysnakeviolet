@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2063040739790201048",
+    "created_at": "2026-06-07T13:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063608155742081377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056305554314924032",
+          "start": 0,
+          "username": "anotoetda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063608155742081377",
+    "in_reply_to_user_id": "2056305554314924032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063421259560665188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anotoetda 宝宝不会的，只要会化妆身材匀称都会收的，除非你要去的是那种超级大店超级出名的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063421259560665188].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063421259560665188",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063421259560665188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2063040739790201048",
+        "created_at": "2026-06-07T13:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063608155742081377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056305554314924032",
+              "start": 0,
+              "username": "anotoetda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608155742081377",
+        "in_reply_to_user_id": "2056305554314924032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063421259560665188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anotoetda 宝宝不会的，只要会化妆身材匀称都会收的，除非你要去的是那种超级大店超级出名的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，推文当日记本发，入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 580,
+          "like_count": 2723,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1945
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T09:28:01.000Z",
+        "description": "🚪88🚪188🚪200🚪300🚪520🚪1314接定制露出接原味接一v一接线下接调教已通过大v验证许愿被投喂的小犬希望收到大家的投喂谢谢哥哥爸爸們可以放心投喂犬犬有大v驗證",
+        "id": "2056305554314924032",
+        "name": "小幼犬",
+        "pinned_tweet_id": "2062810477030408390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063139731245015040/9yrHlQNJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 128,
+          "like_count": 164,
+          "listed_count": 7,
+          "media_count": 32,
+          "tweet_count": 168
+        },
+        "username": "anotoetda",
+        "verified": false
+      }
+    ]
+  }
+}

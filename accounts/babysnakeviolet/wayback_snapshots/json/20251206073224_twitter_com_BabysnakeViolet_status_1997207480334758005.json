@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997207477008715776"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1997207480334758005",
+    "created_at": "2025-12-06T07:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997207480334758005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fdEqc6MU2h",
+          "end": 27,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1997207480334758005/photo/1",
+          "media_key": "3_1997207477008715776",
+          "start": 4,
+          "url": "https://t.co/fdEqc6MU2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997207480334758005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恐怖相 https://t.co/fdEqc6MU2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1997207477008715776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eBnmHb0AAyPmG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997207477008715776"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1997207480334758005",
+        "created_at": "2025-12-06T07:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997207480334758005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdEqc6MU2h",
+              "end": 27,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1997207480334758005/photo/1",
+              "media_key": "3_1997207477008715776",
+              "start": 4,
+              "url": "https://t.co/fdEqc6MU2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997207480334758005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恐怖相 https://t.co/fdEqc6MU2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，露脸奶逼纹身同框，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，盗图死爹妈全家被轮奸，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996927684610490368/LRH6feHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 339,
+          "like_count": 1563,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 1338
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

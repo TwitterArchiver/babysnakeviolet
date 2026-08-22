@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993683617680142752",
+    "created_at": "2025-11-27T18:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T19:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994104404992250212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847229736508125185",
+          "start": 0,
+          "username": "liu41043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994104404992250212",
+    "in_reply_to_user_id": "1847229736508125185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993870001355337864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu41043 你为什么会关注我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993683617680142752",
+        "created_at": "2025-11-27T18:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994104404992250212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847229736508125185",
+              "start": 0,
+              "username": "liu41043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994104404992250212",
+        "in_reply_to_user_id": "1847229736508125185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993870001355337864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu41043 你为什么会关注我？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847229736508125185",
+        "conversation_id": "1993683617680142752",
+        "created_at": "2025-11-27T02:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993870001355337864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993870001355337864",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993683617680142752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 这就意味着，当他遇到一个更漂亮的花盆时，他会毫不犹豫的转身离开，选择更精致的花盆，这也是现在大多数人出轨的理由吧？\n因为他们根本没有爱过对方，没有爱过对方的人格，没有爱过对方独一无二的灵魂和回忆，只是爱上了对方运气好被上天赐予的外在，对对方个性与独特的部分从未在意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 284,
+          "like_count": 1418,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1259
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T10:54:32.000Z",
+        "description": "ENG ok  汉语 ok  русский язык ok\n略懂一点法学\n曾经梦想成为作家，后来又想当大律师，现在希望成为一个值得被依赖的人。",
+        "id": "1847229736508125185",
+        "location": "🏠",
+        "name": "Олег 阿列克",
+        "pinned_tweet_id": "1985936478787289405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987421902617616384/Or7IxUx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 505,
+          "like_count": 5512,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 1592
+        },
+        "username": "liu41043",
+        "verified": false
+      }
+    ]
+  }
+}

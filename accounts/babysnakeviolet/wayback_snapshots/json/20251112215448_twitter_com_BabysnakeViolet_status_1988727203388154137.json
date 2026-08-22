@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987675130487537664"
+      ],
+      "media_source_tweet_id": [
+        "1987675343897903364"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988727203388154137",
+    "created_at": "2025-11-12T21:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T22:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988727203388154137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1918236611684233216",
+          "start": 3,
+          "username": "mshuxing"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/zhan0804",
+          "end": 60,
+          "expanded_url": "https://ngl.link/zhan0804",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/1986533715028201472/LfjLxZy2?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1986533715028201472/LfjLxZy2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 37,
+          "status": 200,
+          "title": "@zhan0804: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/zhan0804",
+          "url": "https://t.co/4Wr7gtJ6Z6"
+        },
+        {
+          "display_url": "pic.x.com/YU52r7zV2o",
+          "end": 84,
+          "expanded_url": "https://x.com/mshuxing/status/1987675343897903364/photo/1",
+          "media_key": "3_1987675130487537664",
+          "start": 61,
+          "url": "https://t.co/YU52r7zV2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988727203388154137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987675343897903364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mshuxing: 来了有什么可以改进的地方可以说一下，匿名提问箱https://t.co/4Wr7gtJ6Z6 https://t.co/YU52r7zV2o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1987675130487537664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WkAAGWgAANhXr.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987675130487537664"
+          ],
+          "media_source_tweet_id": [
+            "1987675343897903364"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988727203388154137",
+        "created_at": "2025-11-12T21:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T22:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988727203388154137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1918236611684233216",
+              "start": 3,
+              "username": "mshuxing"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/zhan0804",
+              "end": 60,
+              "expanded_url": "https://ngl.link/zhan0804",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1986533715028201472/LfjLxZy2?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986533715028201472/LfjLxZy2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "@zhan0804: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/zhan0804",
+              "url": "https://t.co/4Wr7gtJ6Z6"
+            },
+            {
+              "display_url": "pic.x.com/YU52r7zV2o",
+              "end": 84,
+              "expanded_url": "https://x.com/mshuxing/status/1987675343897903364/photo/1",
+              "media_key": "3_1987675130487537664",
+              "start": 61,
+              "url": "https://t.co/YU52r7zV2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988727203388154137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987675343897903364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mshuxing: 来了有什么可以改进的地方可以说一下，匿名提问箱https://t.co/4Wr7gtJ6Z6 https://t.co/YU52r7zV2o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987675130487537664"
+          ]
+        },
+        "author_id": "1918236611684233216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987675343897903364",
+        "created_at": "2025-11-10T00:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987675343897903364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/zhan0804",
+              "end": 46,
+              "expanded_url": "https://ngl.link/zhan0804",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1986533715028201472/LfjLxZy2?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986533715028201472/LfjLxZy2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "@zhan0804: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/zhan0804",
+              "url": "https://t.co/4Wr7gtJ6Z6"
+            },
+            {
+              "display_url": "pic.x.com/YU52r7zV2o",
+              "end": 70,
+              "expanded_url": "https://x.com/mshuxing/status/1987675343897903364/photo/1",
+              "media_key": "3_1987675130487537664",
+              "start": 47,
+              "url": "https://t.co/YU52r7zV2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987675343897903364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10987,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来了有什么可以改进的地方可以说一下，匿名提问箱https://t.co/4Wr7gtJ6Z6 https://t.co/YU52r7zV2o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 258,
+          "like_count": 817,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 980
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "cn菡亭序意 可以叫我幼幼 碎碎念 自拍 攻击性言论 中偏重抑焦自残\nBrat｜顺女｜范性恋｜友跨🏳️‍⚧️｜恐顺反顺 |LGBT+全友好🏳️‍🌈\n♌ 狮子座｜INTP-T｜2011.08.04 |纯爱党\n看出成分互fo属性置顶",
+        "id": "1918236611684233216",
+        "name": "幼",
+        "pinned_tweet_id": "1987675343897903364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986523114952392704/U1VlMaIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 104,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 485
+        },
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

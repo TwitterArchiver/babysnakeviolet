@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1983918321461231933",
+    "created_at": "2025-10-30T16:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983927421913985391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945157928010604544",
+          "start": 0,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983927421913985391",
+    "in_reply_to_user_id": "1945157928010604544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983918321461231933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiTvTing 宝宝你卖烟吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1983918305552560128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hLMAna8AAKoLL.jpg",
+        "width": 536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1983918321461231933",
+        "created_at": "2025-10-30T16:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983927421913985391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945157928010604544",
+              "start": 0,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983927421913985391",
+        "in_reply_to_user_id": "1945157928010604544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983918321461231933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiTvTing 宝宝你卖烟吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983918305552560128"
+          ]
+        },
+        "author_id": "1945157928010604544",
+        "conversation_id": "1983918321461231933",
+        "created_at": "2025-10-30T15:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983918321461231933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68kSEisWZ7",
+              "end": 26,
+              "expanded_url": "https://x.com/aiTvTing/status/1983918321461231933/photo/1",
+              "media_key": "3_1983918305552560128",
+              "start": 3,
+              "url": "https://t.co/68kSEisWZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983918321461231933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…… https://t.co/68kSEisWZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "母狗一条/叫我小蛇/职高学历/安卓手机/爱打游戏/前世会所技师夜场陪酒/精分双相吃药怒胖十斤已停药/语言系统已丧失/我很温良/口令赞赏码52入门/没回私信就是没看到",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "一刀脂肪层",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983920682368167937/iemUJr-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 219,
+          "like_count": 473,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 753
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "",
+        "id": "1945157928010604544",
+        "name": "卡卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945158975118319628/fkbhJtnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 92
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1995534256035299358",
+    "created_at": "2025-12-02T18:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T19:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995917418544115721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847229736508125185",
+          "start": 0,
+          "username": "liu41043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995917418544115721",
+    "in_reply_to_user_id": "1847229736508125185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995748228185423976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu41043 在哪啊，俄罗斯？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1995534256035299358",
+        "created_at": "2025-12-02T18:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T19:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995917418544115721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847229736508125185",
+              "start": 0,
+              "username": "liu41043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995917418544115721",
+        "in_reply_to_user_id": "1847229736508125185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995748228185423976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu41043 在哪啊，俄罗斯？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847229736508125185",
+        "conversation_id": "1995534256035299358",
+        "created_at": "2025-12-02T06:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995748228185423976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995748228185423976",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995573732098932901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 我还不确定要不要接呢。它这个工作地点在打仗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 320,
+          "like_count": 1514,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 1307
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T10:54:32.000Z",
+        "description": "ENG ok  汉语 ok  русский язык ok\n略懂一点法学\n曾经梦想成为作家，后来又想当大律师，现在希望成为一个值得被依赖的人。",
+        "id": "1847229736508125185",
+        "location": "🏠",
+        "name": "Олег 阿列克",
+        "pinned_tweet_id": "1985936478787289405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987421902617616384/Or7IxUx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 514,
+          "like_count": 5536,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 1596
+        },
+        "username": "liu41043",
+        "verified": false
+      }
+    ]
+  }
+}

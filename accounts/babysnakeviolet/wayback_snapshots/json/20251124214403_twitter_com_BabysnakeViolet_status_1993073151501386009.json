@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1993073151501386009",
+    "created_at": "2025-11-24T21:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T22:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993073151501386009"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993073151501386009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死？你难受你就几把去死啊，一直跟我比卖惨干什么，不过你最好死之前给我录一下自杀视频方便我好笑你。土逼，赶紧去死吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1993073151501386009",
+        "created_at": "2025-11-24T21:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T22:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993073151501386009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993073151501386009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死？你难受你就几把去死啊，一直跟我比卖惨干什么，不过你最好死之前给我录一下自杀视频方便我好笑你。土逼，赶紧去死吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病不怎么会聊天抗压能力非常差，会回fo每个女孩，入门默认不退，所有女孩都可以找我帮你转发自介，不用帮我转。🥰",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1991500582067269666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 283,
+          "like_count": 1405,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1235
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

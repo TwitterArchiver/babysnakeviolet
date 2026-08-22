@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      }
+    ],
+    "conversation_id": "2081071135249359312",
+    "created_at": "2026-07-25T17:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081071135249359312"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 49,
+          "tag": "combatboots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081071135249359312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "i got a thing for pretty boys with combat boots……#combatboots"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2081071135249359312",
+        "created_at": "2026-07-25T17:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081071135249359312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "combatboots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081071135249359312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i got a thing for pretty boys with combat boots……#combatboots"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 633,
+          "like_count": 3189,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 2068
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

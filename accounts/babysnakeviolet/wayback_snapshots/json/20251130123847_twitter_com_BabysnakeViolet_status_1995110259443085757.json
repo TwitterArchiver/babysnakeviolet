@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1994780272915877920",
+    "created_at": "2025-11-30T12:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995110259443085757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995110259443085757",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 44,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994780272915877920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 健全比是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1994780272915877920",
+        "created_at": "2025-11-30T12:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995110259443085757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995110259443085757",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994780272915877920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 健全比是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812304729432838144",
+        "conversation_id": "1994780272915877920",
+        "created_at": "2025-11-29T14:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994780272915877920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Numiouo/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Numiouo/status/1994450143228084405",
+              "start": 31,
+              "url": "https://t.co/fsFvKYNmve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994780272915877920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2782,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994450143228084405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全逼觉得自己几句话就能好了，很虚伪，非常虚伪，看开你妈呢。 https://t.co/fsFvKYNmve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "裸体注意⚠️，精神病脑残自残嗑药高p傻逼婊子门槛妹一枚，以上所述均为按照本人实际情况，入门打赏默认不退，拜托了我需要钱活着，语音验证免费，视频定制🚪200，私信入门，女孩们跟我互fo互转好不好！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 289,
+          "like_count": 1448,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1285
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜碎碎念｜割手嗑药｜友跨顺女｜泛性恋  偏好流动｜休学中｜不太会说话请见谅｜fo你是暗恋你☆欢迎和我互fo喵｜xp是正太萝莉和神职人员♡｜爱人是酷拉皮卡💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huimu420",
+                "end": 23,
+                "expanded_url": "https://t.me/huimu420",
+                "start": 0,
+                "url": "https://t.co/t5cTc4RQ0i"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "来找我玩",
+        "name": "回木",
+        "pinned_tweet_id": "1993972944926601422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993981078944538624/vBoUQB0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 295,
+          "like_count": 6947,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/t5cTc4RQ0i",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

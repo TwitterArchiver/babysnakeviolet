@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2054140656927609276",
+    "created_at": "2026-05-12T10:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054140658743664652"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054140658743664652",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054140656927609276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发帖的时候没想过卖惨，我几千条推文全是吐苦水和偶尔发疯的思考折磨自己就这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2054140656927609276",
+        "created_at": "2026-05-12T10:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054140658743664652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054140658743664652",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054140656927609276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发帖的时候没想过卖惨，我几千条推文全是吐苦水和偶尔发疯的思考折磨自己就这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2054140656927609276",
+        "created_at": "2026-05-12T10:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054140656927609276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054140656927609276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上个帖子后续是我没有上完钟，因为客人想强迫我，我去包厢自带的厕所时候他尾随过来我刚打开门他就闯进来反锁门脱我衣服，我一直在喊救命是同行救了我不欢而散，出来的时候还又遇到那个男的，以上所述有一个字骗人我全家立马死我一辈子没钱得性病堕入阿鼻地狱不得好死不超生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 559,
+          "like_count": 2626,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1930
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

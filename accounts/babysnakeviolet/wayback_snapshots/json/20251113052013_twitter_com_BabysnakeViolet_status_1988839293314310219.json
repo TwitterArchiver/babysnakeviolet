@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988839070185755016",
+    "created_at": "2025-11-13T05:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T06:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988839293314310219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811690667720212480",
+          "start": 0,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988839293314310219",
+    "in_reply_to_user_id": "1811690667720212480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988839070185755016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y0zarashi 我一直在哭你真的没人性"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988839062170685440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nGlvga0AAo557.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988839070185755016",
+        "created_at": "2025-11-13T05:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988839293314310219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988839293314310219",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988839070185755016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi 我一直在哭你真的没人性"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988839062170685440"
+          ]
+        },
+        "author_id": "1811690667720212480",
+        "conversation_id": "1988839070185755016",
+        "created_at": "2025-11-13T05:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988839070185755016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wMNpsTenmW",
+              "end": 157,
+              "expanded_url": "https://x.com/y0zarashi/status/1988839070185755016/photo/1",
+              "media_key": "3_1988839062170685440",
+              "start": 134,
+              "url": "https://t.co/wMNpsTenmW"
+            },
+            {
+              "display_url": "x.com/BabysnakeViole…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/BabysnakeViolet/status/1988838078845194583",
+              "start": 158,
+              "url": "https://t.co/QONv7wZkrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988839070185755016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988838078845194583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀妈呀，这不是那个四川宜宾才21岁就卖逼的赵婧妤吗？谁告诉你卖穴兴国的？您累就好好的被行政拘留7天以上把自己卖淫的非法所得全部上交给当地派出所，用于公众场合的进修，这下你也不用跟别人说自己被麻将馆的老板诱奸了，当地人见到你就会说，哎呀妈呀，这不是那个知名大妓女吗？ https://t.co/wMNpsTenmW https://t.co/QONv7wZkrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，如果裸体伤害到你的眼睛非常抱歉！\n超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出什么的都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发置顶好不好我爱你！",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520无上限喵",
+        "name": "一刀脂肪层（露脸露逼版）",
+        "pinned_tweet_id": "1988432889684652086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 264,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1052
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mtf  不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。",
+        "id": "1811690667720212480",
+        "location": "我被吴思嫣绿了",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1987869272740421724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980652601982029824/9-ar12mL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 107,
+          "like_count": 27,
+          "listed_count": 6,
+          "media_count": 492,
+          "tweet_count": 2985
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

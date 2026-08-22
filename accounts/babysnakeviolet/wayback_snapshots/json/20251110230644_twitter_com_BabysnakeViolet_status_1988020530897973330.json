@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1987873851028726227",
+    "created_at": "2025-11-10T23:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988020530897973330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        },
+        {
+          "end": 31,
+          "id": "1855035173416714240",
+          "start": 17,
+          "username": "lxngchn123086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988020530897973330",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988020446793789808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange @lxngchn123086"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987873851028726227",
+        "created_at": "2025-11-10T23:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988020530897973330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            },
+            {
+              "end": 31,
+              "id": "1855035173416714240",
+              "start": 17,
+              "username": "lxngchn123086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988020530897973330",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988020446793789808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange @lxngchn123086"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1987873851028726227",
+        "created_at": "2025-11-10T23:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988020446793789808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988020446793789808",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987873851028726227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 曾志超约不了炮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，原推名一刀脂肪层，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 244,
+          "like_count": 576,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 875
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987852149121012136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8081,
+          "following_count": 3187,
+          "like_count": 63582,
+          "listed_count": 14,
+          "media_count": 1307,
+          "tweet_count": 14661
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T23:51:10.000Z",
+        "description": "你们都是臭标志",
+        "id": "1855035173416714240",
+        "name": "巴黎街道工作者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910029901119488000/Buz6Citn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "lxngchn123086",
+        "verified": false
+      }
+    ]
+  }
+}

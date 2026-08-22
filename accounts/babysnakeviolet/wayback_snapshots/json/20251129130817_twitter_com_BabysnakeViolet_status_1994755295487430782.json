@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1994687822767501528",
+    "created_at": "2025-11-29T13:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T14:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994755295487430782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994755295487430782",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994687822767501528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 白兔我就没见过谁体验很好，而且好贵啊，穷逼吃不起啊！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2582,
+        "media_key": "3_1994687804065157127",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66N_U8bkAcOI2A.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2218,
+        "media_key": "3_1994687808615895040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66N_l5aUAAbRH8.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2730,
+        "media_key": "3_1994687804656553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66N_XJbkAA1cAj.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2686,
+        "media_key": "3_1994687804803354625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66N_XsbkAEUz6X.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1994687822767501528",
+        "created_at": "2025-11-29T13:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994755295487430782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994755295487430782",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994687822767501528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 白兔我就没见过谁体验很好，而且好贵啊，穷逼吃不起啊！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994687804065157127",
+            "3_1994687808615895040",
+            "3_1994687804656553984",
+            "3_1994687804803354625"
+          ]
+        },
+        "author_id": "1531874456997863424",
+        "conversation_id": "1994687822767501528",
+        "created_at": "2025-11-29T08:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994687822767501528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vKGDuhgdL",
+              "end": 121,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994687822767501528/photo/1",
+              "media_key": "3_1994687804065157127",
+              "start": 98,
+              "url": "https://t.co/0vKGDuhgdL"
+            },
+            {
+              "display_url": "pic.x.com/0vKGDuhgdL",
+              "end": 121,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994687822767501528/photo/1",
+              "media_key": "3_1994687808615895040",
+              "start": 98,
+              "url": "https://t.co/0vKGDuhgdL"
+            },
+            {
+              "display_url": "pic.x.com/0vKGDuhgdL",
+              "end": 121,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994687822767501528/photo/1",
+              "media_key": "3_1994687804656553984",
+              "start": 98,
+              "url": "https://t.co/0vKGDuhgdL"
+            },
+            {
+              "display_url": "pic.x.com/0vKGDuhgdL",
+              "end": 121,
+              "expanded_url": "https://x.com/guodongmaikefe2/status/1994687822767501528/photo/1",
+              "media_key": "3_1994687804803354625",
+              "start": 98,
+              "url": "https://t.co/0vKGDuhgdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994687822767501528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "已祛魅：白兔bron药物滥用初次体验，间隔3.5小时42t+42t\n文长省流版:如果不是还有负面效果的在话我真的以为自己买到的是糖豆。\n前两天1050mg普瑞和1800mg普瑞会对药效有影响吗？ https://t.co/0vKGDuhgdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "因为过得太惨这个精神病婊子疯掉了。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1993073151501386009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993036035719413760/iwwcNvoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 288,
+          "like_count": 1439,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 1277
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "纵欲无故，嗑药无度/不要做药物的奴隶，不要被任何事物掌控/我会一直给你点赞⌓‿⌓/抑郁焦虑/我脑子有病/同类互fo/发癫/异性恋/恐gay/恐跨/",
+        "id": "1531874456997863424",
+        "location": "明天",
+        "name": "不开心就od",
+        "pinned_tweet_id": "1994668785635311976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 146,
+          "like_count": 6052,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 805
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

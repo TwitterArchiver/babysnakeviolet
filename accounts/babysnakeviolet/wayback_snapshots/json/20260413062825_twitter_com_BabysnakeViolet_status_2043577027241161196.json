@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2043577027241161196",
+    "created_at": "2026-04-13T06:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043577027241161196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043577027241161196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好我是号主家长 妈了个死逼这个畜生,我天天在外面辛苦赚钱他每天在推特到处发傻逼东西 我实在受不了他了 刚才趁他睡觉时我拿刀在他身上捅了三十刀 他已经没气了 各位节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2043577027241161196",
+        "created_at": "2026-04-13T06:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043577027241161196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043577027241161196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是号主家长 妈了个死逼这个畜生,我天天在外面辛苦赚钱他每天在推特到处发傻逼东西 我实在受不了他了 刚才趁他睡觉时我拿刀在他身上捅了三十刀 他已经没气了 各位节哀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 427,
+          "like_count": 2002,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 1748
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

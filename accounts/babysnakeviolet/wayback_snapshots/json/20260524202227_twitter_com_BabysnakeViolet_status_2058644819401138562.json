@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "2058644819401138562",
+    "created_at": "2026-05-24T20:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058644819401138562"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058644819401138562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这时候，她终于可以明确的感知到，她的未来将会是在失败和孤独中死去，这样恐怖的事情事到如今却再不能让她害怕了，仿佛许久之前她就早知道这一切都是冥冥之中必然发生的，一切都是天注定的，她安静等待着，时间像钝刀子在片她的肉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "2058644819401138562",
+        "created_at": "2026-05-24T20:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058644819401138562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058644819401138562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这时候，她终于可以明确的感知到，她的未来将会是在失败和孤独中死去，这样恐怖的事情事到如今却再不能让她害怕了，仿佛许久之前她就早知道这一切都是冥冥之中必然发生的，一切都是天注定的，她安静等待着，时间像钝刀子在片她的肉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2050668191840620596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 573,
+          "like_count": 2690,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 1924
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

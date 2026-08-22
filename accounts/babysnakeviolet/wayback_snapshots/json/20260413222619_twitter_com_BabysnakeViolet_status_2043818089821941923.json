@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990931366285025532",
+    "created_at": "2026-04-13T22:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T23:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043818089821941923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039072056063541248",
+          "start": 0,
+          "username": "rosensmarked"
+        },
+        {
+          "end": 22,
+          "id": "1821560692140544000",
+          "start": 14,
+          "username": "Numiouo"
+        },
+        {
+          "end": 34,
+          "id": "1975516163078594560",
+          "start": 23,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043818089821941923",
+    "in_reply_to_user_id": "2039072056063541248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043817882828886296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosensmarked @Numiouo @Freundis21 知道了豪哥，我没玩过lsd，我知道我有精神病性状不能玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990931366285025532",
+        "created_at": "2026-04-13T22:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043818089821941923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039072056063541248",
+              "start": 0,
+              "username": "rosensmarked"
+            },
+            {
+              "end": 22,
+              "id": "1821560692140544000",
+              "start": 14,
+              "username": "Numiouo"
+            },
+            {
+              "end": 34,
+              "id": "1975516163078594560",
+              "start": 23,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043818089821941923",
+        "in_reply_to_user_id": "2039072056063541248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043817882828886296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosensmarked @Numiouo @Freundis21 知道了豪哥，我没玩过lsd，我知道我有精神病性状不能玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039072056063541248",
+        "conversation_id": "1990931366285025532",
+        "created_at": "2026-04-13T22:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043817882828886296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            },
+            {
+              "end": 25,
+              "id": "1821560692140544000",
+              "start": 17,
+              "username": "Numiouo"
+            },
+            {
+              "end": 37,
+              "id": "1975516163078594560",
+              "start": 26,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043817882828886296",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991153143774880080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet @Numiouo @Freundis21 这种致幻剂会无限放大你当时的情绪感受，如果你长期处于抑郁焦虑，那么很可能，你会在坏旅行当中自残或者寻死。\n二三年那个春风就是自己煮死藤水寻求致幻结果，在幻觉中拿着刀自残失血过多死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，查成分回fo，精神不稳定，\n入门请私信。",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021012123984551936/yRXFIM3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 435,
+          "like_count": 2021,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 1771
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T20:07:29.000Z",
+        "description": "正义之路被暴虐之恶人包围，以慈悲与善人为名引导弱者，那些胆敢残害荼毒我同伴之人我将向他们大施报复\n\n持有思想犯荣誉证书/民间键政家/Ibogaine疗法受益者/封建主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/licallum",
+                "end": 23,
+                "expanded_url": "https://ngl.link/licallum",
+                "start": 0,
+                "url": "https://t.co/zAGHAX30nM"
+              }
+            ]
+          }
+        },
+        "id": "2039072056063541248",
+        "location": "逆向民族主义",
+        "name": "久远寺有珠 (伊博格碱爱好者)",
+        "pinned_tweet_id": "2043812438710342039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042581281222070273/eop2xwyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/zAGHAX30nM",
+        "username": "rosensmarked",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo随缘回-ban也随缘回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（别fo了回不过来了orz）",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3201,
+          "following_count": 2217,
+          "like_count": 9580,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 7871
+        },
+        "username": "Numiouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "提问https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 25,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 2,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 958,
+          "like_count": 8071,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 1415
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

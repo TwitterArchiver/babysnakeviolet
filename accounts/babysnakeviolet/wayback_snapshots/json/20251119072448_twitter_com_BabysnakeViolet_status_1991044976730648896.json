@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1989411335537676405",
+    "created_at": "2025-11-19T07:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991044976730648896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984562414554398723",
+          "start": 0,
+          "username": "Seien0328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991044976730648896",
+    "in_reply_to_user_id": "1984562414554398723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989411335537676405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seien0328 看看那里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1989411335537676405",
+        "created_at": "2025-11-19T07:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991044976730648896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984562414554398723",
+              "start": 0,
+              "username": "Seien0328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991044976730648896",
+        "in_reply_to_user_id": "1984562414554398723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989411335537676405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seien0328 看看那里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984562414554398723",
+        "conversation_id": "1989411335537676405",
+        "created_at": "2025-11-14T19:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T20:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989411335537676405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989411335537676405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想🦌关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！我有精神病我有心理疾病入门默认不退，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 284,
+          "like_count": 1344,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1157
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T10:05:42.000Z",
+        "description": "",
+        "id": "1984562414554398723",
+        "name": "Lychn1s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989410802164760576/k2auRh1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Seien0328",
+        "verified": false
+      }
+    ]
+  }
+}

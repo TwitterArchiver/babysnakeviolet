@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988035810957156352"
+      ]
+    },
+    "author_id": "1289504272506392576",
+    "conversation_id": "1988035813549240792",
+    "created_at": "2025-11-11T00:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T01:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988035813549240792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "福利姬"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ztvwXH9uZJ",
+          "end": 48,
+          "expanded_url": "https://x.com/BabysnakeViolet/status/1988035813549240792/photo/1",
+          "media_key": "3_1988035810957156352",
+          "start": 25,
+          "url": "https://t.co/ztvwXH9uZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988035813549240792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早起拍奶子给🚪哥看然后冻死了。#门槛妹 #福利姬 https://t.co/ztvwXH9uZJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988035810957156352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bsCXjbYAAY9jG.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988035810957156352"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "1988035813549240792",
+        "created_at": "2025-11-11T00:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988035813549240792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "福利姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ztvwXH9uZJ",
+              "end": 48,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/1988035813549240792/photo/1",
+              "media_key": "3_1988035810957156352",
+              "start": 25,
+              "url": "https://t.co/ztvwXH9uZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988035813549240792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早起拍奶子给🚪哥看然后冻死了。#门槛妹 #福利姬 https://t.co/ztvwXH9uZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try...😥现实社恐，验证20，原推名一刀脂肪层，\n叫我小蛇，非常温良，请勿dm猎奇的东西，注意自己的教养...只想回口令，不会跟讨厌的人玩，除非你入我门，也不跟无聊的人闲聊。",
+        "id": "1289504272506392576",
+        "location": "🚪52/200/520",
+        "name": "平川爱理",
+        "pinned_tweet_id": "1983571685854114053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985312799594311680/tw1ZrcTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 244,
+          "like_count": 576,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 876
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

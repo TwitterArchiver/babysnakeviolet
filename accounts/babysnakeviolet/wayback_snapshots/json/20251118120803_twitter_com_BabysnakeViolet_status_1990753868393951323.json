@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1289504272506392576",
+    "conversation_id": "1990712558672883820",
+    "created_at": "2025-11-18T12:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T13:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990753868393951323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990753868393951323",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990712558672883820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 给我一亿我甚至愿意嗦鸡哥的单睾。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_1990712550712086528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BuhIMbEAAnH0X.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289504272506392576",
+        "conversation_id": "1990712558672883820",
+        "created_at": "2025-11-18T12:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990753868393951323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990753868393951323",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990712558672883820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 给我一亿我甚至愿意嗦鸡哥的单睾。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990712550712086528"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1990712558672883820",
+        "created_at": "2025-11-18T09:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990712558672883820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDU7sK1xLE",
+              "end": 37,
+              "expanded_url": "https://x.com/CleverFf050755/status/1990712558672883820/photo/1",
+              "media_key": "3_1990712550712086528",
+              "start": 14,
+              "url": "https://t.co/xDU7sK1xLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990712558672883820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你会为了1亿打他一巴掌吗？ https://t.co/xDU7sK1xLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "swear on my life,i always try😥语音验证20，裸体伤害到你的眼睛非常抱歉！接推广，入门请私信！卖原味丝袜内裤接农粥使命陪玩，超级骚的母狗小蛇想要钱钱，小蛇会给你拍各种视频，野外大街露出都可以求入门，我什么都愿意去做，如果你喜欢我的话求求你帮我转发我的自介好不好我爱你！入🚪默认不退本人高p",
+        "id": "1289504272506392576",
+        "location": "🚪200/520/1314无上限喵",
+        "name": "呆呆蛇",
+        "pinned_tweet_id": "1988937610832884078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988523403670876160/FaJTUfme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 281,
+          "like_count": 1338,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1142
+        },
+        "username": "BabysnakeViolet",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "1988513225185653018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 160,
+          "like_count": 68,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}
